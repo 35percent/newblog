@@ -3,6 +3,7 @@ layout: post
 title: "Elephant Park - planning committee misled?"
 date: 2020-03-01
 subtitle: Lendlease fails to declare public funding for affordable housing
+image: img/eparkaerial.jpg
 ---
 
 Developer Lendlease failed to disclose at [Last week's planning committee meeting](http://35percent.org/2020-03-01-final-heygate-application-planning-committee-misled/) that it was in receipt of public funding, which could have increased the amount of affordable housing at Elephant Park (aka the Heygate estate regeneration). 

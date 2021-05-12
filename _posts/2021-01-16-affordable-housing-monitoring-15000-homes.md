@@ -3,6 +3,7 @@ layout: post
 title: Social Rent or Affordable Rent?
 subtitle: "Five years on from Ombudsman's report the question mark remains."
 date: 2021-01-16
+image: img/neoguardian.png
 ---
 Five years ago today, Southwark Council rejected our [complaint](http://35percent.org/img/ccomplaint15Dec2016.pdf) that affordable homes secured from private developments weren't in fact being delivered, Southwark's Director of Planning [saying](/img/Stage1response28Jan2016.pdf) _‘Southwark Council has appropriate safeguards in place and has not failed in its duties .. therefore your compliant is not upheld"._
 

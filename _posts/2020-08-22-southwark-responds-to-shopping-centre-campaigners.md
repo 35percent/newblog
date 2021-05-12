@@ -3,6 +3,7 @@ layout: post
 title: Southwark responds to shopping centre campaigners
 subtitle: Council put on defensive by fierce criticism
 date: 2020-08-31
+image: img/traderscompunallocated.png
 ---
  
 Southwark Council has posted a [lengthy statement](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=13) in defence of its treatment of the shopping centre traders, as around [40 face the loss of their livelihood](https://latinelephant.org/displaced-traders-with-no-relocation/#Sayed) when the centre closes on 24 September, according to research by local charity Latin Elephant.

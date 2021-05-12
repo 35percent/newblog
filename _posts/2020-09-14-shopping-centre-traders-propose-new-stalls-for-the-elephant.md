@@ -3,6 +3,7 @@ layout: post
 title: Shopping Centre traders propose new stalls for the Elephant
 subtitle: Traders appeal to Mayor Sadiq Khan for his support
 date: 2020-09-14
+image: img/proposal1.png
 ---
 Traders who will be losing their market stalls when the Elephant and Castle shopping closes have come up with [their own proposal for new stalls](https://latinelephant.org/elephant-castle-relocation-proposal/) at the Elephant. Around forty traders face the loss of their businesses and livelihoods when the Centre closes its doors for the last time on 24 September.
 

@@ -3,6 +3,7 @@ layout: post
 title: No room for social rent at Pocket Living on the Old Kent Road
 subtitle: '100% affordable housing, zero social rent, zero family housing'
 date: 2020-10-06
+image: img/pocketplan.png
 ---
 Southwark Council is set to approve a mixed-used residential scheme in the Old Kent Rd Opportunity Area with no social rented housing or family housing, at its [planning committee meeting this evening](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6678&Ver=4).
 

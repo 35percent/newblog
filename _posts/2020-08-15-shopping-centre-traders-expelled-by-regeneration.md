@@ -3,6 +3,7 @@ layout: post
 title: The shopping centre traders expelled by regeneration
 subtitle: "University of the Arts ignores traders' plight"
 date: 2020-08-24
+image: img/lescreenshot.png
 ---
 
 In [our last blog post](http://35percent.org/2020-08-03-UAL-campaigners-demand-withdrawal-black-lives-matter/) we detailed how Up the Elephant and other campaigners had written to the University of the Arts, London (UAL), informing them that at least 28 traders had not been relocated new premises, as they face the closure of their businesses, to make way for the demolition and redevelopment of the shopping centre. [Analysis by Latin Elephant](https://latinelephant.org/displaced-traders-with-no-relocation/) puts the number of traders in peril at between fourty and fifty.
