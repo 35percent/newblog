@@ -4,6 +4,7 @@ date: 2021-03-15
 title: Appeal against Elephant Shopping Centre development tomorrow
 subtitle: Challenge against High Court on 16 and 17 March.
 image: img/lovetheelephantbanner.jpg
+featured: true
 ---
 
 ## Campaigners to hold Rally in support
@@ -19,8 +20,6 @@ Campaigners also believe Southwark's Council’s planning committee was misled a
 [Over £8000](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/) has been raised to support the legal challenge through a CrowdJustice appeal and the  [Up the Elephant](https://twitter.com/UpTheElephant_?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) campaign continues the struggle for a better deal for the [many traders who have not been properly relocated](https://latinelephant.org/public-statement-on-traders-without-relocation/).
 
 [The online rally](https://www.facebook.com/events/436632110919121/), supporting the legal case, will be held on the morning of the appeal and will hear from Mr Flynn, traders, lawyers and trade unionists.
-
-![](http://35percent.org/img/lovetheelephantbanner.jpg)
 
 ## The Elephant and Castle shopping centre appeal rally
 
