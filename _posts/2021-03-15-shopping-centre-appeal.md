@@ -4,11 +4,7 @@ date: 2021-03-15
 title: Appeal against Elephant Shopping Centre development tomorrow
 subtitle: Challenge against High Court on 16 and 17 March.
 image: img/lovetheelephantbanner.jpg
-featured: true
 ---
-
-## Campaigners to hold Rally in support
-
 The long-awaited Court of Appeal hearing against the High Court decision to uphold the planning approval for the demolition and redevelopment of the Elephant and Castle shopping centre will be held on the 16 and 17 March 2021.  The hearing will be online. Permission to mount the appeal was granted to Jerry Flynn, of the 35% Campaign, who is supported by local campaigners Up the Elephant. [David Wolf QC](https://www.matrixlaw.co.uk/member/david-wolfe/) of Matrix Chambers, [Sarah Sackman](https://www.ftbchambers.co.uk/barristers/sarah-sackman) of Francis Taylor Building and [Paul Heron](https://www.pilc.org.uk/paul-heron/) of the Public Interest Law Centre represent Mr Flynn.
 
 The planning approval was [granted by Southwark Council](https://35percent.org/2018-07-09-delancey/) in January 2019 to shopping centre owner and developer Delancey and the appeal follows an unsuccessful [High Court challenge](https://35percent.org/2019-10-17-day-of-decision-for-elephant-shopping-centre/), when Mr Justice Dove refused to quash the planning approval, after a two-day hearing in October 2019. 

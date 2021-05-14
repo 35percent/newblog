@@ -1,0 +1,117 @@
+---
+layout: minimal 
+title: E&C Traders expelled by regeneration
+redirect_to: https://35percent.github.io/traders-expelled-by-regeneration
+---
+
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://getbootstrap.com/docs/4.5/examples/album/album.css">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+</head>
+
+<body>
+
+
+<main role="main">
+
+<div class="jumbotron jumbotron-fluid">
+    <h1 class="display-4">E&C Traders with nowhere to go</h1>
+    <p class="lead">Southwark Council and developer Delancey are making a <a href="https://castlesquarese1.com/">song and dance</a> about the small number Elephant & Castle shopping centre traders who have been allocated re-location space, but have kept very quiet about the <a href="https://docs.google.com/spreadsheets/d/1Ck3EiVyExEH9nf6my520pSy6iT9eyEeD">46 traders who haven't.</a> With the help of <a href="https://latinelephant.org/displaced-traders-with-no-relocation/"> LATIN ELEPHANT</a> and <a href="http://southwarknotes.wordpress.com">SOUTHWARK NOTES</a> we have recorded the voices of those traders whose businesses and livelihoods are being extinguished by the so-called <a href="/shopping-centre">regeneration of Elephant & Castle.</a></p> 
+	</div>
+
+
+
+ <div class="album py-5 bg-light">
+    <div class="container">
+
+      <div class="row">
+{% for trader in site.data.traders %}
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm">
+            <img class="card-img-top" src="{{ trader.image_path }}" alt="{{ trader.name }}">
+            <div class="card-body">
+		    <h5 class="card-title">{{ trader.name }}, {{ trader.ref }}</h5>
+
+		    <p class="card-text">{{ trader.comment | strip_html | truncatewords: 15 }}</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#{{ trader.name | split: ' ' | first }}">
+  Read more 
+</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+{% endfor %}
+
+      </div>
+    </div>
+  </div>
+
+</main>
+
+
+{% for trader in site.data.traders %}
+<!-- Modal -->
+<div class="modal fade" id="{{ trader.name | split: ' ' | first }}" tabindex="-1" aria-labelledby="{{ trader.name | split: ' ' | first }}Label" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+	      <h5 class="modal-title" id="exampleModalLabel">{{ trader.name }}</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+	      {{ trader.comment }}
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}
+
+
+</body>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@35percent_EAN" />
+
+<meta name="twitter:title" content="Over 40 independent traders pushed out by E&C regeneration" />
+
+<meta name="twitter:description" content="Elephant & Castle shopping centre is due to close in just a few weeks and over 40 traders haven't been allocated relocation space in the regeneration." />
+
+<meta name="twitter:image" content="http://35percent.org/img/traderscompunallocated.png" />
+

@@ -1,5 +1,5 @@
 ---
-title: "20 years of planned gentrification"
+title: "20 years of demolitions and sell-offs"
 date: 1997-06-02
 image: img/blairvisitsaylesbury1997.jpg
 layout: page
