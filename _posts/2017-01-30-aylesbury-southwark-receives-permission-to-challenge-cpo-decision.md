@@ -3,10 +3,9 @@ layout: post
 date: 2017-01-30
 title: 'Aylesbury: Southwark finally granted leave to appeal CPO decision.'
 subtitle: Council succeeds at second attempt
+image: img/aylesburyleaseholdersfairprice.png
 ---
 As has been [widely reported](http://www.southwarknews.co.uk/news/council-given-permission-take-aylesbury-estate-cpo-case-high-court-disappointing-blow-campaigners/), Southwark Council finally got permission to make its case against the Secretary of State, for his refusal to grant compulsory purchase powers over Aylesbury estate leaseholders. It was Southwark's second attempt, after first being [flatly refused](/img/Scan0017.pdf) just before Christmas. There can now be a full court hearing, involving all parties, including the leaseholders, probably some time in April.
-
-![](http://35percent.org/img/aylesburyleaseholdersfairprice.png)
 
 Southwark Council leader, Peter John, is no doubt relieved by the decision, but he also appears to be confused. The decision [does not reverse](https://twitter.com/nearlylegal/status/822537665312620546) Sajid Javid's refusal or overturn the CPO - it just allows Southwark to get on to the playing field, so to speak, and to make its case at a full hearing.
 

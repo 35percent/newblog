@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "2019 - New Year's Resolutions"
-subtitle: Ten things Southwark Council should do in 2019
+excerpt: Ten things Southwark Council should do in 2019
 date: 2019-01-14
+image: img/samplecouncilhomessold.png
 ---
 To welcome the New Year and in a spirit of fraternity we have come up with ten actions that Southwark Council can consider taking, in order to ease the effects of the housing crisis and create a fairer future for the borough's residents.
 

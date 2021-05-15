@@ -3,10 +3,9 @@ layout: post
 title: "Scrutiny fails - Southwark submits grounds of appeal"
 subtitle: "Council submits grounds of appeal while Scrutiny Committee rejects call for legal challenge to be reconsidered"
 date: 2016-10-17
+image: img/oscprotest.jpg
 ---
 Last Monday evening, Southwark's Overview and Scrutiny Committee rejected calls for the Council's [decision](http://35percent.org/2016-09-26-council-appeals-aylesbury-cpo-decision/) to appeal against the government's refusal to grant it a CPO against Aylesbury leaseholders to be reconsidered, after it heard that it was powerless to do so.
-
-![](http://35percent.org/img/oscprotest.jpg)
 
 The [Aylesbury estate Leaseholders Group](http://halag.wordpress.com) staged a protest at the meeting, angered at the [damning judgement](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) that their equalities and human rights had been breached and Southwark's refusal to accept the judgement. 
 

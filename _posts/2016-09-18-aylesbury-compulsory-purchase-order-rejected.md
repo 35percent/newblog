@@ -3,9 +3,8 @@ title: "Victory for Aylesbury Leaseholders"
 subtitle: "Government blocks compulsory purchase order"
 layout: post
 date: 2016-09-18
+image: img/alag.png
 ---
-![](http://35percent.org/img/alag.png)
-
 Leaseholders on the Aylesbury estate have won a great victory in defence of their homes, after the Government refused Southwark Council's application to compulsory purchase their properties. 
 
 The judgement is a humiliating blow to the Council, who are found to have not taken reasonable steps to negotiate with the leaseholders and to have not made a _"compelling"_ enough case for the Aylesbury regeneration scheme's merits. 

@@ -3,8 +3,8 @@ title: "Shopping Centre stitch-up - Delancey submits planning application"
 subtitle: "979 new homes, but no social rented. No room for current shop-keepers"
 layout: post
 date: 2016-12-19
+image: img/delanceyaerial.png
 ---
-![](/img/delanceyaerial.png)
 
 Developer Delancey has finally submitted its [application](http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC) for the redevelopment of the [Elephant & Castle shopping centre](http://35percent.org/shopping-centre/) and London College of Communication campus. It will be a mixed use development of shops, offices, homes and campus facilities. It will also provide a new entrance and ticket-hall for the Northern Line tube station.
 

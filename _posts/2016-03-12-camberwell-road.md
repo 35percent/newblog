@@ -2,6 +2,7 @@
 layout: post
 title: "Camberwell Chic"
 date: 2016-03-12
+image: img/cgreen.jpg
 ---
 With the redevelopment of the nearby [Aylesbury](http://crappistmartin.github.io/aylesbury-estate/) and [Elmington estates](http://crappistmartin.github.io/elmington-estate-regeneration/) now under full steam, [epic regeneration](http://www.southwarkregeneration.co.uk/) has now officially embraced Camberwell and social rented housing is the victim.  
 

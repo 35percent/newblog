@@ -2,11 +2,11 @@
 layout: post
 date: 2019-06-01
 title: Malt Street - the next big Old Kent Road development
-subtitle: Big questions for Berkeley Homes still unanswered
+excerpt: Big questions for Berkeley Homes still unanswered
+image: img/okrmap.jpg
 ---
 Southwark's planning committee is to consider yet another major Old Kent Rd development [on Monday](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6391&Ver=4), the fourth so far, after [Ruby Triangle](http://35percent.org/2018-10-08-ruby-triangle-goes-to-committee/), [Cantium Retail park](https://www.london-se1.co.uk/news/view/9869) and [Southernwood Retail Park](http://35percent.org/2019-05-27-southernwood-retail-park/). Southernwood was unanimously approved by Southwark's planning committee just last week, despite objections, including doubts about whether it that it will deliver the maximum reaonable amount of affordable housing. Serious concerns raised about the impact of the scheme on the proposed Bakerloo Line Extension (BLE), were allayed by a last minute letter to the Council from Transport for London (TfL).
 
-![](http://35percent.org/img/okrmap.jpg)
 
 For Malt St, Berkeley Homes [proposes](http://planbuild.southwark.gov.uk/documents/?casereference=17/AP/2773&system=DC) a mixed use development, including 1,300 homes and 7,000 sqm of commercial space, on 1.9 hectares of land behind Asda. It is a 'hybrid' application of two parts, a detailed application for 420 homes, and an outline application for 880 homes.  The total development comprises 11 blocks, including 39 and 44 storey towers, to be built in three phases, with completion by 2027. 
 

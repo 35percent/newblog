@@ -3,13 +3,12 @@ title: 'Heygate nominated for Stirling Prize'
 subtitle: 'First completed phase of Heygate regeneration nominated for architecture award'
 date: 2016-10-04
 layout: post
+image: img/trafalgarplacedemolition.jpg
 ---
 Trafalgar Place, the first completed phase of the Heygate estate redevelopment has been nominated for the Royal Institute of British Architect’s (RIBA) [Stirling Prize](https://www.architecture.com/Awards/Awards2016/StirlingPrize/Home.aspx).
 It follows the nomination last year of [Neo Bankside](http://35percent.org/neo-bankside), another development in north Southwark that [failed](https://www.theguardian.com/artanddesign/architecture-design-blog/2015/jul/21/neo-bankside-how-richard-rogers-new-non-dom-accom-cut-out-the-poor) to provide promised affordable housing.
 
 It’ll be gratifying to ex-Heygate residents that a private development founded on the rubble of their homes is in line for such a prestigious prize, but we would have thought RIBA would be looking for something with a bit more élan. Trafalgar Place’s most distinctive characteristic is that it is built on the footprint of 104 demolished council homes, while itself providing only eight social rented homes out of its total 235 units. Over 60% of its units, combined with those of developer Lendlease’s [One the Elephant](http://35percent.org/one-the-elephant/), were [pre-sold off-plan](http://lendlease2013.reportonline.com.au/annual-report/europe), most likely overseas, before it was even built.
-
-![](http://35percent.org/img/trafalgarplacedemolition.jpg)
 
 What therefore has prompted the nomination of what looks pretty much like every other new development in London?  It cannot be an acknowledgement of its environmental credentials – it has 47 car-parking spaces in what was intended to be a car-free development. Developer Lendlease persuaded Southwark Council that the viability of the whole Heygate redevelopment depended on [having 663 car-parking spaces](http://35percent.org/sustainable-development/#car-free-development), of which the 47 are a small part, despite the Elephant being a car-free development zone, with the highest rating for accessibility to public transport(PTAL 6). Trafalgar Place’s car parking lot also serves to elevate its courtyard above and beyond any public access.
 

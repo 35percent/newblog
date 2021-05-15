@@ -3,10 +3,9 @@ layout: post
 title: Ruby Triangle
 subtitle: First major Old Kent Road application goes to committee
 date: 2018-10-08
+image: img/rubytriangle2.png
 ---
 The first of the very large planning applications lining up to take advantage of the proposed [Old Kent Rd Opportunity Area](http://35percent.org/2016-11-21-old-kent-road-aap-loopholes/) goes to Southwark's [planning committee on Monday 29 October](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6270&Ver=4).  It is for a mixed-use scheme that would include 1152 homes, with 40.5% affordable housing, two-thirds of which would be social rented.  A publicly accessible sports hall/gym and 'pocket park' are also promised. The scheme dubbed the 'Ruby Triangle' is proposed by a [joint venture](https://beta.companieshouse.gov.uk/company/10733947/charges) between [A2Dominion Housing association](http://www.a2dominion.co.uk) and recently-formed developer [Avanton Ltd](http://www.avanton.co.uk), which is [chaired by former defence secretary Sir Michael Fallon](https://www.thetimes.co.uk/article/michael-fallon-takes-on-property-job-with-avanton-nvgttjprt). 
-
-![](http://35percent.org/img/rubytriangle2.png)
 
 Despite the affordable housing offer, the application has nonetheless excited much passionate opposition.  The site is [designated by the Mayor as a SIL - Strategic Industrial Location](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-two-londons-places/policy-3) and the loss of industrial workspace is contrary to the local plan. The proposed development has 3 towers, one of 48 storeys, another of 40 storeys.  The [VitalOKR group](https://www.vitalokr.com/), a coalition of residents, businesses and community groups, have objected to the loss of industrial land and impact on jobs.  Thirteen businesses and a church currently occupy the Ruby Triangle site. 
 

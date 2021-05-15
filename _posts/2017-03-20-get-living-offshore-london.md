@@ -3,6 +3,7 @@ layout: post
 title: Get Living London - get lost HMRC
 subtitle: How Delancey continues to exploit the Elephant and avoid the taxman
 date: 2017-03-20
+image: img/getlivingbvi.png
 ---
 Our last blog [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) how Delancey  has shown great efficiency in its [__Elephant One__ development](http://35percent.org/tribeca-square). Delancey and its development partner bought the site for £8m and then increased the purchase price to £18m by flipping it between companies. This was then used to help [avoid £58.9m](http://35percent.org/2017-03-12-delanceys-dirty-tricks/#fn:1) of planning contributions, including affordable housing. Along the way it gained half an acre of public land with which it was to provide a market square, but subsequently ditched the market.
 

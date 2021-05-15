@@ -3,11 +3,9 @@ layout: post
 title: "CPO legal challenge called in for scrutiny"
 subtitle: "Southwark's decision to challenge the Secretary of State's CPO decision has been called in by its Overview & Scrutiny Committee"
 date: 2016-10-10
+image: img/oscpic.jpg
 ---
 The Aylesbury CPO decision took a further twist this week when Southwark Council's [Overview and Scrutiny Committee](http://moderngov.southwark.gov.uk/mgCommitteeDetails.aspx?ID=308) 'called-in' the [Cabinet's decision](http://35percent.org/2016-09-26-council-appeals-aylesbury-cpo-decision/) to mount a legal challenge, which it will [scrutinise on Monday evening](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=308&MId=5456&Ver=4).
-
-![](http://35percent.org/img/oscpic.jpg)
-*Southwark's Overview & Scrutiny Committee*
 
 The committee only has the power to refer the decision back to Cabinet or Council Assembly for reconsideration and given the political majorities in these bodies, it is very unlikely that the decision to appeal will be reversed. However, the call-in shows the levels of disquiet at Southwark's behaviour. The [Aylesbury Leaseholders Group](http://halag.wordpress.com) is also due to give [evidence](https://halag.files.wordpress.com/2016/10/oscdeputation_10102016.pdf) at the Scrutiny Committee meeting.
 

@@ -3,6 +3,7 @@ layout: post
 title: "Elephant Park - a populist narrative"
 subtitle: "Overseas investors and the Heygate estate"
 date: 2016-11-12
+image: img/westgroveCN.png  
 ---
 Are you __a)__ someone in Southwark in desperate need of a home?
   or __b)__ a property investor in Hong Kong or Singapore?

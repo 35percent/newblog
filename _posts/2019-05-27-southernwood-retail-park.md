@@ -2,13 +2,11 @@
 layout: post
 date: 2019-05-27
 title: Southernwood Retail Park
+excerpt: Third of big four Old Kent Rd developments goes to committee 
+image: img/southernwoodretailpark.jpg
 ---
-
-## Third of big four Old Kent Rd developments goes to committee 
-
 [A proposal](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9580625) for the development of Southernwood Retail Park is due to be decided at Southwark's planning committee [this Tuesday evening](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6489&Ver=4). Developer [Glasgow City Council, acting as trustees for its (Strathclyde) Pension Fund, wants permission](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!KrRBUGorCJrSgSs6BtYYVw%3d%3d!%7d%7d%7d) for a mixed-use development of 725 residential units, with a hotel, cinema, shops, restaurants and offices.  The proposed scheme has seven blocks, including a 48-storey tower.  The site is currently occupied by Argos and Sports Direct, just opposite Tesco and over the road from Burgess Park. 
 
-![](http://35percent.org/img/southernwoodretailpark.jpg)
 
 Southernwood offers, in round figures, 35% affordable housing; 25% of the total housing will be social rent, 10% intermediate, in line with the [emerging New Southwark Plan's](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/local-plan?chapter=4) minimum requirements, giving 219 units.
 

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Canada Water regeneration finally up for approval
-subtitle: "15 hectares of public land, 4000 new homes but affordable housing policy requirements not met."
+excerpt: "15 hectares of public land, 4000 new homes but affordable housing policy requirements not met."
 date: 2019-09-22
+image: img/cwateraerial.jpeg
 ---
 Southwark Council's planning committee is [set to approve](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d) the [largest planning application](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/1604&system=DC) ever submitted in the borough this week, when it considers the redevelopment of Canada Water. This huge 21 hectare site includes the Surrey Quays shopping centre and leisure park and the old Daily Mail printworks.  Developer British Land's (BL) proposals for about 7 million sq ft of development will be considered over two planning meetings on the 25th and 30th September.
 

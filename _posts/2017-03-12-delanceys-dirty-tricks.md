@@ -3,11 +3,9 @@ layout: post
 title: "Delancey's dirty tricks"
 subtitle: "Market Square earmarked for displaced shopping centre traders disappears"
 date: 2017-03-12
+image: img/marketsquare.png
 ---
 Delancey's [application](http://35percent.org/shopping-centre) for the redevelopment of the Elephant & Castle shopping centre includes images of the Market Square, which is part of its neighbouring development __Elephant One__, also owned and built by Delancey.
-
-![](http://35percent.org/img/marketsquare.png)
-*Delancey's new Market Square - with no market*
 
 Eagled-eyed campaigners from [Southwark Notes](http://southwarknotes.wordpress.com) noticed that the CGI images of the Market Square omitted the market stalls that had been [earmarked for displaced shopping centre traders](http://www.london-se1.co.uk/news/view/2298) and [asked the question](https://twitter.com/SouthwarkNotes/status/837818379180322820) why? Local news website SE1 supplied the [answer](https://twitter.com/se1/status/837951356963028992): it turns out that when Delancey [submitted](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) its Market Square ['Management Strategy'](http://35percent.org/img/marketsquaremanagementplan.pdf) for approval last June, it changed its use.
 

@@ -3,10 +3,9 @@ layout: post
 date: 2017-03-05
 title: "Aylesbury CPO appeal - a grounded defence"
 subtitle: "Secretary of State delivers on promise to 'robustly defend' his decision against Southwark's appeal"
+image: img/gofundmemarch.png
 ---
 Thanks to the general public's generous contributions to our [crowdfunding campaign](https://www.gofundme.com/aylesbury-the-right-to-a-community-2uefgf2s){:target="_blank"}, the Aylesbury Leaseholder Group was able to submit its grounds of defence of the [Aylesbury CPO decison](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) last Wedsnesday.  The grounds were prepared by barrister [Chris Jacobs, of Landmark Chambers](http://www.landmarkchambers.co.uk/christopher_jacobs){:target="_blank"}, who successfully represented the leaseholders in the final days of the CPO public inquiry.
-
-![](http://35percent.org/img/gofundmemarch.png)
 
 This is the latest round in the legal battle to maintain the goverment's refusal to grant Southwark Council ownership of the leaseholder's homes.  Southwark has gone to the High Court for a judicial review of the decision, made by Sajid Javid, Secretary of State, Department of Communities and Local Government. Mr Javid has also submitted his grounds of defence and the Aylesbury leaseholders are heartened to see that he is sticking to his [pledge](http://35percent.org/img/SoSresponsetoLbC.pdf){:target="_blank"} to _"defend the claim robustly"_.
 

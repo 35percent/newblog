@@ -3,6 +3,7 @@ layout: post
 title: "Heygate profit - north of the facts"
 subtitle: "Council leader Peter John claims Heygate deal will provide Council with 'north of £100m profit'"
 date: 2016-12-05
+image: img/heygategardens.jpg
 ---
 Council leader Peter John has claimed that Southwark Council will be getting _"north of £100m"_ from the Heygate estate's redevelopment as ['Elephant Park'](http://www.elephantpark.co.uk). He made the claim while being grilled by Steve Cananne of Australian national broadcaster 
 ABC, in a report [broadcast](http://www.abc.net.au/news/2016-11-11/homes-for-profit-not-people./8019560) on Australian prime time television.

@@ -2,13 +2,10 @@
 layout: post
 date: 2019-04-29
 title: Delancey deals double blow to shopping centre traders
----
-
-## Tesco leaves, bingo hall boarded
- 
+excerpt: Tesco leaves, bingo hall boarded
+image: img/schoarding.jpg
+--- 
 Traders at the Elephant and Castle shopping centre were dealt a double blow last week, by the closure of Tesco and the erection of a large unsightly hoarding, isolating shops on the second floor.
-
-![](http://35percent.org/img/schoarding.jpg)
 
 The 8-foot high boards surround the bottom of the escalator to the Palaces Bingo and Bowling Hall, which has now closed.  Delancey claim it is necessary to prevent children getting onto the escalator and becoming a site for anti-social behaviour.  Traders, however, have demanded its removal, saying it is blighting their trade and customers will assume that the centre is closing.
 

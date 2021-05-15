@@ -3,6 +3,7 @@ title: "No profit for Southwark"
 subtitle: "The true value of the Heygate regeneration"
 layout: post
 date: 2016-05-11
+image: img/pjdl.jpg
 ---
 > "Lend Lease have informed the Council that no overage is forecast at the end of phase 1(Trafalgar Place)" [Response to FOI request ref:570320](https://www.whatdotheyknow.com/request/heygate_regeneration_agreement_a#incoming-800392)
 

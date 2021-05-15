@@ -2,6 +2,7 @@
 layout: post
 title: "Town hall sell off - price on application"
 date: 2016-02-12
+image: img/PeckhamTownHall.jpg
 ---
 ![](http://www.london-se1.co.uk/news/imageuploads/1364655642_91.125.225.38.jpg)
 

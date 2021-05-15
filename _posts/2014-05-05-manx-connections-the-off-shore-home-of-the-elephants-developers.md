@@ -3,13 +3,11 @@ layout: post
 title: The Elephant goes offshore
 subtitle: Developer Delancey registers its Elephant & Castle land holdings offshore
 date: 2017-05-05
+image: img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg
 ---
-![](/img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg)
-*Delancey's Jamie Ritblat Celebrating topping out of [__Elephant One__](/tribeca-square) with Southwark's Mayor.*
-
 Developer Delancey has registered its land holdings at the Elephant & Castle to tax havens in Bermuda, Panama and the British Virgin Islands. 
 
-![](/img/shoppingcentrelr.png)
+![](../img/shoppingcentrelr.png)
 *Land Registry deeds for the Elephant & Castle shopping centre*
 
 Delancey has registered both the [shopping centre](/shopping-centre) site and the [Tribeca Square](/tribeca-square) site in the British Virgin Islands. This is confirmed by the Land Registry deeds, which can be viewed [here](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) and [here](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf).

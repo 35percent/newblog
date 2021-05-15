@@ -4,9 +4,8 @@ title: "Affordable housing loopholes in Old Kent Road plan"
 subtitle: "Loopholes in draft Old Kent Rd planning policy offer numerous 
 exploits for developers"
 date: 2016-11-21
+image: img/okrheader.png
 ---
-
-![](http://35percent.org/img/okrheader.png)
 
 Just as Southwark Council embarks on a costly [legal battle to evict Aylesbury 
 leaseholders](http://35percent.org/2016-10-10-aylesbury-cpo-challenge-called-in/) 

@@ -2,9 +2,9 @@
 layout: post
 date: 2019-10-17
 title: 'High Court hearing looms for Elephant shopping centre'
-subtitle: Legal challenge goes to court next week
+excerpt: Legal challenge goes to High Court next week
+image: img/screenshot_leaflet.png
 ---
-![](http://35percent.org/img/screenshot_leaflet.png)
 
 The [legal battle](http://35percent.org/2019-03-05-elephant-shopping-centre-judicial-review/) to quash the planning permission for the [demolition and redevelopment of the shopping centre](http://35percent.org/shopping-centre) reaches the High Court next week, when a judicial review hearing is scheduled for the 22 and 23 October, after being postponed from July.  The challenge is supported by the [Up the Elephant campaign](http://35percent.org/uptheelephant), the [Public Interest Law Centre](http://www.pilu.org.uk/) and [Southwark Law Centre](http://www.southwarklawcentre.org.uk/), as well as by the [35% Campaign](http://35percent.org/2019-07-03-why-we-are-challenging-elephant-and-castle-plans-in-court/). The challenge will be presented by barristers [Sarah Sackman](https://www.ftbchambers.co.uk/barristers/sarah-sackman) of Francis Taylor Building and [David Wolfe QC](https://www.matrixlaw.co.uk/member/david-wolfe/) of Matrix Chambers.
 

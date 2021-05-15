@@ -3,10 +3,9 @@ layout: post
 title: Castle Square - Delancey responds
 subtitle: Small progress but still not enough on traders' temporary premises
 date: 2018-11-24
+image: img/tempboxpark.png
 ---
 Since our [last blog](http://35percent.org/2018-10-30-shopping-centre-legal-challenge/) on the Elephant & Castle shopping centre saga, over 100 objections have been made to the [temporary boxpark proposals](http://35percent.org/boxpark) for traders on Castle Square.
-
-![](http://35percent.org/img/tempboxpark.png)
 
 In response, Delancey has submitted a two-page document covering rent levels, tenancy agreements, service charges, selection criteria, hours of operation, access and the relocation fund. There is now a reconsultation on the planning application proposals.
 

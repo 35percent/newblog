@@ -3,10 +3,9 @@ layout: post
 title: "Elephant & Castle shopping centre update"
 subtitle: "Revised planning application still falls well short of policy requirements"
 date: 2017-09-23
+image: img/delanceyaerial.png
 ---
 After a traders' deputation to Southwark Council and well over 200 objections to the planning application, developer Delancey has amended its plans for the demolition  and redevelopment of the shopping centre.  The original plans had [no provison for current traders, no affordable retail units and no social rented housing](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/).  Delancey's amendments include a [draft local business support & relocation strategy](http://moderngov.southwark.gov.uk/documents/s68297/Report%20Elephant%20and%20Castle%20Shopping%20Centre%20Equalities%20Analysis%20and%20Mitigation%20Projects.pdf), as well as more information about the [affordable housing](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!SeVE7nVBcuVxpQARghoUbA%3d%3d!%7d%7d%7d) offer.
-
-![](http://35percent.org/img/delanceyaerial.png)
 
 However, the application is not much better for any of these changes.  At local community meetings organised by the Walworth Society and Elephant Amenity Network, traders described the relocation strategy as 'vague'. There will be a relocation fund to assist traders, but Delancey will not say how large it will be, nor who exactly will qualify for payments.  Seven off-site units in the new Elephant Rd development are mentioned as alternative premises for traders, as well as unbuilt retail units at Lendlease's [Elephant Park](http://elephantpark.co.uk) and garage areas underneath nearby council block, Perronet House, but this is nowhere near enough - Southwark itself has identified [45 'local operators'](http://moderngov.southwark.gov.uk/documents/s68297/Report%20Elephant%20and%20Castle%20Shopping%20Centre%20Equalities%20Analysis%20and%20Mitigation%20Projects.pdf), but there are many more, once kiosks, stalls and sub-leased shop units are taken into account.
 

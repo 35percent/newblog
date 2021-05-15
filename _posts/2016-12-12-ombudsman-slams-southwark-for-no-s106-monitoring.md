@@ -3,10 +3,9 @@ layout: post
 title: "Southwark's lost section 106 social housing"
 subtitle: "Ombudsman finds Council doesn't know how much social housing it's getting from developers"
 date: 2016-12-12
+image: img/LGOFinalDecisionSOR.png
 ---
 The Local Government Ombudsman has issued the [damning judgement](http://35percent.org/img/LGOFinalDecisionSOR.pdf) that Southwark Council has no procedure to ensure that social rented housing approved by the Council's planning committee is actually being delivered. The Ombudsman further found that without a monitoring procedure _'it is hard to know ..how many social housing units...developers [have] delivered'. Or indeed, how many remain social housing units.’_    
-
-![](http://35percent.org/img/LGOFinalDecisionSOR.png "Ombudsman decision")
 
 The Ombudsman's decision came after the 35% Campaign [referred](http://35percent.org/img/Ombudsman18July2016.pdf) its [complaint](http://35percent.org/img/ccomplaint15Dec2016.pdf) that planning consents were being breached, listing 43 developments where we thought the social rented housing may not have been delivered as required.
 

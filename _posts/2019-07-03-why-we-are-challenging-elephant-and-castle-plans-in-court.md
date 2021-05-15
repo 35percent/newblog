@@ -2,11 +2,9 @@
 layout: post
 title: "Why we're challenging the Elephant & Castle redevelopment plans in court"
 date: 2019-07-03
+image: img/lovetheelephantbanner.jpg
+excerpt: Southwark Council - demolishing council homes, generating better people 
 ---
-
-## Southwark Council - demolishing council homes, generating better people 
-
-![](http://35percent.org/img/lovetheelephantbanner.jpg)
 
 Twenty years ago, Fred Manson, Southwark Council's Director of Regeneration laid out the aims of the Labour council's new regeneration strategy in industry magazine, the Estates Gazette: _"We need to have a wider range of people living in the borough"_ because _"social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ As the Gazette reported it, this was _"part of a deliberate process of gentrification that will result in social housing being replaced by owner occupied dwellings and developers being given free rein to build luxury flats"_ [^1].
 
