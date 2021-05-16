@@ -7,11 +7,11 @@ The Compulsory Purchase of the remaining 3 leaseholders on the Heygate estate ha
 
 > "We are being short-changed and priced out of the area. I am being offered just £150,000 for my two-bed flat, when the new-build two-bed Heygate flats are currently being marketed overseas for upwards of £455,000." __(Heygate Leaseholder, Mojisola Ojeikere - 63 Marston)__
 
-It is not surprising that Mr Pickles approved Southwark's application. The decision is taken on the basis that the estate is now empty and takes little account that it was once the home to 3,000 people. Mr Pickles decided that it was in the public interest for the development to proceed rather than to allow the leaseholders to keep their homes. The leaseholders' responses can be seen in this [BBC report](http://www.bbc.co.uk/news/uk-england-london-23371735).
+It is not surprising that Mr Pickles approved Southwark's application. The decision is taken on the basis that the estate is now empty and takes little account that it was once the home to 3,000 people. Mr Pickles decided that it was in the public interest for the development to proceed rather than to allow the leaseholders to keep their homes. The leaseholders' responses can be seen in this [BBC report](https://www.bbc.co.uk/news/uk-england-london-23371735).
 
-![](http://southwarknotes.files.wordpress.com/2012/09/418865_406280396101674_377969546_n.jpg)
+![](https://southwarknotes.files.wordpress.com/2012/09/418865_406280396101674_377969546_n.jpg)
 
-The decision was the result of a 4 day public inquiry in February this year. Some points in Inspector Wenda Fabian's [conclusions](http://crappistmartin.github.io/images/Heygate_CPO_Inspectors_Report.pdf) are worth noting:
+The decision was the result of a 4 day public inquiry in February this year. Some points in Inspector Wenda Fabian's [conclusions](https://crappistmartin.github.io/images/Heygate_CPO_Inspectors_Report.pdf) are worth noting:
 
 She says _"The quantity of the social rented accommodation on the site of the former estate would be dramatically reduced, some 71 units compared to the 750 formerly existing."_ The Inspector goes on to note that the 'affordable' rented homes would be provided at higher levels of rent than were current on the estate. 
 
@@ -21,7 +21,7 @@ The Inspector addressed the vexed question of the scheme's financial viability. 
 
 In relation to viability, the Inspector allowed the need for 616 new car parking spaces despite the requirements set out in policy that there should be none.
 
-The Inspector had little doubt that the shopping centre situation can be resolved. She says _"its regeneration by the current owner is still feasible and Lend Lease is cooperating in the redevelopment project discussions on this basis."_ Since it has been just [been reported](http://www.london-se1.co.uk/news/view/6937) that the owners of the shopping centre are now considering its sale unless Southwark approves its development plans [(so far resisted)](http://www.london-se1.co.uk/news/view/6808), it remains to be seen whether this confidence is justified.   
+The Inspector had little doubt that the shopping centre situation can be resolved. She says _"its regeneration by the current owner is still feasible and Lend Lease is cooperating in the redevelopment project discussions on this basis."_ Since it has been just [been reported](https://www.london-se1.co.uk/news/view/6937) that the owners of the shopping centre are now considering its sale unless Southwark approves its development plans [(so far resisted)](https://www.london-se1.co.uk/news/view/6808), it remains to be seen whether this confidence is justified.   
 
 ## What Next?
 The council will now write to the objectors and inform them of the decision. After two months, ownership of the homes will transfer to Southwark Council.

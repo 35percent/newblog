@@ -37,7 +37,7 @@ The proposed New Southwark Plan makes no requirement to replace any of the child
 
 Campaigners and residents giving evidence at the EIP also pointed out that there were three separate policies for play space and open space in the AAAP (PL5, PL6, PL7), and that they provided space well beyond that which was standard.  This generous allocation of space in the AAAP reflects the estate's design, around an extensive network of children's and youth play spaces.  Campaigners noted that this was part of the family orientation of the AAAP, and that these policies would need equal prominence in the NSP, to make sure that families remained a priority in the redevelopment.
 
-![](http://35percent.org/img/aylesburycourts.jpg)
+![](https://35percent.org/img/aylesburycourts.jpg)
 
 ## Replacement Social Housing
 
@@ -45,7 +45,7 @@ In March 2019, Southwark [announced](https://www.southwarknews.co.uk/news/aylesb
 
 The New Southwark Plan follows through on this, now [saying that](https://www.southwark.gov.uk/assets/attach/38832/EIP202a-Aylesbury-Background-Paper-Update-20042021.pdf) *"it would now be appropriate to consider an increased number of homes within  the  land  covered  by  the Action Area Core, replacing  all  the  existing  social  homes within the footprint of the estate".* 
 
-But only 148 social rented units have been delivered so far, with a further 581 council houses under construction on the First Development Site.  These leaves about 1,500 social rented units to be built, which is about half of the total remaining development, if Southwark is to replace the Aylesbury's social rented housing ([see Table 14 here](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d)).
+But only 148 social rented units have been delivered so far, with a further 581 council houses under construction on the First Development Site.  These leaves about 1,500 social rented units to be built, which is about half of the total remaining development, if Southwark is to replace the Aylesbury's social rented housing ([see Table 14 here](https://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d)).
 
 Meantime, Notting Hill Genesis remain in possession of a planning permission that allows for a loss of social rented units, which points to either further increases in density or a deal with Notting Hill Genesis, [as was done for the First Development Site](https://www.35percent.org/2020-07-12-aylesbury-estate-fds-variation/), or some combination of the two.
 
@@ -53,9 +53,9 @@ Meantime, Notting Hill Genesis remain in possession of a planning permission tha
 
 The NSP described the Aylesbury estate as *"characterised by large concrete slab buildings built in the mid-1960s –70s, now at the end of their service life."*
 
-This drew criticism from residents, leading to a change of wording. Further [objections during the EIP hearing](https://www.youtube.com/watch?v=l3CohnTQXhI), argued that the Council had submitted no evidence supporting the claim that the estate was at the end of its service life and had failed to investigate whether refurbishment could be a more viable and sustainable option.  This was contrasted to Southwark's decision [to bail out](http://35percent.org/2020-07-12-aylesbury-estate-fds-variation/) Notting Hill Genesis housing, at a cost of over £200m, after the housing association failed to deliver the First Development site, evidently [hit with financial viability problems](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506). 
+This drew criticism from residents, leading to a change of wording. Further [objections during the EIP hearing](https://www.youtube.com/watch?v=l3CohnTQXhI), argued that the Council had submitted no evidence supporting the claim that the estate was at the end of its service life and had failed to investigate whether refurbishment could be a more viable and sustainable option.  This was contrasted to Southwark's decision [to bail out](https://35percent.org/2020-07-12-aylesbury-estate-fds-variation/) Notting Hill Genesis housing, at a cost of over £200m, after the housing association failed to deliver the First Development site, evidently [hit with financial viability problems](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506). 
 
-Successful examples of the refurbishment of estates built using the same system as the Aylesbury and which might usefully be examined, can be found on the [Six Acres estate](http://crappistmartin.github.io/images/OCD28_SixAcresestateRefurb_Illustrations.pdf) in Islington and the [Doddington estate](https://35percent.org/img/doddington.pdf) in Battersea.
+Successful examples of the refurbishment of estates built using the same system as the Aylesbury and which might usefully be examined, can be found on the [Six Acres estate](https://crappistmartin.github.io/images/OCD28_SixAcresestateRefurb_Illustrations.pdf) in Islington and the [Doddington estate](https://35percent.org/img/doddington.pdf) in Battersea.
 
 ![](https://35percent.org/img/sixacresbeforeafter.jpg)
 

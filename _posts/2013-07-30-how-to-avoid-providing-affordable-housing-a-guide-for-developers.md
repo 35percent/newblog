@@ -11,18 +11,18 @@ As can be imagined, nearly all developers opt to submit a ‘financial viability
 In planning terms affordable housing is known as a section 106 obligation, and producing viability reports for developers is big business.
 
 
-Companies like Savills offer a [premium service](http://www.savills.co.uk/services/planning-and-development/planning.aspx), but for between £1,000 - £3,000 ['S106 Management Ltd'](http://www.s106management.co.uk/) will produce a viability report that reduces or eliminates your affordable housing obligation. You can then take a holiday with the money that you have saved or pile it into your wheelbarrow as their website illustrates:
+Companies like Savills offer a [premium service](https://www.savills.co.uk/services/planning-and-development/planning.aspx), but for between £1,000 - £3,000 ['S106 Management Ltd'](https://www.s106management.co.uk/) will produce a viability report that reduces or eliminates your affordable housing obligation. You can then take a holiday with the money that you have saved or pile it into your wheelbarrow as their website illustrates:
 
-![](http://crappistmartin.github.io/images/s106management2.jpg)
+![](https://crappistmartin.github.io/images/s106management2.jpg)
 
 Viability reports are confidential, they are not made public and even members of the planning committee do not see them. They have to rely on the recommendation of planning officers (who in turn rely upon an assessment by the District Valuer’s Service).
 
-So the [Information Commissioner's decision](http://betterelephant.github.io/images/HeygateFOICommissionersReport.pdf) to order the release of Lend Lease's viability report for the Heygate masterplan is a significant one. He particularly emphasises the importance of transparency in planning matters, and the need to maintain public confidence in the authority's decisions. 
+So the [Information Commissioner's decision](https://betterelephant.github.io/images/HeygateFOICommissionersReport.pdf) to order the release of Lend Lease's viability report for the Heygate masterplan is a significant one. He particularly emphasises the importance of transparency in planning matters, and the need to maintain public confidence in the authority's decisions. 
 
-Southwark is [committed to transparency](http://www.youtube.com/watch?v=sbSCIuaLFQ4&feature=share&list=UU1yTdlADczSqDS-DsEliI8A), it must now accept the Commissioner's decision and release the report. 
+Southwark is [committed to transparency](https://www.youtube.com/watch?v=sbSCIuaLFQ4&feature=share&list=UU1yTdlADczSqDS-DsEliI8A), it must now accept the Commissioner's decision and release the report. 
 
 
-![](http://crappistmartin.github.io/images/s106management.jpg)
+![](https://crappistmartin.github.io/images/s106management.jpg)
 
 
 

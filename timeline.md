@@ -11,5 +11,5 @@ excerpt: Charting Southwark's disastrous regeneration of Elephant & Castle
 <meta name="twitter:site" content="@35percent_EAN">
 <meta name="twitter:title" content="Elephant & Castle regeneration timeline">
 <meta name="twitter:description" content="Documenting London's most disastrous regeneration scheme.">
-<meta name="twitter:image" content="http://35percent.org/img/timelinescreenshot.png">
+<meta name="twitter:image" content="https://35percent.org/img/timelinescreenshot.png">
 

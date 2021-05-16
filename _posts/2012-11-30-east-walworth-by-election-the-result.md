@@ -16,4 +16,4 @@ Questions from the floor were informed and to the point.  All three candidates g
 The clip below gives a flavour of debate at the meeting. Ben Johnson speaks first followed by Stuart Millson and then Rebecca Lury. The question they are answering is "will they support the financial viability assessments for the Heygate redevelopment being made public?"
 Apologies for the poor sound quality. 
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/q767lVqzYtE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q767lVqzYtE" frameborder="0" allowfullscreen></iframe>

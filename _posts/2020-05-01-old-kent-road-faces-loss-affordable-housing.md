@@ -6,13 +6,13 @@ subtitle: Berkeley Homes threatens to reduce affordable housing at Malt Street
 image: images/malt.png
 ---
 
-[Berkeley Homes](http://www.berkeley-oldkentroad.co.uk/) is the first developer in Southwark to threaten to reduce the affordable housing in one of its schemes, since the onset of the Coronavirus crisis.  Berkeley secured planning permission for the [Malt St development](http://35percent.org/2019-06-01-malt-street-berkeley-homes-old-kent-road/), just off the Old Kent Rd, in June 2019, with a promise to build 40% affordable housing.  Since then it has joined-up with Peabody, who had a smaller, neighbouring development on [Nyes Wharf](http://moderngov.southwark.gov.uk/documents/s77120/Item%203%20-%20Report%2017AP4596.pdf).  Together the two sites will provide 1,569 new homes, with 40% affordable housing (359 at social rent and 222 shared-ownership), [delivered by Peabody](https://www.peabodysales.co.uk/blog/future-developments-sales-launches/peabody-secure-deal-to-deliver-224-new-shared-ownership-homes-in-southwark-in-collaboration-with-berkeley-homes/).
+[Berkeley Homes](https://www.berkeley-oldkentroad.co.uk/) is the first developer in Southwark to threaten to reduce the affordable housing in one of its schemes, since the onset of the Coronavirus crisis.  Berkeley secured planning permission for the [Malt St development](https://35percent.org/2019-06-01-malt-street-berkeley-homes-old-kent-road/), just off the Old Kent Rd, in June 2019, with a promise to build 40% affordable housing.  Since then it has joined-up with Peabody, who had a smaller, neighbouring development on [Nyes Wharf](https://moderngov.southwark.gov.uk/documents/s77120/Item%203%20-%20Report%2017AP4596.pdf).  Together the two sites will provide 1,569 new homes, with 40% affordable housing (359 at social rent and 222 shared-ownership), [delivered by Peabody](https://www.peabodysales.co.uk/blog/future-developments-sales-launches/peabody-secure-deal-to-deliver-224-new-shared-ownership-homes-in-southwark-in-collaboration-with-berkeley-homes/).
 
-![](http://35percent.org/images/malt.png)
+![](https://35percent.org/images/malt.png)
 
-Now a [planning committee briefing](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) reveals that this affordable housing is at _'risk'_  because Berkeley intends to mount an appeal that will reopen the question of the viability of the scheme.  To prevent this happening, the briefing recommends approval of an unprecedented clause in Southwark's  s106 planning agreement with Berkeley, that could see all the affordable housing lost, should development partner, [Peabody] hit financial trouble.
+Now a [planning committee briefing](https://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) reveals that this affordable housing is at _'risk'_  because Berkeley intends to mount an appeal that will reopen the question of the viability of the scheme.  To prevent this happening, the briefing recommends approval of an unprecedented clause in Southwark's  s106 planning agreement with Berkeley, that could see all the affordable housing lost, should development partner, [Peabody] hit financial trouble.
 
-The [Southwark Law Centre](http://www.southwarklawcentre.org.uk/) has [written](https://docdro.id/eG9icIa) to the planning committee, objecting to the proposed clause and requesting a deferral, to allow the serious issues it raises to be properly addressed.
+The [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) has [written](https://docdro.id/eG9icIa) to the planning committee, objecting to the proposed clause and requesting a deferral, to allow the serious issues it raises to be properly addressed.
  
 
 ## Why a Mortgagee in Possession (MIP) clause matters
@@ -35,11 +35,11 @@ Peabody also wants the GLA MIP adopted, because it would allow them to borrow mo
 
 ## Berkeley turns the screw
 
-![](http://35percent.org/img/pidgley.jpg)
+![](https://35percent.org/img/pidgley.jpg)
 
 Berkeley backs Peabody, saying that it cannot, or will not, proceed without them. Berkeley goes on to threaten to reduce the affordable housing in the scheme, if the GLA MIP clause is not agreed, by way of an appeal to the government of ['non-determination'](https://www.planningportal.co.uk/info/200232/planning_applications/58/the_decision-making_process/8).  Berkeley would argue that Southwark had failed to conclude the s106 legal agreement in the required time, and also reopen the question of the viability of the scheme [^5]. Berkeley has a track record for such manouvers; [this 2018 Guardian report](https://www.theguardian.com/business/2018/sep/03/berkeley-calls-affordable-housing-targets-unviable-as-chairman-earns-174m) shows that Berkeley has reduced its affordable housing obligations using viability reviews in almost all of its London schemes.  
 
-Southwark's briefing tries to make the best of things; as well as emphasising the unlikelihood of any default, it claims that this decision will _'not therefore set a precedent for other schemes.'_  The Mayor has different ideas - he wants to see [his MIP clauses used across London](https://www.housing.org.uk/globalassets/files/resource-files/gla_practice_note_mortgagee_in_possession_january_2019.pdf) and says they will be used for anything he 'calls-in', (such as the [Biscuit Factory](http://35percent.org/2020-02-17-biscuit-factory-is-back/)) and that he _'will promote their use for other schemes that are referable...and non-referable'_ ie basically everything [^6].
+Southwark's briefing tries to make the best of things; as well as emphasising the unlikelihood of any default, it claims that this decision will _'not therefore set a precedent for other schemes.'_  The Mayor has different ideas - he wants to see [his MIP clauses used across London](https://www.housing.org.uk/globalassets/files/resource-files/gla_practice_note_mortgagee_in_possession_january_2019.pdf) and says they will be used for anything he 'calls-in', (such as the [Biscuit Factory](https://35percent.org/2020-02-17-biscuit-factory-is-back/)) and that he _'will promote their use for other schemes that are referable...and non-referable'_ ie basically everything [^6].
 
 ## What we think
 
@@ -49,21 +49,21 @@ So, while it would be easy for Southwark's planning committee to approve the cla
 
 This is the thin end of a very long wedge.  These clauses have already been used in Islington, Tower Hamlets and Lambeth.  They are being actively promoted by the GLA and the Mayor.  Once they proliferate the whole principle of affordable housing being for _'in perpetuity'_ will start to be lost and developers and their registered provider partners will use the same kind of ingenuity that they have used with viability assessments to squeeze real affordable housing out of London [^7].
 
-The [briefing and its recommendation](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf), will be considered by the [planning committee meeting on Monday 4 May](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6643&Ver=4), the first to be held online.
+The [briefing and its recommendation](https://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf), will be considered by the [planning committee meeting on Monday 4 May](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6643&Ver=4), the first to be held online.
 
 
 __Footnotes:__
 
-[^1]: [MIP S106 Briefing-Malt St and Nyes Wharf](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) paras 14,1
+[^1]: [MIP S106 Briefing-Malt St and Nyes Wharf](https://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) paras 14,1
 
-[^2]: [MIP S106 Briefing-Malt St and Nyes Wharf](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) paras 19, 17
+[^2]: [MIP S106 Briefing-Malt St and Nyes Wharf](https://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) paras 19, 17
 
-[^3]: [MIP S106 Briefing-Malt St and Nyes Wharf](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) para 8, 14
+[^3]: [MIP S106 Briefing-Malt St and Nyes Wharf](https://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) para 8, 14
 
-[^4]: [MIP S106 Briefing-Malt St and Nyes Wharf](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) para 16, 15, 16, 9
+[^4]: [MIP S106 Briefing-Malt St and Nyes Wharf](https://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) para 16, 15, 16, 9
 
-[^5]: [MIP S106 Briefing-Malt St and Nyes Wharf](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) para 12
+[^5]: [MIP S106 Briefing-Malt St and Nyes Wharf](https://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) para 12
 
-[^6]: [MIP S106 Briefing-Malt St and Nyes Wharf](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf)  para 23, [GLA MIP s106 standard clauses, practice note Jan 2019](https://www.housing.org.uk/globalassets/files/resource-files/gla_practice_note_mortgagee_in_possession_january_2019.pdf) para 8
+[^6]: [MIP S106 Briefing-Malt St and Nyes Wharf](https://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf)  para 23, [GLA MIP s106 standard clauses, practice note Jan 2019](https://www.housing.org.uk/globalassets/files/resource-files/gla_practice_note_mortgagee_in_possession_january_2019.pdf) para 8
 
-[^7]: [MIP S106 Briefing-Malt St and Nyes Wharf](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) para 24
+[^7]: [MIP S106 Briefing-Malt St and Nyes Wharf](https://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) para 24

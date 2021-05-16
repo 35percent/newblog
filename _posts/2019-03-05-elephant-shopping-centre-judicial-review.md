@@ -11,7 +11,7 @@ The legal challenge argues that Southwark were misled by shopping centre owner a
 
 A CrowdJustice appeal [has been launched](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/) to help fund the challenge and donations can be made [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction).
 
-![](http://35percent.org/img/crowdjustice.png)
+![](https://35percent.org/img/crowdjustice.png)
  
 ## A destructive scheme
 The action is being mounted because Delancey's scheme will destroy and displace the local community, while allowing Delancey a required profit of £137m – 
@@ -27,9 +27,9 @@ Even the 116 social rented homes promised could be at risk; the devil is in the 
 
 We want the planning approval quashed and then we want a development scheme that provides homes and shops that are truly affordable for local people.
 
-Our legal challenge is supported by the [Public Interest Law Centre](http://www.pilu.org.uk/paul-heron/) and [Southwark Law Centre](http://www.pilu.org.uk/paul-heron/).  We will be represented by barristers [Sarah Sackman](https://www.ftbchambers.co.uk/barristers/sarah-sackman) of Francis Taylor Building and [David Wolfe QC](https://www.matrixlaw.co.uk/member/david-wolfe/) of Matrix Chambers.
+Our legal challenge is supported by the [Public Interest Law Centre](https://www.pilu.org.uk/paul-heron/) and [Southwark Law Centre](https://www.pilu.org.uk/paul-heron/).  We will be represented by barristers [Sarah Sackman](https://www.ftbchambers.co.uk/barristers/sarah-sackman) of Francis Taylor Building and [David Wolfe QC](https://www.matrixlaw.co.uk/member/david-wolfe/) of Matrix Chambers.
 
-![](http://35percent.org/img/lovetheelephant.jpg)
+![](https://35percent.org/img/lovetheelephant.jpg)
 
 ## Please donate!
 We must raise at least **£5000** to be able to mount this vital challenge and for that we need your help. All funds will go towards the legal costs of the case. If we lose the case we will have to pay the other side's costs. If we win, we will be able to pay our own lawyers!
@@ -40,13 +40,13 @@ Please share this page with you friends and contacts!
 
 Any [donation](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/) you can make will help in this crucial fight to make London a city where the needs of our diverse communities come before the profits of offshore property developers.
 
-You can read more about Delancey's desructive plans [here.](http://35percent.org/shopping-centre)
+You can read more about Delancey's desructive plans [here.](https://35percent.org/shopping-centre)
 
-![](http://35percent.org/img/lospropertydevelopersnopasaran2.jpg)
+![](https://35percent.org/img/lospropertydevelopersnopasaran2.jpg)
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@35percent_EAN">
 <meta name="twitter:title" content="Elephant and Castle plans - Judicial Review sought">
 <meta name="twitter:description" content="Crowdfunding launched to support legal challenge to the planning approval for redevelopment of Elephant and Castle shopping centre.">
-<meta name="twitter:image" content="http://35percent.org/img/shoppingcentreappealcomp.png">
+<meta name="twitter:image" content="https://35percent.org/img/shoppingcentreappealcomp.png">
 

@@ -9,7 +9,7 @@ As Delancey [announces](https://www.london-se1.co.uk/news/view/10081) its intent
 
 Latin Elephant's web-page has an [interactive map](https://latinelephant.org/map/#Q5), accompanied by supporting evidence, which narrates the decline in trader's numbers, up to late spring 2019.  Latin Elephant’s figures show that there were originally 130 independent traders operating in January 2018, of whom only around 40 will be relocated, if the relocation strategy continues on its present course.  
 
-![](http://35percent.org/img/latinelephantmap.png)
+![](https://35percent.org/img/latinelephantmap.png)
 
 ## How many traders?
 
@@ -80,7 +80,7 @@ return '<div style="padding:5px 5px 5px 5px; font-family: Arial; font-size:12px"
 
 Even though Latin Elephant has voiced concerns about the shortage of relocation units on many occasions, both before and after planning approval, only 40 units are being provided on three sites.  Latin Elephant identify 12 units in  Perronet House, 8 in Elephant One, and 20 in Castle Square. 
 
-In addition to these sites Southwark claim that Lendlease's [Elephant Park](https://www.elephantpark.co.uk/about-elephant-park/) development (formerly the Heygate estate) offers 1,350 sq m of affordable retail space, but this only equates to eight units, at most.  To date, none of the Elephant Park units has been offered to traders affected by the shopping centre redevelopment, according to an [FOI response](https://docdro.id/R6YTe4e) to a [Southwark Law Centre](http://www.southwarklawcentre.org.uk/) question.  Thirty market pitches in East St market were also suggested by Delancey in its planning application, but these are nearly a mile away and have never been delivered. 
+In addition to these sites Southwark claim that Lendlease's [Elephant Park](https://www.elephantpark.co.uk/about-elephant-park/) development (formerly the Heygate estate) offers 1,350 sq m of affordable retail space, but this only equates to eight units, at most.  To date, none of the Elephant Park units has been offered to traders affected by the shopping centre redevelopment, according to an [FOI response](https://docdro.id/R6YTe4e) to a [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) question.  Thirty market pitches in East St market were also suggested by Delancey in its planning application, but these are nearly a mile away and have never been delivered. 
 
 ## Unfit database
 
@@ -92,13 +92,13 @@ So, the best-case scenario is that less than half of all independent traders wit
 
 Another obstacle to successful relocation is the cost of moving, fitting-out new premises and re-establishing the business.  The relocation fund provided by Delancey stands at [£634,700](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=20), with a vague commitment to an unspecified greater amount, after _‘all claims have been properly assessed’_ and _‘taking into account genuine trader hardship’_.  This averages out at a £17,630 per trader, given thirty-six traders and a very modest £8,034, given 79 traders.  In fact, the costs will of course vary, according to size and other needs. By way of example, one business was quoted £121,000 including VAT, for the fit-out works of a 65 sq m unit at Elephant Park.
 
-![](http://35percent.org/img/traderscomp.jpeg)
+![](https://35percent.org/img/traderscomp.jpeg)
 
 ## Feeble enforcement from Southwark Council
 
 The trader' relocation strategy was inadequate from the start, with too little space to move to and too little money to do it with, but it has been made worse by ineffectual enforcement by  Southwark Council.
 
-The relocation process is effectively controlled by Delancey and, in the case of Elephant Park premises, fellow developer Lendlease. Both [developers have obligations](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=20) to provide affordable retail premises to shopping centre traders, under their respective legal s106 development agreements with Southwark Council.  Southwark therefore has the power to take action if it thinks that these obligations are not being fulfilled.  Traders complain that this is indeed the case, with shopping centre traders not fitting the retail profile required by Delancey and Lendlease for the new Elephant developments.  [Southwark Law Centre](http://www.southwarklawcentre.org.uk/) has taken up the case of one trader, refused premises because of the nature of their trade.
+The relocation process is effectively controlled by Delancey and, in the case of Elephant Park premises, fellow developer Lendlease. Both [developers have obligations](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=20) to provide affordable retail premises to shopping centre traders, under their respective legal s106 development agreements with Southwark Council.  Southwark therefore has the power to take action if it thinks that these obligations are not being fulfilled.  Traders complain that this is indeed the case, with shopping centre traders not fitting the retail profile required by Delancey and Lendlease for the new Elephant developments.  [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) has taken up the case of one trader, refused premises because of the nature of their trade.
 
 Even those traders who have been allocated space have justifiable complaints about its size, cost and position - all critical factors for successfully continuing business. In particular, there are complaints about Perronet House.  Despite being owned by Southwark Council, who is thus the traders' new landlord, both the [service charges and rent](https://docdro.id/5AQJ8yg) will be higher there than those for Castle Square, the relocation site owned by Delancey. For example, the rent of a 26 sq m unit on the ground floor in Castle Square is £6,768 per annum, plus £2,256 of service charge (£8 per square foot), while Southwark Council offers a 25.7 sq m unit in Perronet House at an average of £7,645 over 5 years, with an ‘estimated’ service charge of £3,047 (£11 per sq ft).
 
@@ -108,12 +108,12 @@ Several FOI requests have been made to Southwark, in pursuit of information abou
 
 ## A bad tale continues
 
-An [Evening Standard article](https://www.homesandproperty.co.uk/area-guides/southwark-borough/elephant-and-castle/living-in-elephant-castle-area-guide-to-homes-schools-and-transport-links-a135826.html), enthusiastically [endorsed by Southwark Council leader Peter John](https://twitter.com/peterjohn6/status/1214971921277890560), tells the shopping centre redevelopment story that developer Delancey wants the world  to believe in - new homes, new jobs, 'funky street food'.  Through their diligent research Latin Elephant and petit elephant tell a different story; one of [neglect and broken promises](http://35percent.org/2017-04-02-traders-charter-broken-promises/). The independent  traders, their families, customers and the social fabric they have built over many years is being pulled apart to enable Delancey and Southwark's idea of a bright future. 
+An [Evening Standard article](https://www.homesandproperty.co.uk/area-guides/southwark-borough/elephant-and-castle/living-in-elephant-castle-area-guide-to-homes-schools-and-transport-links-a135826.html), enthusiastically [endorsed by Southwark Council leader Peter John](https://twitter.com/peterjohn6/status/1214971921277890560), tells the shopping centre redevelopment story that developer Delancey wants the world  to believe in - new homes, new jobs, 'funky street food'.  Through their diligent research Latin Elephant and petit elephant tell a different story; one of [neglect and broken promises](https://35percent.org/2017-04-02-traders-charter-broken-promises/). The independent  traders, their families, customers and the social fabric they have built over many years is being pulled apart to enable Delancey and Southwark's idea of a bright future. 
 
-But it is not too late for Southwark to partly redeem themselves - the traders need more space and more money for their relocation fund.  Delancey (and Lendlease) are well able to provide it.  Delancey's anticipated profit from the shopping centre redevelopment is at [least £137.1m](http://35percent.org/2018-07-02-viability-and-delancey/).
+But it is not too late for Southwark to partly redeem themselves - the traders need more space and more money for their relocation fund.  Delancey (and Lendlease) are well able to provide it.  Delancey's anticipated profit from the shopping centre redevelopment is at [least £137.1m](https://35percent.org/2018-07-02-viability-and-delancey/).
 
 The [Up the Elephant campaign](https://twitter.com/UpTheElephant_) will be holding a stall on **Saturday, 25 January 11.30pm** just outside the **former Charlie Chaplin pub**, on the **New Kent Rd side of the shoppin centre**.
 
 There will also be a [demonstration, organised by the Up The Elephant campaign](https://twitter.com/UpTheElephant_), in support of the traders' deputation to Southwark Council's first assembly meeting of the year on **Tuesday 28 January Southwark Council Head Offices, Tooley St 6pm** - everyone who wants a fairer, inclusive regeneration at the Elephant is welcome.
 
-![](http://35percent.org/img/jan2020protest.jpg)
+![](https://35percent.org/img/jan2020protest.jpg)

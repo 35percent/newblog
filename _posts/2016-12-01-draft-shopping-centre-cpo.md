@@ -5,12 +5,12 @@ subtitle: "Shopping Centre's major leaseholder says he's staying put"
 date: 2016-12-01
 image: img/planneddecline.jpg
 ---
-![](http://www.southwarknews.co.uk/wp-content/uploads/2016/10/Patrick-Duffey-Elephant-and-Castle-Shopping-Centre.jpg)
+![](https://www.southwarknews.co.uk/wp-content/uploads/2016/10/Patrick-Duffey-Elephant-and-Castle-Shopping-Centre.jpg)
 *Going nowhere - Patrick Duffey of the bingo hall and bowling alley*
 
 Patrick Duffey, the owner of the Elephant & Castle shopping centre's bingo hall 
 and bowling alley has 
-[announced](http://www.southwarknews.co.uk/news/im-going-nowhere-owner-elephant-bingo-hall-pours-doubt-delanceys-schedule-demolishing-shopping-centre/) 
+[announced](https://www.southwarknews.co.uk/news/im-going-nowhere-owner-elephant-bingo-hall-pours-doubt-delanceys-schedule-demolishing-shopping-centre/) 
 that he is staying put.
 In an interview with the local newspaper, Duffey poured water on Delancey's 
 plans, claiming that he has not been approached about by Delancey about the 
@@ -18,7 +18,7 @@ demolition plans and said _“I tell you, this man’s not going anywhere in a
 hurry.  I’m going nowhere."_
 
 A year ago, Southwark Council 
-[resolved](http://moderngov.southwark.gov.uk/documents/s57189/Report%20Elephant%20and%20castle.pdf) 
+[resolved](https://moderngov.southwark.gov.uk/documents/s57189/Report%20Elephant%20and%20castle.pdf) 
 to use a compulsory purchase order (CPO) in order forcibly to  buy out the 
 businesses with long leases. But one year on and after its failure with the 
 Aylesbury CPO, it looks like the council is rowing back.  Councillor Mark 
@@ -33,7 +33,7 @@ decline for the shopping centre. Many of its shops are now empty as a result of
 traders not being able to afford the sharp increases in service charges by 
 Delancey.
 
-![](/img/planneddecline.jpg)
+![](https://35percent.org/img/planneddecline.jpg)
 *Empty units at the shopping centre*
 
 Following the Aylesbury CPO decision, Southwark may be realising that obtaining 

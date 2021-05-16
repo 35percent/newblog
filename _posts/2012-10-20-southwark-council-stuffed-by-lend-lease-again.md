@@ -9,7 +9,7 @@ A public meeting last Thursday attended by Simon Hughes MP and council leader Pe
 
 It could have been worse as Councillor John was at pains to point out. The affordable rent is much favoured by the mayor Boris Johnson; he would like to see rents as high as £220 and £256 per week - 80% market rent. Councillor John said he would try to get 50% market rent from Lend Lease. This would bring it into line with phase 2 and would bring rents down to £137 and £160 per week.
 
-![](http://crappistmartin.github.io/images/se17rents.png)
+![](https://crappistmartin.github.io/images/se17rents.png)
 
 The 8 social rented units will be 3&4 bed homes.  About 27 more units of all sizes will be part-buy/part-rent.
 
@@ -21,7 +21,7 @@ Both these planning applications breach Southwark's affordable housing policy, w
 
 Councillor Peter John acknowledged the many shortcomings of the application, but couldn't commit to increasing the number of social rented homes, only to bringing the affordable rent down.
 
-Simon Hughes has since [called for the phase 1 planning application to be withdrawn](http://www.bbc.co.uk/news/uk-england-london-20061007) and re-submitted with a revised affordable housing offer.
+Simon Hughes has since [called for the phase 1 planning application to be withdrawn](https://www.bbc.co.uk/news/uk-england-london-20061007) and re-submitted with a revised affordable housing offer.
 
 
 

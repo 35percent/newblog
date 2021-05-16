@@ -9,11 +9,11 @@ The application is the largest ever submitted in the history of the borough: it 
 
 Around 300 local residents have submitted objections to the application, which is due to be heard this Tuesday 15 January- 6pm at the council's offices in London Bridge (160 Tooley st).
 
-Having been allocated [just 5 mins for all objectors to voice their concerns](/2013-01-02-heygate-application-will-objectors-get-a-fair-hearing/) during the hearing, the Elephant Amenity Network has sent a briefing document to councillors in the hope that they will take up the issues that can't be covered in the 5 minute slot. You can [download a copy of the briefing document here..](http://crappistmartin.github.io/images/PlanningCommitteeBrief12AP1092.pdf) and read a summary of the points we wish to raise below.
+Having been allocated [just 5 mins for all objectors to voice their concerns](/2013-01-02-heygate-application-will-objectors-get-a-fair-hearing/) during the hearing, the Elephant Amenity Network has sent a briefing document to councillors in the hope that they will take up the issues that can't be covered in the 5 minute slot. You can [download a copy of the briefing document here..](https://crappistmartin.github.io/images/PlanningCommitteeBrief12AP1092.pdf) and read a summary of the points we wish to raise below.
 
 The planning committee is a public meeting and anyone concerned about the future of our city and environment is encouraged to attend. 
 
-![](http://crappistmartin.github.io/images/viability.png)
+![](https://crappistmartin.github.io/images/viability.png)
 
 __Financial Viability__  
 * Doubts about the financial viability of the scheme  
@@ -25,7 +25,7 @@ How is the viability gap between the viable level of affordable housing at 9.4% 
 
 The London Park Hotel and Oakmayne Plaza(Tribeca Square) sites were granted planning permission six years ago; these sites remain undeveloped. There is no reference to the time schedule for the delivery of the detailed planning applications in the report. We propose that a condition be attached to any approval of the application requiring a fixed schedule of applications.
 
-![](http://crappistmartin.github.io/images/affordable.png)
+![](https://crappistmartin.github.io/images/affordable.png)
 __Housing__  
 * Lack of social rented housing  
 * Phasing of the affordable housing delivery  
@@ -33,13 +33,13 @@ The scheme will provide only 71 social rented units out of a total 2,300 new hom
 
 Affordable rent is also not a type of social rented housing. Both the National Planning Policy Framework and draft revisions to the London Plan have social rent and affordable rent as separate categories of affordable housing (with intermediate housing as a third category). A consortium of 9 boroughs including Southwark supported this position at the London Plan examination in public in November 2012. Therefore affordable rent units cannot be used to meet the social rented proportion of the affordable housing required by policy. The application should therefore be rejected on these grounds. 
 
-![](http://crappistmartin.github.io/images/affordableseventeen.png)
+![](https://crappistmartin.github.io/images/affordableseventeen.png)
 
 The first two tranches of the six tranches of the scheme only deliver 20% affordable housing (para. 156). This means that the first 1,200 units of the scheme will only provide 20% affordable housing. This should be changed so that 25% minimum is delivered from the beginning of the scheme. 
 
 An initial review of the affordable housing delivery is proposed only after two years beyond the first approved application (para. 154). We are also concerned that the conditions for changes in phasing will not be strong enough to ensure that the development is delivered in a timely fashion (para. 35). 
 
-![](http://crappistmartin.github.io/images/animals.jpg)
+![](https://crappistmartin.github.io/images/animals.jpg)
 
 __Public Realm__  
 * The reduction in amount of green and open space  
@@ -54,7 +54,7 @@ We note the Highway Authority's comments quoted here and support its proposals f
 
 "General concern is raised about the proposed number of new private streets (unadopted highways) within the application given the likely impact on the council’s ability to control the network and manage the boroughs streets and spaces for the benefit of residents, businesses and the travelling public.  If this course is pursued then it is strongly recommended that robust alternative management and enforcement regimes are included in any consent." (Appendix 2 - Para. 11)
 
-![](http://crappistmartin.github.io/images/cars.jpg) 
+![](https://crappistmartin.github.io/images/cars.jpg) 
 __Car Parking__  
 * Contrary to Southwarks car-free policy  
 * Reduce the number of car-parking spaces  
@@ -64,7 +64,7 @@ The development is not free of car parking as originally envisioned and set out 
 616 car-parking spaces are proposed for the scheme (para 225) despite Council policy requiring it to be car free.  The Elephant has the highest possible public transport accessibility rating (PTAL 6b) so why are so many car-parking spaces needed?
 Strata Tower which has been completed has car parking set at 14%, the consented Oakmayne development 11%. Most recently St Mary’s Residential was granted at 16% (8% disabled and 8% private). If parking is to be allowed it should be at a far lower rate.
  
-![](http://crappistmartin.github.io/images/trees.jpg) 
+![](https://crappistmartin.github.io/images/trees.jpg) 
 __Trees__  
 * Concern about caveat on retention of existing trees  
 * Unnecessary removal of trees  
@@ -75,7 +75,7 @@ These RPA surveys should be carried out now and a firm commitment given to reten
 
 We note the objection made by the Highways Authority that the proposed streets will be too narrow to give sufficient space between buildings for newly-planted trees to grow adequately. We support the Highway Authority's recommendation: "It is recommended that the minimum critical distance for streets be increased to 12m in all instances. In the absence of this it is unlikely that street trees and other planting will be accommodated adequately;" (Para. 11 - Appendix 2)
 
-![](http://crappistmartin.github.io/images/sustainability.png)
+![](https://crappistmartin.github.io/images/sustainability.png)
 __Sustainability__  
 * Lack of sustainable alternatives  
 * Unrealistic energy centre connection proposals  
@@ -90,7 +90,7 @@ We propose that the 20% on-site renewable energy requirement is met using a comb
 
 We note the report's comment that through planning permission additional plant can be installed to accommodate additional capacity (para. 404). We request that a planning condition is applied upon granting the application accordingly: The new Energy Centre should be constructed such that it has sufficient capacity to supply all of the surrounding developments as identified in the Energy Strategy.
 
-![](http://crappistmartin.github.io/images/cyclists.png)
+![](https://crappistmartin.github.io/images/cyclists.png)
 __CYCLING__  
 * Inadequacies of proposed new routes  
 * There is no proper transport assessment  
@@ -107,7 +107,7 @@ The Heyate comprised a total of 2,500 sq metres of community facilities; the sch
 The transport infrastructure spend is still insufficient to fund improvements to the tube station and northern roundabout.     
 
 
-![](http://crappistmartin.github.io/images/jobs.png)
+![](https://crappistmartin.github.io/images/jobs.png)
 __Employment/Retail__  
 * Will the London Living wage be paid for employment on scheme?  
 * There is no long term commitment to affordable retail units for existing small and independent traders who are likely to be displaced  
@@ -117,7 +117,7 @@ Those employed in construction jobs on the scheme should receive at least the Lo
 We note the minimum construction jobs target for local residents (para. 376) We would like to see a similar minimum target for local residents post construction (para. 135). A definition of the area of local benefit is also needed.
 We note that the legal agreement will secure 10% of affordable retail space which will be prioritised for existing SMEs in the E&C OA. However, it is understood that this may be limited to a term of just 5 years, thereby failing to provide long-term security for small retailers. 
 
-![](http://betterelephant.github.com/images/gatedcommunity.png)
+![](https://betterelephant.github.com/images/gatedcommunity.png)
 __Place Making__  
 * The size of the large retail units at ground floor are too large  
 * The scale, height and form of the buildings need to create a positive sense of place  

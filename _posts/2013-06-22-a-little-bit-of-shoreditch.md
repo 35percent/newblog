@@ -5,7 +5,7 @@ date: 2013-06-22
 ---
 Six months after the appearance of 48 large shipping containers on the forecourt of the former Shell garage on the Walworth rd by the Heygate estate, a planning application for their uses has finally appeared. It has been submitted by 'Artworks', who were chosen to provide interim uses on the Heygate site during the period of its redevelopment. The model for the boxpark is a scheme in Shoreditch. The proposal is for studios, bars, business/workspace, retail, markets, cafe/restaurant, gallery, community, and 'stay-work' uses for a maximum 5 year period.
 
-![](http://www.elephantandcastle.org.uk/files/251.img.jpg?20140331085433)
+![](https://www.elephantandcastle.org.uk/files/251.img.jpg?20140331085433)
 
 The application is generating a lot of interest while raising a lot of questions. Artworks say that it will generate job and education opportunities while helping to animate that part of the Walworth road. However, local people are concerned of what the impact will be on what is also a residential area. There are also doubts about the feasibility of the proposals: the application says that the rents will start at £50 per week, but we know from the marketing information reproduced below that the full cost of a 'live-work' container is £200 per week plus bills.
 
@@ -20,19 +20,19 @@ The green space in front of Swanbourne will also be part of the boxpark. Artwork
 
 All in all, this seems like a largely commercial development some way removed from the original idea of interim uses as providing space for productive voluntary activities. The application might have its merits, but it should be judged on these alone.
 
-If you wish to make a comment on the application, you can send this by email to planning.applications@southwark.gov.uk, quoting the planning application reference: 13/AP/1224. [Here is a link](http://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeResultDetail&TheSystemkey=9549395) to the full planning application documents.
+If you wish to make a comment on the application, you can send this by email to planning.applications@southwark.gov.uk, quoting the planning application reference: 13/AP/1224. [Here is a link](https://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeResultDetail&TheSystemkey=9549395) to the full planning application documents.
 
 ## The Boxpark Vision
 Artworks may have just got their application in but they are not wasting any time advertising the containers. Below is a response to an email enquiry regarding the boxpark. The price for the container units is a lot clearer than it is in the planning application. £50 per week gets you a market stall, £150 - £170 per week gets you a work space, and full live-work container will set you back £200 per week plus bills. But hurry! 
 
-![](http://crappistmartin.github.io/images/ArtworksEmail.png)
+![](https://crappistmartin.github.io/images/ArtworksEmail.png)
 
 __Footnotes:__
 
 [^1]: "At least 40sqm of useable work space (B1 Use Class) must be separately defined within the unit" - Saved Southwark 
 Plan Policy 1.6 
 
-[^2]: 13/AP/1224 <a href="http://planningonline.southwark.gov.uk/DocsOnline/Documents/299967_1.pdf">Planning Statement Addendum.
+[^2]: 13/AP/1224 <a href="https://planningonline.southwark.gov.uk/DocsOnline/Documents/299967_1.pdf">Planning Statement Addendum.
 
-[^3]: 13/AP/1224 <a href="http://planningonline.southwark.gov.uk/DocsOnline/Documents/299966_1.pdf">Planning Statement - Para 2.1.4.
+[^3]: 13/AP/1224 <a href="https://planningonline.southwark.gov.uk/DocsOnline/Documents/299966_1.pdf">Planning Statement - Para 2.1.4.
 

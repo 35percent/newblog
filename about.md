@@ -4,7 +4,7 @@ image: /img/lovetheelephantbanner2.jpg
 title: About us
 ---
 
-We are local residents, traders and others who have an interest in the regeneration of the Elephant & Castle. We try to engage in planning matters ranging from housing to public realm and sustainable development. We are associated with the <a href="http://elephantamenity.wordpress.com">Elephant Amenity Network</a>, which is listed as a primary consultee in [local planning policy](https://www.southwark.gov.uk/downloads/download/2896/elephant_and_castle_spd_supporting_documents) and has 3 guiding principles:
+We are local residents, traders and others who have an interest in the regeneration of the Elephant & Castle. We try to engage in planning matters ranging from housing to public realm and sustainable development. We are associated with the <a href="https://elephantamenity.wordpress.com">Elephant Amenity Network</a>, which is listed as a primary consultee in [local planning policy](https://www.southwark.gov.uk/downloads/download/2896/elephant_and_castle_spd_supporting_documents) and has 3 guiding principles:
 
 * Open Masterplanning
 * Benefits for All
@@ -16,8 +16,8 @@ We don't believe that the existing regeneration plans are set to benefit all mem
 
 
 
-![](http://35percent.org/img/newsouthwarkplanah.png)
-*[New Southwark Plan](http://www.southwark.gov.uk/download/downloads/id/12867/new_southwark_plan_preferred_option_consultation_version_web) - Southwark's planning policy*
+![](https://35percent.org/img/newsouthwarkplanah.png)
+*[New Southwark Plan](https://www.southwark.gov.uk/download/downloads/id/12867/new_southwark_plan_preferred_option_consultation_version_web) - Southwark's planning policy*
 
 
 You can sign up to our mailing list by using the form below and receive email alerts when we publish a blog post. 
