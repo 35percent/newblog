@@ -1,6 +1,7 @@
 title: "35% Campaign"
 email: 35percentelephant@gmail.com
 timezone: UTC
+url: 'https://35percent.github.io/newblog'
 baseurl: "/newblog"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
