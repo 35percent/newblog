@@ -1,13 +1,13 @@
 title: "35% Campaign"
 email: 35percentelephant@gmail.com
 timezone: UTC
-url: 'https://35percent.org'
+url: "https://35percent.org"
 baseurl: ""
-repository: '35percent/35percent.github.io'
+repository: "35percent/35percent.github.io"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Jerry
+author: EAN
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
