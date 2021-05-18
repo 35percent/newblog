@@ -2,10 +2,9 @@
 layout: post
 title: Aylesbury redevelopment - decision day
 date: 2015-04-18
+image: img/Aylesburyoutline2.jpg
 ---
 The planning applications for the redevelopment of the Aylesbury estate are to be considered by Southwark council's planning commitee on [Thursday evening](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=4808&Ver=4). Officers recommend that approval be granted - their report on the outline masterplan application can be found [here](https://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d).
-
-![](https://crappistmartin.github.io/images/Aylesburyoutline2.jpg)
 
 We blogged [previously](/2015-03-18-stand-up-for-more-social-housing/) about Notting Hill Housing's development at the Bermondsey Spa regeneration, where social rented housing agreed at planning committee became affordable rent when - by sleight of hand - social rent was defined in the legal agreement as affordable rent.
 

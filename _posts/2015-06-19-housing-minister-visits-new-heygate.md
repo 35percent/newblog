@@ -2,10 +2,9 @@
 layout: post
 title: "£63m public money to build 274 private homes"
 date: 2015-06-19
+image: img/uncle.jpg
 ---
 Tory Housing Minister Brandon Lewis has [announced](https://www.egi.co.uk/news/lewis-announces-252m-prs-boost/) the third round of successful bidders in the government's [Build to Rent fund](https://www.gov.uk/government/news/1000-new-homes-for-private-rent-in-london).
-
-
 
 'Build to rent' or PRS (Private Rented Sector) funding is the Conservative government's answer to the housing crisis, with which it subsidises the building of homes for private rent, but without imposing constraints on how much those rents will be. Last year we [reported](/2014-07-19-community-infrastructure-levy/) that Delancey had let slip that its new PRS homes at the Elephant were expected to fetch on average £375pw for 1-bed and £500pw for a 2-bed. 
 

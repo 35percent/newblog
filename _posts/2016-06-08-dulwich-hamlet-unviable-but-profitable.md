@@ -2,6 +2,7 @@
 title: "Dulwich Hamlet - unviable but profitable"
 layout: post
 date: 2016-06-08
+image: img/dh.jpg
 ---
 Dulwich Hamlet FC is a much-loved Southwark football club with an impressive history. This is their Champion Hill ground adjacent to Green Dale playing fields where the club has been playing since 1931: 
 ![](https://35percent.org/img/greendale.jpg)

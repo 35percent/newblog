@@ -2,8 +2,8 @@
 layout: post
 title: "Heygate sell-off: How much are we getting?"
 date: 2015-12-20
+image: img/bbcptics.png
 ---
-
 Local activist Peter Tatchell went head-to-head with Council leader Peter John on a recent [BBC Politics show](https://youtu.be/Emvo16iBxFE). Tatchell accused the leader of selling off the 25-acre Heygate estate for £50m when the Council had [valued](/heygate-regeneration-faq/) the site previously at £150m. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Emvo16iBxFE" frameborder="0" allowfullscreen></iframe>

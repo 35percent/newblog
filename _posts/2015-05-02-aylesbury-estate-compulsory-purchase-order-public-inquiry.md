@@ -2,6 +2,7 @@
 layout: post
 title: "Aylesbury CPO Inquiry - Into the Lion's Den"
 date: 2015-05-02
+image: img/cpoinquiry2.png
 ---
 The Public Inquiry into the Aylesbury Compulsory Purchase Order was adjourned on Friday (until 12th May), after four days of sharp argument between Southwark Council and objectors to the order. This is the third CPO Southwark has sought in relation to the Aylesbury regeneration and we can expect many more as it seeks to get rid of leaseholders who do not accept its derisory compensation offers.
 

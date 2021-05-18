@@ -3,11 +3,8 @@ layout: post
 title: "Going nowhere in a hurry"
 subtitle: "Shopping Centre's major leaseholder says he's staying put"
 date: 2016-12-01
-image: img/planneddecline.jpg
+image: img/Patrick-Duffey-Elephant-and-Castle-Shopping-Centre.jpg
 ---
-![](https://www.southwarknews.co.uk/wp-content/uploads/2016/10/Patrick-Duffey-Elephant-and-Castle-Shopping-Centre.jpg)
-*Going nowhere - Patrick Duffey of the bingo hall and bowling alley*
-
 Patrick Duffey, the owner of the Elephant & Castle shopping centre's bingo hall 
 and bowling alley has 
 [announced](https://www.southwarknews.co.uk/news/im-going-nowhere-owner-elephant-bingo-hall-pours-doubt-delanceys-schedule-demolishing-shopping-centre/) 

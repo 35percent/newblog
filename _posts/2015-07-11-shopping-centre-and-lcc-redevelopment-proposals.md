@@ -2,6 +2,7 @@
 layout: post
 title: "Completing the masterplan - Shopping centre traders to be booted out"
 date: 2015-07-12
+image: img/traderscomp.jpeg
 ---
 Just as the dust settles on the rubble of the Heygate estate, consultation begins on the demise of another large part of the Elephant & Castle's local community.
 

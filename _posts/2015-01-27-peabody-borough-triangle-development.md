@@ -2,10 +2,9 @@
 layout: post
 title: "Peabody's philanthropic glass towers - 0% social housing"
 date: 2015-01-27
+image: img/BoroughTriangle.png
 ---
 Peabody Housing Association has finally submitted a [Planning application](https://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeDocs&TheSystemkey=9556404) for its long-awaited _Borough Triangle_ development at Elephant & Castle. This large triangle of land sits between Southbank University, Borough road and the Crown Court on Newington Causeway.  
-
-![](https://crappistmartin.github.io/images/BoroughTriangle.png)
 
 The site is currently home to the [IPSOS MORI](https://www.ipsos-mori.com/) buildings and Baptist church on Borough road, which will be the only buildings to survive the redevelopment. The Georgian-built [Institute of Optometry](https://www.ioo.org.uk/) and [London School of Musical Theatre](https://www.thestage.co.uk/news/2015/01/london-school-musical-theatre-relocate-southwark-site-demolished/) (formerly the Institute for the Blind) will both be demolished under Peabody's plans. The latter being replaced by [new premises](https://crappistmartin.github.io/images/NewMinistryOfSound.png) for the Ministry of Sound, which Peabody will build in its place.     
   
