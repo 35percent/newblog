@@ -2,6 +2,7 @@
 layout: post
 title: "A little bit of Shoreditch coming to the Elephant?"
 date: 2013-06-22
+image: img/boxpark.jpg
 ---
 Six months after the appearance of 48 large shipping containers on the forecourt of the former Shell garage on the Walworth rd by the Heygate estate, a planning application for their uses has finally appeared. It has been submitted by 'Artworks', who were chosen to provide interim uses on the Heygate site during the period of its redevelopment. The model for the boxpark is a scheme in Shoreditch. The proposal is for studios, bars, business/workspace, retail, markets, cafe/restaurant, gallery, community, and 'stay-work' uses for a maximum 5 year period.
 

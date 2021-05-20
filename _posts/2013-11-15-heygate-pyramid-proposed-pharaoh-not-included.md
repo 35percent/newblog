@@ -2,10 +2,9 @@
 layout: post
 title: "Heygate pyramid proposed – pharaoh included?"
 date: 2013-11-15
+image: img/pjtutankhaman.jpg
 ---
 The Heygate is to get a pyramid.  Turner Prize nominee Mike Nelson and public arts organisation [Artangel Trust](https://www.artangel.org.uk/)  would like to reconfigure one of the Heygate’s maisonette blocks to build a giant square pyramid, not far from where the last Heygate resident was [evicted last week](/2013-11-06-southwark-sends-in-the-heavy-mob/).  Artangel organised [‘Seizure’](https://www.artangel.org.uk/projects/2008/seizure), the blue crystal-filled council flat, also at the Elephant a couple of years ago.  Artist Mike was described ‘as the next big thing’ by the [Guardian in 2001](https://www.theguardian.com/culture/2001/sep/04/artsfeatures.turnerprize2001), and in the spirit of artistic intervention we have here our own image of how Southwark Council leader Peter John might look in his new role.
-
-![](https://crappistmartin.github.io/images/pjtutankhaman.jpg) 
 
 Local speculation is that this masterwork is being paid for by Lend Lease. The planning application for the pyramid can be found through [this link](https://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeResultDetail&TheSystemkey=9552014); click on ‘documents’- the deadline for comments is 21 Nov. Below is an extract from [one of the planning application's documents](https://planningonline.southwark.gov.uk/DocsOnline/Documents/328350_1.pdf), which shows how the remnants of Heygate residents' former homes are to be used in this imaginative reconstruction.
 

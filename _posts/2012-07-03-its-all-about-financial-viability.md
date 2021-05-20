@@ -2,8 +2,8 @@
 layout: post
 title: "It's all about Financial Viability"
 date: 2012-07-03
+image: img/hca.png
 ---
-![](https://crappistmartin.github.io/images/hca.png)
 
 The redevelopment of the Heygate estate is essentially a land sale to a private developer. The Council [get a capital receipt](https://crappistmartin.github.io/images/SNarticle.png) for the land and the developer provides some infrastructure and community benefits. There is an assumed [profit to the developer of 20%](https://crappistmartin.github.io/images/spdprofit.png) of the total costs plus the profit left over when all the new buildings have been sold. The community benefits that were originally supposed to be provided in return for the Heygate redevelopment [were to include](https://www.scribd.com/doc/82420796/Southwark-Council-2004-Development-Framework):
 

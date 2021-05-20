@@ -2,6 +2,7 @@
 layout: post
 title: "The Elephant - Sold on and Sold out"
 date: 2013-08-03
+image: img/bojoandpj2.jpg
 ---
 The start of work on [_One the Elephant_](https://www.london-se1.co.uk/news/view/6463) was marked with some ceremony this week by developers Lend Lease, including a visit by the mayor of London Boris Johnson. However it was a bit unfortunate for both him and Southwark Council that the symbolically important development has no affordable housing. 
 

@@ -2,6 +2,7 @@
 layout: post
 title: "How low can you go?"
 date: 2012-05-31
+image: img/HeygateAerialAutumn2.jpg
 ---
 >"The application documents do not refer to a minimum level of 25% affordable housing" __(Case Planning Officer(12/AP/1092), 18 May 2012)__
 

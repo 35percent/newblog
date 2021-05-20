@@ -2,6 +2,7 @@
 layout: post
 title: "Peter's Denial"
 date: 2013-05-26
+image: img/pj-strata.gif
 ---
 There was no sound of a [cock crowing](https://en.wikipedia.org/wiki/Denial_of_Peter), but when asked in a recent radio interview if it is correct that there would only be 79 social rented units on the new Heygate, council leader Peter John replied 'no' three times.
 

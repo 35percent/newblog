@@ -2,6 +2,7 @@
 layout: post
 title: "Objectors excluded from sell-out Heygate hearing"
 date: 2013-01-16
+image: img/HeygateAerialAutumn2.jpg
 ---
 Objectors are fuming after being refused entry to Tuesday's public hearing for the Heygate masterplan planning application.
 

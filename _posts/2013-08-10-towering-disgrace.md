@@ -2,6 +2,7 @@
 layout: post
 title: "Towering Disgrace"
 date: 2013-08-10
+images: img/london360.jpg
 ---
 ## £18m public money spent but no social rented housing
 

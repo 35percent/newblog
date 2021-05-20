@@ -2,6 +2,7 @@
 layout: post
 title: "Heygate leaseholders forced to sell their homes - CPO approved"
 date: 2013-07-20
+image: img/lendleasestole.jpg
 ---
 The Compulsory Purchase of the remaining 3 leaseholders on the Heygate estate has been approved by Eric Pickles, the Secretary of State for Communities and Local Government. This will allow Southwark Council to buy out the properties at way below the local market rate. 
 

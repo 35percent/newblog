@@ -2,6 +2,7 @@
 layout: post
 title: "How much affordable housing are we getting?"
 date: 2012-05-30
+image: img/heygatesiteplan.jpg
 ---
 Southwark Council and Developers Lend Lease have been provoked into [reiterating their commitment](https://www.southwark.gov.uk/info/200183/elephant_and_castle/2045/elephant_and_castle_regeneration_agreement/1) to a minimum guarantee of 25% affordable housing by the 35% campaign.
 

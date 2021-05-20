@@ -2,8 +2,8 @@
 layout: post
 title: "London's largest new private park in 70 years"
 date: 2012-07-04
+image: img/elephantpark_marketing.jpg
 ---
-![](https://crappistmartin.github.io/images/elephantpark_marketing.jpg)
 
 Developer Lend Lease has rebranded its 25 acre Heygate redevelopment [_'Elephant Park'_](https://elephantpark.co.uk) and made much of the new 'public' park it will be building. But many still remember that the site used to be home to a sizeable public park called Elephant Park, which enjoyed public open space designation in the council's planning policy[^1].  
 

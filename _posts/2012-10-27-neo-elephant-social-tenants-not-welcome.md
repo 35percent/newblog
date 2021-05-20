@@ -2,6 +2,7 @@
 layout: post
 title: "Neo Elephant - social tenants not welcome"
 date: 2012-10-27
+image: img/onetheelephantgold.jpg
 ---
 >"There is no affordable housing provision within the proposed scheme." __(Planning Application ref 12/AP/2239,  Housing Statement Paragraph 7.3)__ 
 

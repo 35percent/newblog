@@ -2,6 +2,7 @@
 layout: post
 title: "Environmental Impact Understatement"
 date: 2012-06-26
+image: img/heygategardens.jpg
 ---
 The Elephant & Castle regeneration has been hailed as a global example for sustainable growth. It has been declared an 'Energy Action Area' by the GLA and in 2009 it was fortunate enough to be selected by Bill Clinton as one of 16 worldwide projects [signed up to the Clinton Climate Positive Development Program](https://www.london-se1.co.uk/news/view/6032), which aims to create 'carbon neutral' urban development.
 

@@ -2,15 +2,13 @@
 layout: post
 title: "Heygate Cinema Celebrates Opening Night"
 date: 2012-09-25
+image: img/heygate_cinema.JPG
 ---
-
 Following last year's attempts by Southwark Council to <a 
 href="https://betterelephant.github.io/images/unauthorised_activities.pdf">prosecute 
 remaining residents</a> involved in Better Elephant's interim use programme, 
 this year Better Elephant decided to create a pop-up cinema which can be popped 
 up and then quickly popped down again.
-
-![](https://betterelephant.github.io/images/heygate_cinema.JPG)
 
 Around 50 people attended the opening night of the cinema last Saturday 22 Sep, 
 for the premiere screening of the film ['Doreen'](https://youtu.be/CnkVzJXibyI) 

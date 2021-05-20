@@ -2,6 +2,7 @@
 layout: post
 title: "Southwark Council rolled over by Lend Lease - again!"
 date: 2012-10-20
+image: img/rdoors.jpg
 ---
 Southwark Council confirmed that there are only going to be 8 social rented units on phase 1 of the Heygate redevelopment, a net loss of 97 social rented units on this part of the Heygate site.
 

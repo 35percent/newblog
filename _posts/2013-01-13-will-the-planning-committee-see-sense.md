@@ -2,6 +2,7 @@
 layout: post
 title: "Will the Planning Committee see sense?"
 date: 2013-01-13
+image: img/planningcommittee.jpg
 ---
 Weak finances, minimal social rented housing, a privatised public realm, vague energy proposals, environmentally suspect  and  car-friendly – the masterplan application for the regeneration of the Elephant and Castle has finally arrived after 13 years waiting.  
 

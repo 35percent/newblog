@@ -2,6 +2,7 @@
 layout: post
 title: "Regeneration branded 'miserable failure' at CPO Public Inquiry"
 date: 2013-07-18
+image: img/larryandjanetleave.png
 ---
 Southwark’s Elephant & Castle regeneration plans were branded _“a miserable 
 failure”_ by former Heygate residents at a public inquiry into the Heygate 

@@ -2,10 +2,9 @@
 layout: post
 title: "Southwark sends in the Heavies"
 date: 2013-11-06
+image: img/heavies.png
 ---
 The last resident of the Heygate estate was forcibly evicted from his home today. A team of bailiffs from [Shergroup Ltd](https://www.shergroup.net) accompanied by police and officers from Southwark Council arrived at lunchtime, and after a short conversation the last resident left - with the help of the bailiffs. No notice of the impending eviction was issued to him, his surveyor or solicitor.
-
-![](https://pbs.twimg.com/media/BlUzgbWCEAA47zd.png)
 
 Adrian Glasspol's home [passed into Southwark's ownership](/2013-10-27-the-end-for-the-last-heygate-residents/) on Monday. On the same day Adrian, his surveyor and Southwark's surveyor met to make a final valuation of the property. Southwark's surveyor formally asked Adrian to leave that day. Adrian said that he would leave as soon as he received a call from his solicitor telling him that his compensation payment had been paid into his solicitor's holding account.  
 
