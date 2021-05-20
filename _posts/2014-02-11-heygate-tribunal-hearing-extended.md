@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Heygate Tribunal Hearing Extended"
-date: 2014-02-11
+date: 2014-02-11 09:40
+image: img/Tribunalfolderssmall.jpg
 ---
-The scheduled 5 day hearing of Southwark Council’s appeal against the [Information Commissioner’s order](https://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0461281.ashx) to release the viability assessment for the Heygate redevelopment will now run into a sixth day. The Tribunal will reconvene on the 18 February to hear final submissions from barristers.  The viability assessment details why developers Lend Lease cannot deliver the 35% affordable housing required by Southwark’s housing policy, as well as failing to fulfil other policy objectives such as providing a car-free development.
+The scheduled 5 day hearing of Southwark Council’s appeal against the [Information Commissioner’s order](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0461281.ashx) to release the viability assessment for the Heygate redevelopment will now run into a sixth day. The Tribunal will reconvene on the 18 February to hear final submissions from barristers.  The viability assessment details why developers Lend Lease cannot deliver the 35% affordable housing required by Southwark’s housing policy, as well as failing to fulfil other policy objectives such as providing a car-free development.
 
-![](https://thecreativeconsultancy.com/clients/competition-appeal-tribunal/media/steps.jpg)
+![](http://thecreativeconsultancy.com/clients/competition-appeal-tribunal/media/steps.jpg)
 
 The Tribunal has heard arguments from barristers for Lend Lease and Southwark that disclosure would, amongst other things, be in breach of Lend Lease’s human rights and copyright of its intellectual property.  Further, it would give an insight into its business methods and an undeserved advantage to its competitors.  On top of this other developers might be put off doing business with Southwark and other London local authorities, if they saw that a fellow developer’s viability assessment was being laid bare. Concerns were also raised about the impact of disclosure on the viability of the Heygate scheme itself and the potential for delay this might cause. Senior officers from Southwark, Lend Lease and GLA gave evidence in support of the case.
 
