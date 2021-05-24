@@ -2,7 +2,7 @@
 layout: post
 title: "Something Sinister?"
 date: 2013-09-14
-images: img/Heygate_classified.jpg
+image: img/Heygate_classified.jpg
 ---
 
 The [Evening Standard](https://www.standard.co.uk/news/london/southwark-in-tribunal-fight-to-keep-15bn-heygate-estate-deal-secret-8808759.html), [Inside Housing](https://www.insidehousing.co.uk/development/council-to-refuse-demands-about-heygate-estate/6528392.article), [Property Week](https://www.propertyweek.com/news/southwark-council-takes-legal-action-to-protect-lend-lease-heygate-agreement/5059836.article), as well as the [local press](https://www.southlondonpress.co.uk/news.cfm?id=29041&headline=Heygate%20estate%20deal%20%E2%80%98secrecy%E2%80%99%20is%20attacked), have printed stories about Southwark Council's appeal against the [Information Commissioner's decision](/2013-07-24-heygate-figures-must-b-be-revealed-information-commissioner/) that it make the Heygate masterplan viability assessment public. Regeneration Cabinet member Councillor Fiona Colley [blames](https://www.insidehousing.co.uk/development/council-to-refuse-demands-about-heygate-estate/6528392.article) a minority of people looking fruitlessly for something sinister.  

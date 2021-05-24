@@ -2,6 +2,7 @@
 layout: post
 title: "How green will the new Heygate be?"
 date: 2012-11-10
+image: img/heygatetrees.jpg
 ---
 <iframe width="420" height="315" src="https://www.youtube.com/embed/M9H_K3msMSc" frameborder="0" allowfullscreen></iframe>
 

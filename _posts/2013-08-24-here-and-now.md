@@ -2,7 +2,7 @@
 layout: post
 title: "Here and Now"
 date: 2013-08-24
-images: img/diewelt.png
+image: img/diewelt.png
 ---
 
 Last week German national newspaper _Die Welt_ [featured](https://www.welt.de/wirtschaft/article119060642/Grossbritannien-auf-dem-Weg-zum-Armenhaus-der-EU.html) this picture of the Heygate as a symbol of Britain's social decline and the _"Krieg der Reichen gegen die Armen"_ - the rich's war against the poor.

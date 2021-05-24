@@ -2,6 +2,7 @@
 layout: post
 title: "It's all happening now"
 date: 2012-11-24
+image: img/heygategardens.jpg
 ---
 __East Walworth by-election -__
 Labour, Lib Dem and even the Conservative activists have been energetically fighting for votes in the East Walworth ward in the run-up to polling day on Nov 29th.

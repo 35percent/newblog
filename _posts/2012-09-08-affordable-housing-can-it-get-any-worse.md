@@ -2,7 +2,7 @@
 layout: post
 title: "Affordable Housing - Can it get any worse?"
 date: 2012-09-08
-image: img/viability.jpg
+image: img/whatisaffordable.jpg
 ---
 
 The Government has just announced that developers can re-negotiate S106 agreements for so-called stalled development sites. These agreements fund community infrastructure and affordable housing. There are several ways in which this might affect developments at the Elephant & Castle. 
