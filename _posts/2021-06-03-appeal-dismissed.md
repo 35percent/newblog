@@ -61,7 +61,9 @@ The judge agreed with Delancey's and Southwark's interpretation in his [dismissa
 
 ![](/img/screenshot-2021-06-03-at-11-28-40-flynn-r-on-the-application-of-v-the-london-borough-of-southwark-council-anor-2021-ew-...-.png)
 
+We say that if the planning committee had been told that Delancey could offload provision of the social rented units onto the Council by transferring a bit of land and £1 then the planning committee may have voted otherwise.
 
+Having failed in our legal challenge on this point we now want to ..
 
 ## Social rent and social rent equivalent – different, but the same
 
