@@ -9,7 +9,7 @@ The Appeal Court has upheld the High Court decision allowing developers Delancey
 
 The legal challenge was mounted as part of a hard-fought 4-year campaign by the Up the Elephant. This brought together housing campaigners (including the 35% Campaign), students, tenants’ groups, local councillors and trade unionists, in the fight for more social rented housing and a better deal for traders, displaced by the proposed development.
 
-The decision will now allow the mixed-use development of new shops and homes to proceed, with 116 social rented units, out of 979 new ‘Build to Rent’ homes.
+The decision will now allow the mixed-use development of new shops and homes to proceed, with 116 social rented units out of 979 new ‘Build to Rent’ homes.
 Despite the legal outcome the Up the Elephant Campaign secured many improvements to the original proposals, against the baseline of the [original application](http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC), made in Oct 2016;
 
 * Increase of social rented housing from 33 units of ‘social rent equivalent’, owned and managed by the developer, to 116 proper social rented units, owned and managed by the Council or a housing association.
