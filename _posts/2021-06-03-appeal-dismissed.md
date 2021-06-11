@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Legal battle for the Elephant and Castle shopping centre ends
+title: 3-year legal battle for the Elephant and Castle shopping centre ends
 date: 2021-06-03T08:50:19.642Z
 ---
 ## Final decision goes Delancey's way
