@@ -31,7 +31,7 @@ Despite these improvements Delancey's scheme still remained a bad one, hence the
 
 The status of a purported £11.4m grant from the Mayor, that allowed Delancey to improve the social rented housing offer from 74 to 116 units and how this was reported to the planning committee was a key question before the court. The planning committee was told variously that the grant was *'an agreement in pricinciple for grant funding'* (Officer's report Adden. para 11), or *'recently confirmed'* (OR 371), when in fact it was neither.  There was no grant and no application had been made.  Delancey had only been advised by the Greater London Authority (GLA) that an application would be welcome (Appeal Judgement  para 87) and of the steps that they needed to take to make an application.
 
-On this point, the appeal court ruled that while there had been an *'overstatement'* (AJ 87) of the position, all-in-all the committee had not been misled, paricularly as Delancey had committed to building the social rented housing, with or without grant.
+On this point, the appeal court ruled that while there had been an *'overstatement'* (AJ 87) of the position, all-in-all the committee had not been misled, paricularly as Delancey had committed to building the social rented housing, with or without grant (AJ 85,86).
 
 This commitment naturally led the legal challenge to argue that if Dlancey could provide 116 social rented units without grant, they should be able to provide more with grant.  Again, the appeal court did not agree, citing the viability assessment, which stated that 116 units was *'the maximum reasonable amount'* of social rented housing, and accepting that Delancey was committed to building the social rented housing at their own risk, even if grant were not available (AJ 91).
 
@@ -39,9 +39,11 @@ This commitment naturally led the legal challenge to argue that if Dlancey could
 
 The appeal court also found that the officer's report and addenda were only guidance and allowed council officers discretion in how the committee's decision was practically put into effect.  This ruling had important consequences.  One of the main grounds of the legal challenge as that a stipulation that would allow Southwark, not Delancey, to build the social rented housing, but without cost to itself, had not properly found its way into the legal agreement that sealed the planning permission.
 
-To this end, the officer's report had said that 'The s106 agreement would therefore stipulate that if the development on the west site has not substantially commenced within 10 years of the east site commencing, the land and a sum of money sufficient for construction and completion of the social rented units would be transferred to the council, to deliver the social rented units'. (OR 364)
+To this end, the officer's report had said that *'The s106 agreement would therefore stipulate that if the development on the west site has not substantially commenced within 10 years of the east site commencing, the land and a sum of money sufficient for construction and completion of the social rented units would be transferred to the council, to deliver the social rented units'.* (OR 364)
 
 What actually appeared in the s106 agreement was a more complicated arrangement of three options, two of which require Southwark to find up-front costs of construction.  Delancey argued that the land value and non-residential elements of the social rented housing block had to be taken into account in this transaction and that this arrangement was therefore perfectly correct.  Surprisingly, given that it was putting itself in position of finding money to build something that Delancey would otherwise have pay for, Southwark agreed with Delancey.  The judge agreed with both, against the camapign's arguments, ruling that this was a fair rendering of the committee's decision (AJ 57-60).
+
+Social rent and social rent eq
 
 
 
