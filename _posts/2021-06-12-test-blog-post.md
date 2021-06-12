@@ -49,7 +49,7 @@ The legal challeng also took issue with Southwark and Delancey effectively treat
 
 This distinction becomes relevant if part of the development were to be switched from *'Build to Rent'* to *'Build to Sell'*, with a higher affordable housing requirement and higher profit leading to an uplift to the social rented housing numbers.  Delancey argued that any suchupliftwould have to be housed in towers that were managed by the affordable housing provider, who could not cope with real social rented housing, for stock-management reasons, and so the uplift would have to be social rent equivalent.
 
-Despite the campaign offering three sets of differences 
+Despite the campaign offering three sets of differences between the tenures - including differences of security of tenure (3 years assured short-hold for social rent equivalent against lifetime tenancies for social rent) and differences in regulatory oversight - the appeal court judges these differences to be 'nuanced' rather than 'material'
 
 
 
