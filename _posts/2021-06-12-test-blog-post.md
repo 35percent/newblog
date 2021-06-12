@@ -29,7 +29,7 @@ Despite these improvements Delancey's scheme still remained a bad one, hence the
 
 ### The GLA grant mystery
 
-The status
+The status of a purported £11.4m grant from the Mayor, that allowed Delancey to improve the social rented housing offer from 74 to 116 units and how this was reported to the planning committee was a key question before the court. The planning committee was told variously that the grant was *'an agreement in pricinciple for grant funding'*
 
 
 
