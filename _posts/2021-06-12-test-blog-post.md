@@ -35,7 +35,9 @@ On this point, the appeal court ruled that while there had been an *'overstateme
 
 This commitment naturally led the legal challenge to argue that if Dlancey could provide 116 social rented units without grant, they should be able to provide more with grant.  Again, the appeal court did not agree, citing the viability assessment, which stated that 116 units was *'the maximum reasonable amount'* of social rented housing, and accepting that Delancey was committed to building the social rented housing at their own risk, even if grant were not available (AJ 91).
 
-'The land and a sum of money'
+### 'The land and a sum of money'
+
+The appeal court also found that the officer's report and addenda were only guidance and allowed council officers discretion in how the committee's decision was practically put into effect.  This ruling had important consequences.  One of the main grounds of the legal challenge as that a stipulation that would allow Southwark, not Delancey, to build the social rented housing, but without cost to itself, had not properly found its way into the legal agreement that sealed the planning permission.
 
 
 
