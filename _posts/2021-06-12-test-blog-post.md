@@ -21,6 +21,10 @@ Despite the legal outcome the Up the Elephant Campaign secured many improvements
 * Temporary traders' premises on Castle Square
 * Trader relocation to Elephant Arcade (Perronet House)
 * Trader relocation and assistance funds of £634,000 and £200,000
-* 15-year affordable retail lease 
+* 15-year affordable retail lease
+
+### What we have lost
+
+
 
 ###
