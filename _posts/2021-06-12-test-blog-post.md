@@ -11,7 +11,9 @@ Ok - trying to save now.
 
 The Appeal Court has [upheld the High Court decision](https://www.bailii.org/ew/cases/EWCA/Civ/2021/827.html) allowing developers Delancey to proceed with the demolition and redevelopment of the Elephant and Castle Shopping Centre, after it found that there were no grounds for reversing the High Court's decision.
 
-The legal challenge was mounted as part of a hard-fought campaign by the Up the Elephant.  This brought together housing campaigners (including the 35% Campaign), students, tenants' groups, local councillors and trade unionists, in the fight for more social rented housing and a better deal for traders displaced by the proposed development.
+The legal challenge was mounted as part of a [hard-fought 4-year campaign](https://www.35percent.org/shopping-centre-closes-but-campaign-for-traders-continues/) by the Up the Elephant.  This brought together housing campaigners (including the 35% Campaign), students, tenants' groups, local councillors and trade unionists, in the fight for more social rented housing and a better deal for traders displaced by the proposed development.
+
+The decision will now allow the mixed-use development of new shops and homes to proceed, with 116 social rented units, out of 979 'Build to Rent' homes.
 
 Despite the legal outcome the Up the Elephant Campaign secured many improvements to the original proposals, compared to the baseline of the original application, made in October 2016.
 
