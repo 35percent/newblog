@@ -18,6 +18,9 @@ Despite the legal outcome the Up the Elephant Campaign secured many improvements
 * Increase of social rented housing from 33 units of 'social rent equivalent', owned and managed by the developer, to 116 proper social rented units, owned and managed by the Council or housing association
 * Provision of affordable retail space
 * An established traders' panel
-*
+* Temporary traders' premises on Castle Square
+* Trader relocation to Elephant Arcade (Perronet House)
+* Trader relocation and assistance funds of £634,000 and £200,000
+* 15-year affordable retail lease 
 
 ###
