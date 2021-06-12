@@ -9,7 +9,7 @@ Ok - trying to save now.
 
 ### Final decision goes Delancey's way
 
-The Appeal Court has upheld the High Court decision allowing developers Delancey to proceed with the demolition and redevelopment of the Elephant and Castle Shopping Centre, after it found that there were no grounds for reersing the High Court's decision.
+The Appeal Court has upheld the High Court decision allowing developers Delancey to proceed with the demolition and redevelopment of the Elephant and Castle Shopping Centre, after it found that there were no grounds for reversing the High Court's decision.
 
 The legal challenge was mounted as part of a hard-fought campaign by the Up the Elephant.  This brought together housing campaigners (including the 35% Campaign), students, tenants' groups, local councillors and trade unionists, in the fight for more social rented housing and a better deal for traders displaced by the proposed development.
 
@@ -29,11 +29,11 @@ Despite these improvements Delancey's scheme still remained a bad one, hence the
 
 ### The GLA grant mystery
 
-The status of a purported £11.24m grant from the Mayor, that allowed Delancey to improve the social rented housing offer from 74 to 116 units and how this was reported to the planning committee was a key question before the court. The planning committee was told variously that the grant was *'an agreement in pricinciple for grant funding'* (Officer's report Adden. para 11), or *'recently confirmed'* (OR 371), when in fact it was neither.  There was no grant and no application had been made.  Delancey had only been advised by the Greater London Authority (GLA) that an application would be welcome (Appeal Judgement  para 87) and of the steps that they needed to take to make an application.
+The status of a purported £11.24m grant from the Mayor, that allowed Delancey to improve the social rented housing offer from 74 to 116 units and how this was reported to the planning committee was a key question before the court. The planning committee was told variously that the grant was *'an agreement in principle for grant funding'* (Officer's report Adden. para 11), or *'recently confirmed'* (OR 371), when in fact it was neither.  There was no grant and no application had been made.  Delancey had only been advised by the Greater London Authority (GLA) that an application would be welcome (Appeal Judgement  para 87) and of the steps that they needed to take to make an application.
 
-On this point, the appeal court ruled that while there had been an *'overstatement'* (AJ 87) of the position, all-in-all the committee had not been misled, paricularly as Delancey had committed to building the social rented housing, with or without grant (AJ 85,86).
+On this point, the appeal court ruled that while there had been an *'overstatement'* (AJ 87) of the position, all-in-all the committee had not been misled, particularly as Delancey had committed to building the social rented housing, with or without grant (AJ 85,86).
 
-This commitment naturally led the legal challenge to argue that if Dlancey could provide 116 social rented units without grant, they should be able to provide more with grant.  Again, the appeal court did not agree, citing the viability assessment, which stated that 116 units was *'the maximum reasonable amount'* of social rented housing, and accepting that Delancey was committed to building the social rented housing at their own risk, even if grant were not available (AJ 91).
+This commitment naturally led the legal challenge to argue that if Delancey could provide 116 social rented units without grant, they should be able to provide more with grant.  Again, the appeal court did not agree, citing the viability assessment, which stated that 116 units was *'the maximum reasonable amount'* of social rented housing, and accepting that Delancey was committed to building the social rented housing at their own risk, even if grant were not available (AJ 91).
 
 ### 'The land and a sum of money'
 
@@ -45,7 +45,7 @@ What actually appeared in the s106 agreement was a more complicated arrangement 
 
 ### Social rent and social rent equivalent - different, but the same
 
-The legal challeng also took issue with Southwark and Delancey effectively treating *'social rent equivalent'* and *'social rent'* as being the same tenure.
+The legal challenge also took issue with Southwark and Delancey effectively treating *'social rent equivalent'* and *'social rent'* as being the same tenure.
 
 This distinction becomes relevant if part of the development were to be switched from *'Build to Rent'* to *'Build to Sell'*, with a higher affordable housing requirement and higher profit leading to an uplift to the social rented housing numbers.  Delancey argued that any suchupliftwould have to be housed in towers that were managed by the affordable housing provider, who could not cope with real social rented housing, for stock-management reasons, and so the uplift would have to be social rent equivalent.
 
@@ -61,7 +61,7 @@ It was not enough for Southwark to allow Delancey almost 10 years to build the s
 
 The appeal court's endorsement of Delancey and Southwark's interpretation of *'land and a sum of money'* (AJ 58, 59) now opens the door, under one option, to Southwark getting nothing more than the land and £1 (one pound).  A second option will get Southwark money to build the social rent, but not the full construction costs.  Both options would leave Southwark having to find upfront construction costs.  And, despite the appeal court's judgement, we don't believe that this is what the planning committee had in mind when it approved Delancey's scheme.
 
-Southwark should also demand to know when Delancey are going to make the application for the £11.24m that back in 2016 was claimed to be both agreed in principal and confirmed, but in reality, in 2021, does not seem to exist.  As at April 2021, Delancey had not completed the registration of its affordable housing provider T3 Reseidential Limited with the Regulator of Social Housing, that the GLA advised was a condition of a successful grant application.  As a recent Sunday Times exposé has shown that Delancey are well versed in how to use the public purse to its own advantage, when it comes to affordable housing.  It is not difficult to envisage a scenario where it does so again, at Southwark's expense.
+Southwark should also demand to know when Delancey are going to make the application for the £11.24m that back in 2016 was claimed to be both agreed in principal and confirmed, but in reality, in 2021, does not seem to exist.  As at April 2021, Delancey had not completed the registration of its affordable housing provider T3 Residential Limited with the Regulator of Social Housing, that the GLA advised was a condition of a successful grant application.  As a recent Sunday Times exposé has shown that Delancey are well versed in how to use the public purse to its own advantage, when it comes to affordable housing.  It is not difficult to envisage a scenario where it does so again, at Southwark's expense.
 
 
 
