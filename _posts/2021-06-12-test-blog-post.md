@@ -8,3 +8,7 @@ This is a test blog post to try and find out what this persist error is all abou
 Ok - trying to save now.
 
 ### Final decision goes Delancey's way
+
+The Appeal Court has upheld the High Court decision allowing developers Delancey to proceed with the demolition and redevelopment of the Elephant and Castle Shopping Centre, after it found that there were no grounds for reersing the High Court's decision.
+
+###
