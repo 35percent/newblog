@@ -13,4 +13,6 @@ The Appeal Court has upheld the High Court decision allowing developers Delancey
 
 The legal challenge was mounted as part of a hard-fought campaign by the Up the Elephant.  This brought together housing campaigners (including the 35% Campaign), students, tenants' groups, local councillors and trade unionists, in the fight for more social rented housing and a better deal for traders displaced by the proposed development.
 
+Despite the legal outcome the Up the Elephant Campaign secured many improvements to the original proposals, compared to the baseline of the original application, made in October 2016.
+
 ###
