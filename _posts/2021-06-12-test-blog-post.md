@@ -9,7 +9,7 @@ Ok - trying to save now.
 
 ### Final decision goes Delancey's way
 
-The Appeal Court has upheld the High Court decision allowing developers Delancey to proceed with the demolition and redevelopment of the Elephant and Castle Shopping Centre, after it found that there were no grounds for reversing the High Court's decision.
+The Appeal Court has [upheld the High Court decision](https://www.bailii.org/ew/cases/EWCA/Civ/2021/827.html) allowing developers Delancey to proceed with the demolition and redevelopment of the Elephant and Castle Shopping Centre, after it found that there were no grounds for reversing the High Court's decision.
 
 The legal challenge was mounted as part of a hard-fought campaign by the Up the Elephant.  This brought together housing campaigners (including the 35% Campaign), students, tenants' groups, local councillors and trade unionists, in the fight for more social rented housing and a better deal for traders displaced by the proposed development.
 
