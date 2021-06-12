@@ -27,6 +27,10 @@ Despite the legal outcome the Up the Elephant Campaign secured many improvements
 
 Despite these improvements Delancey's scheme still remained a bad one, hence the legal challenge.  The shopping centre may have been shabby, but it housed one of the largest bingo halls in Britain, much used by older people from black and ethnic minority backgrounds, with a bowling alley next door, equally popular with younger people.  It had over decades become one of two social hubs for Latin Americans living in London (along with Wards Corner, in Seven Sisters).  Most of the other independent traders come from other parts of the world and had built for themselves and their families.  All this would be lost.  And while the affordable housing 'offer' was improved it still did not meet Southwark's minimum policy requirements, falling short by over fifty homes for social rent.
 
+### The GLA grant mystery
+
+
+
 
 
 
