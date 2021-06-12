@@ -33,7 +33,11 @@ The status of a purported £11.4m grant from the Mayor, that allowed Delancey to
 
 On this point, the appeal court ruled that while there had been an *'overstatement'* (AJ 87) of the position, all-in-all the committee had not been misled, paricularly as Delancey had committed to building the social rented housing, with or without grant.
 
-Thsi commitment naturally led the legal challenge to argue that if Dlancey could provide 116 social rented units without grant, they should be able to provide more with grant.  Again, the appeal court did not agree, citing the viability assessment, which stated that 116 units was *'the maximum reasonable amount'* of social rented housing, and accepting that Delancey was committed to building the social rented housing at their own risk, even if grant were not available (AJ 91).
+This commitment naturally led the legal challenge to argue that if Dlancey could provide 116 social rented units without grant, they should be able to provide more with grant.  Again, the appeal court did not agree, citing the viability assessment, which stated that 116 units was *'the maximum reasonable amount'* of social rented housing, and accepting that Delancey was committed to building the social rented housing at their own risk, even if grant were not available (AJ 91).
+
+'The land and a sum of money'
+
+
 
 
 
