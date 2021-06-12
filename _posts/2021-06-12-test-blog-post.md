@@ -41,7 +41,7 @@ The appeal court also found that the officer's report and addenda were only guid
 
 To this end, the officer's report had said that *'The s106 agreement would therefore stipulate that if the development on the west site has not substantially commenced within 10 years of the east site commencing, the land and a sum of money sufficient for construction and completion of the social rented units would be transferred to the council, to deliver the social rented units'.* (OR 364)
 
-What actually appeared in the s106 agreement was a more complicated arrangement of three options, two of which require Southwark to find up-front costs of construction.  Delancey argued that the land value and non-residential elements of the social rented housing block had to be taken into account in this transaction and that this arrangement was therefore perfectly correct.  Surprisingly, given that it was putting itself in position of finding money to build something that Delancey would otherwise have pay for, Southwark agreed with Delancey.  The judge agreed with both, against the camapign's arguments, ruling that this was a fair rendering of the committee's decision (AJ 57-60).
+What actually appeared in the s106 agreement was a more complicated arrangement of three options, two of which require Southwark to find up-front costs of construction.  Delancey argued that the land value and non-residential elements of the social rented housing block had to be taken into account in this transaction and that this arrangement was therefore perfectly correct.  Surprisingly, given that it was putting itself in position of finding money to build something that Delancey would otherwise have pay for, Southwark agreed with Delancey.  The judge agreed with both, against the campaign's arguments, ruling that this was a fair rendering of the committee's decision (AJ 57-60).
 
 ### Social rent and social rent equivalent - different, but the same
 
@@ -59,7 +59,7 @@ But though the local community and the Up the Elephant campaign won 116 social r
 
 It was not enough for Southwark to allow Delancey almost 10 years to build the social rented housing; Southwark then allowed Delancey the option of passing the task back to them, without adequately securing the resources to do the job.  Southwark then went to court, not to make sure that they got the social rented housing, but to defend this lopsided arrangement, and back Delancey up, when it argued that this was all fair and proper.
 
-The appeal court's endorsement of Delancey and Southwark's interpretation of *'land and a sum of money'* (AJ 58, 59) now opens the door to Southwark getting nothing more than the land and £1 (one pound), which will not build much, and having to recoup up-front costs through selling or letting non-residential properties.  And, despite the appeal court's judgement, we don't believe that this is what the planning committee had in mind when it approved Delancey's scheme.
+The appeal court's endorsement of Delancey and Southwark's interpretation of *'land and a sum of money'* (AJ 58, 59) now opens the door, under one option, to Southwark getting nothing more than the land and £1 (one pound).  A second option will get Southwark money to build the social rent, but not the full construction costs.  Both options would leave Southwark having to find upfront construction costs.  And, despite the appeal court's judgement, we don't believe that this is what the planning committee had in mind when it approved Delancey's scheme.
 
 
 
