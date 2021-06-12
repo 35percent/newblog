@@ -25,6 +25,8 @@ Despite the legal outcome the Up the Elephant Campaign secured many improvements
 
 ### What we have lost
 
+Despite these improvements Delancey's scheme still remains a bad one, hence the legal challenge.  The shopping centre may have been shabby, but it housed one of the largest bingo halls in Britain, much used by older people from black and ethnic minority backgrounds, with a bowling alley next door, equally popular with younger people.
+
 
 
 ###
