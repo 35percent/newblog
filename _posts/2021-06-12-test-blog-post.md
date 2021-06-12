@@ -43,7 +43,13 @@ To this end, the officer's report had said that *'The s106 agreement would there
 
 What actually appeared in the s106 agreement was a more complicated arrangement of three options, two of which require Southwark to find up-front costs of construction.  Delancey argued that the land value and non-residential elements of the social rented housing block had to be taken into account in this transaction and that this arrangement was therefore perfectly correct.  Surprisingly, given that it was putting itself in position of finding money to build something that Delancey would otherwise have pay for, Southwark agreed with Delancey.  The judge agreed with both, against the camapign's arguments, ruling that this was a fair rendering of the committee's decision (AJ 57-60).
 
-Social rent and social rent eq
+### Social rent and social rent equivalent - different, but the same
+
+The legal challeng also took issue with Southwark and Delancey effectively treating *'social rent equivalent'* and *'social rent'* as being the same tenure.
+
+This distinction becomes relevant if part of the development were to be switched from *'Build to Rent'* to *'Build to Sell'*, with a higher affordable housing requirement and higher profit leading to an uplift to the social rented housing numbers.  Delancey argued that any suchupliftwould have to be housed in towers that were managed by the affordable housing provider, who could not cope with real social rented housing, for stock-management reasons, and so the uplift would have to be social rent equivalent.
+
+Despite the campaign offering three sets of differences 
 
 
 
