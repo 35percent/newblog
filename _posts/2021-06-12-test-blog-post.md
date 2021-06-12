@@ -61,6 +61,8 @@ It was not enough for Southwark to allow Delancey almost 10 years to build the s
 
 The appeal court's endorsement of Delancey and Southwark's interpretation of *'land and a sum of money'* (AJ 58, 59) now opens the door, under one option, to Southwark getting nothing more than the land and £1 (one pound).  A second option will get Southwark money to build the social rent, but not the full construction costs.  Both options would leave Southwark having to find upfront construction costs.  And, despite the appeal court's judgement, we don't believe that this is what the planning committee had in mind when it approved Delancey's scheme.
 
+Southwark should also deand to know when Delancey are going to make the application for the £11.24m that back in 2016 was claimed to be both agreed in principal and confirmed, but in reality, in 2021, does not seem to exist.  As at April 2021, Delancey had not completed the registration of its affordable housing provider T3 Reseidential Limited with the Regulator of Social Housing, that the GLA advised was a condition of a successful grant application.
+
 
 
 
