@@ -15,4 +15,7 @@ The legal challenge was mounted as part of a hard-fought campaign by the Up the 
 
 Despite the legal outcome the Up the Elephant Campaign secured many improvements to the original proposals, compared to the baseline of the original application, made in October 2016.
 
+* Increase of social rented housing from 33 units of 'social rent equivalent', owned and managed by the developer, to 116 proper social rented units, owned and managed by the Council or housing association
+*
+
 ###
