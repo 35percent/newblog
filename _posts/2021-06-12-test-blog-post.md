@@ -29,7 +29,7 @@ Despite these improvements Delancey's scheme still remained a bad one, hence the
 
 ### The GLA grant mystery
 
-The status of a purported £11.4m grant from the Mayor, that allowed Delancey to improve the social rented housing offer from 74 to 116 units and how this was reported to the planning committee was a key question before the court. The planning committee was told variously that the grant was *'an agreement in pricinciple for grant funding'* (Officer's report Adden. para 11), or *'recently confirmed'* (OR 371), when in fact it was neither.  There was no grant and no application had been made.  Delancey had only been advised by the Greater London Authority (GLA) that an application would be welcome (Appeal Judgement  para 87) and of the steps that they needed to take to make an application.
+The status of a purported £11.24m grant from the Mayor, that allowed Delancey to improve the social rented housing offer from 74 to 116 units and how this was reported to the planning committee was a key question before the court. The planning committee was told variously that the grant was *'an agreement in pricinciple for grant funding'* (Officer's report Adden. para 11), or *'recently confirmed'* (OR 371), when in fact it was neither.  There was no grant and no application had been made.  Delancey had only been advised by the Greater London Authority (GLA) that an application would be welcome (Appeal Judgement  para 87) and of the steps that they needed to take to make an application.
 
 On this point, the appeal court ruled that while there had been an *'overstatement'* (AJ 87) of the position, all-in-all the committee had not been misled, paricularly as Delancey had committed to building the social rented housing, with or without grant (AJ 85,86).
 
@@ -49,7 +49,19 @@ The legal challeng also took issue with Southwark and Delancey effectively treat
 
 This distinction becomes relevant if part of the development were to be switched from *'Build to Rent'* to *'Build to Sell'*, with a higher affordable housing requirement and higher profit leading to an uplift to the social rented housing numbers.  Delancey argued that any suchupliftwould have to be housed in towers that were managed by the affordable housing provider, who could not cope with real social rented housing, for stock-management reasons, and so the uplift would have to be social rent equivalent.
 
-Despite the campaign offering three sets of differences between the tenures - including differences of security of tenure (3 years assured short-hold for social rent equivalent against lifetime tenancies for social rent) and differences in regulatory oversight - the appeal court judges these differences to be 'nuanced' rather than 'material'
+Despite the campaign offering three sets of differences between the tenures - including differences of security of tenure (3 years assured short-hold for social rent equivalent against lifetime tenancies for social rent) and differences in regulatory oversight - the appeal court judges these differences to be 'nuanced' rather than *'material'.*
+
+### The implications of the judgement
+
+While the Court of Appeal's decision is disappointing, and the end of the legal challenge against the redevelopment of the shopping centre, we are not disheartened.  The Up the Elephant campaign took up the fight in defence of council policy for a minimum amount of social housing, about 170 units, when Southwark Council refused to do so.  The campaign did not succeed in getting 170 units, but it did raise the number from 33 social rent equivalent, to 74, then 116 social rent.  Other gains have been made along the way, as noted at the beginning of this blogpost.
+
+But though the local community and the Up the Elephant campaign won 116 social rented units, Southwark's track record of repeatedly conceding ground to Delancey shows that it is more than capable of losing them.
+
+It was not enough for Southwark to allow Delancey almost 10 years to build the social rented housing; Southwark then allowed Delancey the option of passing the task back to them, without adequately securing the resources to do the job.  Southwark then went to court, not to make sure that they got the social rented housing, but to defend this lopsided arrangement, and back Delancey up, when it argued that this was all fair and proper.
+
+The appeal court's endorsement of Delancey and Southwark's interpretation of *'land and a sum of money'* (AJ 58, 59) now opens the door to Southwark getting nothing more than the land and £1 (one pound), which will not build much, and having to recoup up-front costs through selling or letting non-residential properties.  And, despite the appeal court's judgement, we don't believe that this is what the planning committee had in mind when it approved Delancey's scheme.
+
+
 
 
 
