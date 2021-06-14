@@ -7,6 +7,8 @@ date: 2021-06-12T08:54:43.747Z
 
 The Appeal Court has [upheld the High Court decision](https://www.bailii.org/ew/cases/EWCA/Civ/2021/827.html) allowing developers Delancey to proceed with the demolition and redevelopment of the Elephant and Castle Shopping Centre, after it found that there were no grounds for reversing the High Court's decision.
 
+![](/img/up-the-elephant-high-court.jpg)
+
 The legal challenge was mounted as part of a [hard-fought 4-year campaign](https://www.35percent.org/shopping-centre-closes-but-campaign-for-traders-continues/) by [Up the Elephant](https://twitter.com/UpTheElephant_/status/1398978498740604929?s=09).  This brought together housing campaigners (including the 35% Campaign), students, tenants' groups, local councillors and trade unionists, in the fight for more social rented housing and a better deal for traders displaced by the proposed development.
 
 The decision will now allow the [mixed-use development](https://www.elephantandcastle.org.uk/overview-of-the-plans) of new shops and homes to proceed, with 116 social rented units, out of 979 'Build to Rent' homes.
@@ -23,7 +25,13 @@ Despite the legal outcome the Up the Elephant Campaign secured many improvements
 
 ### What we have lost
 
-Despite these improvements Delancey's scheme still remained a bad one, hence the legal challenge.  The shopping centre may have been shabby, but it housed one of the [largest bingo halls in Britain](http://www.palacebingo.co.uk/london-palace/)[](https://www.facebook.com/londonbowling/), much used by older people from black and ethnic minority backgrounds, with a [bowling alley](https://www.facebook.com/londonbowling/) next door, equally popular with younger people.  It had over decades become one of [two social hubs for Latin Americans](https://www.runnymedetrust.org/blog/the-fight-isnt-over-for-elephant-and-castles-latin-american-community) living in London (along with [Wards Corner](https://www.facebook.com/wardscornercommunity/), in Seven Sisters).  Most of the other [independent traders](https://latinelephant.org/displaced-traders-with-no-relocation/) come from other parts of the world and had built for themselves and their families.  All this would be lost.  And while the affordable housing 'offer' was improved it still did not meet Southwark's minimum policy requirements, falling short by over fifty homes for social rent.
+Despite these improvements Delancey's scheme still remained a bad one, hence the legal challenge.  The shopping centre may have been shabby, but it housed one of the [largest bingo halls in Britain](http://www.palacebingo.co.uk/london-palace/)[](https://www.facebook.com/londonbowling/), much used by older people from black and ethnic minority backgrounds, with a [bowling alley](https://www.facebook.com/londonbowling/) next door, equally popular with younger people. 
+
+![](https://35percent.github.io/uptheelephant/img/header.jpg)
+
+It had over decades become one of [two social hubs for Latin Americans](https://www.runnymedetrust.org/blog/the-fight-isnt-over-for-elephant-and-castles-latin-american-community) living in London (along with [Wards Corner](https://www.facebook.com/wardscornercommunity/), in Seven Sisters).  Most of the other [independent traders](https://latinelephant.org/displaced-traders-with-no-relocation/) come from other parts of the world and had built for themselves and their families.  All this would be lost.  And while the affordable housing 'offer' was improved it still did not meet Southwark's minimum policy requirements, falling short by over fifty homes for social rent.
+
+![](https://35percent.github.io/img/traderscomp.jpeg)
 
 ### The GLA grant mystery
 
