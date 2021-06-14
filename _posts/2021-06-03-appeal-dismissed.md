@@ -57,13 +57,15 @@ But Delancey objected and the clause requiring Delancey to pay Southwark the est
 
 Delancey argued that paragraph 364's requirement to transfer the land and a sum of money shouldn't be interpreted to assume that the land should be transferred at nil value and that the value of the completed social rented units together with the handful of retail units in the same block should be offset against the construction costs. Southwark's officers conceded this argument and now instead of receiving the land and £46m construction costs, the Council will receive the land and just £1.
 
+![](/img/screenshot-2021-06-14-at-09-59-23-the5a84-pdf.png "Replacement clause in the S106 agreement.")
+
 The judge agreed with Delancey's and Southwark's interpretation in his [dismissal](https://www.bailii.org/ew/cases/EWCA/Civ/2021/827.html) of our appeal.
 
 ![](/img/screenshot-2021-06-03-at-11-28-40-flynn-r-on-the-application-of-v-the-london-borough-of-southwark-council-anor-2021-ew-...-.png)
 
 We say that if the planning committee had been told that Delancey could offload provision of the social rented units onto the Council by transferring a bit of land and £1 then the planning committee may have voted otherwise.
 
-Having failed in our legal challenge on this point we now want to ..
+We'll be writing more about this in our next blog post.
 
 ## Social rent and social rent equivalent – different, but the same
 
