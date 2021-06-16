@@ -38,7 +38,7 @@ The status of a purported [£11.24m grant from the Mayor](https://www.35percent.
 
 On this point, the appeal court ruled that while there had been an *'overstatement'* ([AJ 87](https://www.bailii.org/ew/cases/EWCA/Civ/2021/827.html)) of the position, all-in-all the committee had not been misled, particularly as Delancey had committed to building the social rented housing, with or without grant ([AJ 85,86](https://www.bailii.org/ew/cases/EWCA/Civ/2021/827.html)).
 
-This commitment naturally led the legal challenge to argue that if Delancey could provide 116 social rented units without grant, they should be able to provide more with grant.  Again, the appeal court did not agree, citing the viability assessment, which stated that 116 units was *'the maximum reasonable amount'* of social rented housing, and accepting that Delancey was committed to building the social rented housing at their own risk, even if grant were not available ([AJ 91](https://www.bailii.org/ew/cases/EWCA/Civ/2021/827.html)).
+This commitment naturally led the legal challenge to argue that if Delancey could provide 116 social rented units without grant, they should be able to provide more with a grant.  Again, the appeal court did not agree, citing the viability assessment, which stated that 116 units was *'the maximum reasonable amount'* of social rented housing, and accepting that Delancey was committed to building the social rented housing at their own risk, even if grant were not available ([AJ 91](https://www.bailii.org/ew/cases/EWCA/Civ/2021/827.html)).
 
 ### 'The land and sum of money'
 
