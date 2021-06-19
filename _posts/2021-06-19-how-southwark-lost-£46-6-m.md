@@ -21,23 +21,27 @@ Come October 2016 words to this effect duly appeared in an early draft of the s1
 
 However, this whole clause was struck through. The s106 now has with no cash figure for the payment and Delancey are no longer paying the full construction costs.  Instead it would pay an unspecified amount, *'equal to the Social Rented Construction Costs...less the value of the Social Rented Value of the ...Units' (*ref).
 
+SCREENSHOT OF BOTH VERSIONS HERE?
+
 By December 2018, there have been further changes.  A simple arrangement, where Delancey transfers the land and makes a specified payment, has been transformed into three options.  Option 1 is that Delancey build the units itself, for Southwark or a housing association to take on, the usual course under a s106 agreement.  The other two options require Southwark to meet upfront costs themselves (recouping these from selling or letting the non residential elements parts of the building) or getting the net social rent construction payment, the amount to be agreed or *'determined by the Specialist'*. 
 
 ### From £46.6m to £1 (one pound)
 
-The most alarming of the options is Option 3.  This allows Delancey to simply transfer the land with a cash payment of £1 (one pound), with nothing else to be paid.  The logic behind this is that the value of the non-residential parts makes up for any lost payment.
+The most alarming of the options is Option 3.  This allows Delancey to simply transfer the land with a cash payment of £1 (one pound), with nothing else to be paid.  (The logic behind this is that the value of the non-residential parts makes up for any lost payment).
 
-Option 3 becomes particularly alarming in the light of the appeal court judgement.  
+The situation becomes particularly alarming in the light of the appeal court judgement, which interpreted the phrase *the land and a sum of money sufficient for the construction* to mean not just the land in a physical sense, but also to include the value of the land ruled that the value of the land could be taken into account in the transaction.
 
-SCREENSHOT OF BOTH VERSIONS
+In reaching this interpretation the court was adopting the reasoning, not just of Delancey's barrister, but of Southwark's own barrister, (who joined his colleague representing the offshore, tax-avoiding property developer, in painting the 'sum of money', needed by a local authority to build social housing, as a 'windfall' the simply were not entitled to, under the terms of s106 and according to planning regulations. 
 
-### What the Court said
-
- 
-
-
+   
 
 ### Who will pay for the social housing?
+
+This sorry story has a clear trajectory. At the beginning, Southwark were looking at getting over £46m, if it has to build the social rented units, but at every each step in the subsequent negotiations Southwark has given ground to such an extent that, in a worst case scenario, it now faces getting nothing, in cash terms, depending on the value given to the land.
+
+CITE AYLESBURY? FDS?
+
+A worst case scenario for Southwark is of course a best case scenario for Delancey - clever work by lawyers it could be relieved of paying tens of millions in costs and given its track record - ST story -  Lister
 
  Worst case scenario - S get land overvalued with Delancey claiming it meets construction costs  - plus £1!  Delancey's track - record - previous blog
 
@@ -52,3 +56,5 @@ Getting long-lease hold, not freehold, although social rent appears to have been
 Best option for Southwark now is to insist on option 1; renegotiate s106; let RP take over - retain money to build 116 council homes elsewhere.
 
 Southwark could opt for net s/r costs, but this also entails establishing a land value - TRUE? OR - involves a complicated transaction of establishing costs and values, and we have no confidence in Southwark's ability to exercise this option without leaving itself out of pocket.
+
+### Southwark & Delancey v the People
