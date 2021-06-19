@@ -11,6 +11,8 @@ This arrangement first appeared in a note for the 'heads of terms' of the legal 
 
 It then duly appeared in the OR for the planning committee to consider and approve in July 2018.
 
+Appeared in draft strikethrough - screenshot comparing with final version.
+
 However after the At some point between between 
 
 Worst case scenario - S get land overvalued with Delancey claiming it meets construction costs  - plus £1!  Delancey's track - record - previous blog
