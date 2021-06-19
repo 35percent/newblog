@@ -7,7 +7,7 @@ date: 2021-06-19T08:56:33.093Z
 
 Southwark Council has waived a payment of £46.6m from developer Delancey in their legal agreement for the redevelopment of the Elephant & Castle shopping centre. The payment would have been made by Delancey in the event of Southwark having to take over the construction of the 116 social rented units in the scheme, but never found its way into the final s106 agreement
 
-Delancey agreed to build the social rented homes in DATE, after it failed to secure planning permission for the shopping centre's redevelopment at its first attempt.   Delancey also agreed that if it had not started building the homes itself within ten years, it would provide the land and the money for Southwark or a housing association, for them to do so instead.
+Delancey agreed to build the social rented homes in DATE, after it failed to secure planning permission for the shopping centre's redevelopment at its first attempt.   Delancey also agreed that if they had not started building the homes themselves within ten years, they would provide the land and the money for Southwark, or a housing association, to do so instead.
 
 This arrangement first appeared in a note about the 'heads of terms' of the legal s106 agreement', drafted by Delancey's planning consultant DS2, in June 2018.  The note said that if Southwark took over the work, Delancey would transfer the land *'and pay to the Council or a Registered Provider....'the sum of \[£    ] for the purposes of construction and completion of the West Site Social rented Units'*, leaving the precise amount blank.
 
@@ -29,9 +29,9 @@ By December 2018, there have been further changes.  A simple arrangement, where 
 
 The most alarming of the options is Option 3.  This allows Delancey to simply transfer the land with a cash payment of £1 (one pound), with nothing else to be paid.  (The logic behind this is that the value of the non-residential parts makes up for any lost payment).
 
-The situation becomes particularly alarming in the light of the appeal court judgement, which interpreted the phrase *the land and a sum of money sufficient for the construction* to mean not just the land in a physical sense, but also to include the value of the land ruled that the value of the land could be taken into account in the transaction.
+The situation becomes particularly alarming in the light of the appeal court judgement, which interpreted the phrase *the land and a sum of money sufficient for the construction* to mean not just the land in a physical sense, but also to include the value of the land.
 
-In reaching this interpretation the court was adopting the reasoning, not just of Delancey's barrister, but of Southwark's own barrister, (who joined his colleague representing the offshore, tax-avoiding property developer, in painting the 'sum of money', needed by a local authority to build social housing, as a 'windfall' the simply were not entitled to, under the terms of s106 and according to planning regulations. 
+In reaching this interpretation the court was adopting the reasoning, not just of Delancey's barrister, but of Southwark's barrister, who joined his colleague representing the offshore, tax-avoiding property developer, in painting the 'sum of money', needed by a local authority to build social housing, as a 'windfall' they simply were not entitled to, under the terms of s106 and according to planning regulations. 
 
    
 
