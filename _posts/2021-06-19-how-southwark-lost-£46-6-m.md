@@ -1,9 +1,11 @@
 ---
 layout: post
-title: How Southwark 'lost' £46.6 m at the Elephant
+title: "How Southwark 'lost' the chance of £46.6 m on the "
 date: 2021-06-19T08:56:33.093Z
 ---
-Southwark Council has waived a payment of £46.6m from developer Delancey in their legal agreement for the redevelopment of the Elephant & Castle shopping centre. The payment would have been made by Delancey in the event of Southwark having to take over the construction of the 116 social rented units in the scheme.
+### Southwark negotiated out of £46.6m payment at the Elephant
+
+Southwark Council has waived a payment of £46.6m from developer Delancey in their legal agreement for the redevelopment of the Elephant & Castle shopping centre. The payment would have been made by Delancey in the event of Southwark having to take over the construction of the 116 social rented units in the scheme, but never found its way into the final s106 agreement
 
 Delancey agreed to build the social rented homes in DATE, after it failed to secure planning permission for the shopping centre's redevelopment at its first attempt.   Delancey also agreed that if it had not started building the homes itself within ten years, it would provide the land and the money for Southwark or a housing association, for them to do so instead.
 
@@ -19,7 +21,7 @@ However, this whole clause has been struck through. The s106 now has no cash fig
 
 By the time of the final draft of December 2018, this has become three options.  Option 1 is simply that Delancey build the units itself, for Southwark or a housing association to take on,the usual course under a s106 agreement.  The other two options require Southwark to meet upfront costs themselves (recouping these from selling or letting the non residential elements parts of the building) or getting the net social rent construction payment, the amount to be agreed or *'determined by the Specialist'*. 
 
-There will no longer be any payment   
+The most alarming of the options is Option 3 third, particularly in the light of the appeal court judgement.  This allows Delancey to simply transfer the land with a cash payment of £1 (one pound), with nothing else
 
 
 
@@ -27,7 +29,7 @@ SCREENSHOT OF BOTH VERSIONS
 
 ### What the Court said
 
-But the most alarming of the options is the third, particularly in the light of the appeal court judgement.  This allows Delancey to simply transfer the land with a cash payment of £1 (one pound), with nothing else 
+ 
 
 
 
