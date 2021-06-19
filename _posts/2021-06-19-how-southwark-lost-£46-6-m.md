@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "How Southwark 'lost' the chance of £46.6 m on the "
+title: Southwark negotiated out of multi-million pound payment at the Elephant
 date: 2021-06-19T08:56:33.093Z
 ---
-### Southwark negotiated out of £46.6m payment at the Elephant
+### How Southwark lost the chance of £46.6 m. on the shopping centre redevelopment
 
 Southwark Council has waived a payment of £46.6m from developer Delancey in their legal agreement for the redevelopment of the Elephant & Castle shopping centre. The payment would have been made by Delancey in the event of Southwark having to take over the construction of the 116 social rented units in the scheme, but never found its way into the final s106 agreement
 
