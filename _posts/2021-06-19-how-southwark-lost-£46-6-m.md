@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Southwark negotiated out of multi-million pound payment at the Elephant
+title: Southwark negotiates itself out of multi-million pound payment at the Elephant
 date: 2021-06-19T08:56:33.093Z
 ---
 ### How Southwark lost the chance of £46.6 m. on the shopping centre redevelopment
