@@ -19,13 +19,15 @@ The planning committee approved Delancey's scheme, including this arrangement, o
 
 Come October 2016 words to this effect duly appeared in an early draft of the s106, saying that Delancey would transfer the land to the Council (or housing association) and '*..pay to the Council or Registered Provider ...the sum of **£46,636,200** (Forty six million, six hundred and thirty six thousand and two hundred pounds)'.*
 
-However, this whole clause was struck through. The s106 now has no cash figure for the payment and Delancey would no longer be paying the full construction costs.  Instead it would pay an unspecified amount, *'equal to the Social Rented Construction Costs...less the value of the Social Rented Value of the ...Units' (*ref).
+However, this whole clause was struck through. The s106 now has with no cash figure for the payment and Delancey are no longer paying the full construction costs.  Instead it would pay an unspecified amount, *'equal to the Social Rented Construction Costs...less the value of the Social Rented Value of the ...Units' (*ref).
 
-By the time of the final draft of December 2018, this has become three options.  Option 1 is simply that Delancey build the units itself, for Southwark or a housing association to take on,the usual course under a s106 agreement.  The other two options require Southwark to meet upfront costs themselves (recouping these from selling or letting the non residential elements parts of the building) or getting the net social rent construction payment, the amount to be agreed or *'determined by the Specialist'*. 
+By December 2018, there have been further changes.  A simple arrangement, where Delancey transfers the land and makes a specified payment, has been transformed into three options.  Option 1 is that Delancey build the units itself, for Southwark or a housing association to take on, the usual course under a s106 agreement.  The other two options require Southwark to meet upfront costs themselves (recouping these from selling or letting the non residential elements parts of the building) or getting the net social rent construction payment, the amount to be agreed or *'determined by the Specialist'*. 
 
-The most alarming of the options is Option 3 third, particularly in the light of the appeal court judgement.  This allows Delancey to simply transfer the land with a cash payment of £1 (one pound), with nothing else
+### From £46.6m to £1 (one pound)
 
+The most alarming of the options is Option 3.  This allows Delancey to simply transfer the land with a cash payment of £1 (one pound), with nothing else to be paid.  The logic behind this is that the value of the non-residential parts makes up for any lost payment.
 
+Option 3 becomes particularly alarming in the light of the appeal court judgement.  
 
 SCREENSHOT OF BOTH VERSIONS
 
