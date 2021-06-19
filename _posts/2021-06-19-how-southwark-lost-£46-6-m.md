@@ -17,7 +17,7 @@ Words to this effect duly appeared in an early draft of the s106, saying that De
 
 However, this whole clause has been struck through. The s106 now has no cash figure for the payment and Delancey would no longer be paying the full construction costs.  Instead it would pay an unspecified amount, *'equal to the Social Rented Construction Costs...less the value of the Social Rented Value of the ...Units' (*ref).
 
-By the time of the final draft of December 2018, this has become three options.  Option 1 is simply that Delancey build the units itself, for Southwark or a housing association to take on,the usual course under a s106 agreement.  The other two options require Southwark to meet upfront costs themselves (recouping these from selling or letting the non residential elements parts of the building) or getting a net social rent construction payment, the amount to be agreed or *'determined by the Specialist'*. 
+By the time of the final draft of December 2018, this has become three options.  Option 1 is simply that Delancey build the units itself, for Southwark or a housing association to take on,the usual course under a s106 agreement.  The other two options require Southwark to meet upfront costs themselves (recouping these from selling or letting the non residential elements parts of the building) or getting the net social rent construction payment, the amount to be agreed or *'determined by the Specialist'*. 
 
 There will no longer be any payment   
 
@@ -27,7 +27,7 @@ SCREENSHOT OF BOTH VERSIONS
 
 ### What the Court said
 
-But the most alarming of the options is the third.  
+But the most alarming of the options is the third, particularly in the light of the appeal court judgement.  This allows Delancey to simply transfer the land with a cash payment of £1 (one pound), with nothing else 
 
 
 
