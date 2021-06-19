@@ -7,7 +7,7 @@ Southwark Council's agreement for the Elephant shopping centre redevelopment wai
 
 Delancey agreed to provide 116 social rented units, as a late concession to secure planning permission,  after failing to do so at its first try (date). It also agreed to provide 'land and a sum of money sufficient for the construction......., if it had not itself commenced building the units within ten years (of the development commencing).
 
-This arrangement first appeared in a note for the 'heads of terms' of the legal s106 agreement', drafted by Delancey's planning consultant DS2, in June 2015, which said if Southwark took over the work, Delancey would transfer the land and pay Southwark 'the sum of \[£    ], leaving the precise amount blank. June 2018.  June 2018
+This arrangement first appeared in a note for the 'heads of terms' of the legal s106 agreement', drafted by Delancey's planning consultant DS2, in June 2015, which said if Southwark took over the work, Delancey would transfer the land and pay Southwark, or registered provider,'the sum of \[£    ], leaving the precise amount blank. June 2018.  June 2018
 
 It then duly appeared in the OR for the planning committee to consider and approve in July 2018.
 
