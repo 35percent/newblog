@@ -21,13 +21,15 @@ SCREENSHOT OF BOTH VERSIONS
 
 ### What the Court said
 
-Worst case scenario - S get land overvalued with Delancey claiming it meets construction costs  - plus £1!  Delancey's track - record - previous blog
+
+
+### Who will pay for the social housing?
+
+ Worst case scenario - S get land overvalued with Delancey claiming it meets construction costs  - plus £1!  Delancey's track - record - previous blog
 
 How has Southwark got itself inot a position where this is even a possibility?
 
 Unfortunately Southwark has given Delancey the option to hand over construction, rather than not retain it for itself; one in a series of needless concessions made - BtR policy, viability, option to build, delay to social rented
-
-### Who will pay for the social housing? 
 
 A simple arrangement, easily understood, with a clearly defined cash payment from Delancey to Southwark has been lost. Instead we have a complicated arrangement of three options, two of which are replete with arguable costs and values, and provide Delancey with ample opportunity to pass the cost of building 
 
