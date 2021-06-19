@@ -17,7 +17,7 @@ The planning committee approved Delancey's scheme, including this arrangement, o
 
 *'The s106 agreement would therefore stipulate that if the development  on the west site has not substantially commenced within 10 years of the east site commencing, the land and a sum of money sufficient for the construction and completion of the social rented units would be transferred to the council, to deliver the social rented units'.* (OR364).
 
-Words to this effect duly appeared in an early draft of the s106, saying that Delancey would transfer the land to the Council (or housing association) and '*..pay to the Council or Registered Provider ...the sum of **£46,636,200** (Forty six million, six hundred and thirty six thousand and two hundred pounds)'.*
+Come October 2016 words to this effect duly appeared in an early draft of the s106, saying that Delancey would transfer the land to the Council (or housing association) and '*..pay to the Council or Registered Provider ...the sum of **£46,636,200** (Forty six million, six hundred and thirty six thousand and two hundred pounds)'.*
 
 However, this whole clause has been struck through. The s106 now has no cash figure for the payment and Delancey would no longer be paying the full construction costs.  Instead it would pay an unspecified amount, *'equal to the Social Rented Construction Costs...less the value of the Social Rented Value of the ...Units' (*ref).
 
