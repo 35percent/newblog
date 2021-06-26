@@ -33,7 +33,7 @@ The situation becomes particularly alarming in the light of the appeal court jud
 
 The court therefore ruled that it would be *'sufficient',* under Option 3, for Southwark to receive just a £1, to build the social rented units, after taking account of the value of the non-residential floorspace. ([AJ 59](https://www.bailii.org/ew/cases/EWCA/Civ/2021/827.html))
 
-In reaching this startling interpretation the court was adopting the reasoning, not just of Delancey's barrister, but of Southwark's barrister, who joined his colleague representing the offshore, tax-avoiding property developer, in painting the 'sum of money', needed by a local authority to build social housing, as a windfall (CHECK QUOTE) they simply were not entitled to, under the terms of s106 and according to planning regulations ([AJ 58](https://www.bailii.org/ew/cases/EWCA/Civ/2021/827.html)).
+In this startling interpretation the court adopted the reasoning, not just of Delancey's barrister, but of Southwark's barrister, who joined his colleague representing the offshore, tax-avoiding property developer, in painting the 'sum of money', needed by a local authority to build social housing, as a windfall (CHECK QUOTE) they simply were not entitled to, under the terms of s106 and according to planning regulations ([AJ 58](https://www.bailii.org/ew/cases/EWCA/Civ/2021/827.html)).
 
 ### Who will pay for the social housing?
 
