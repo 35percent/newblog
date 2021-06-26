@@ -43,7 +43,7 @@ A worst case scenario for Southwark is of course a best case scenario for Delanc
 
 
 
-How has Southwark got itself inot a position where this is even a possibility?
+How has Southwark   got itself inot a position where this is even a possibility?
 
 Unfortunately Southwark has given Delancey the option to hand over construction, rather than not retain it for itself; one in a series of needless concessions made - BtR policy, viability, option to build, delay to social rented
 
