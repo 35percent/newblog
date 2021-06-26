@@ -37,7 +37,7 @@ In reaching this startling interpretation the court was adopting the reasoning, 
 
 ### Who will pay for the social housing?
 
-This sorry story has a clear trajectory. At the beginning, Southwark were looking at getting over £46m, if it has to build the shopping centre development's social rented units itself.  But then at every each step in the subsequent negotiations Southwark gve ground to such an extent that, in a worst case scenario, it now faces getting nothing, in cash terms.  A simple arrangement, easily understood, with a clearly defined cash payment has become  a complicated arrangement of three options, two of which are replete with arguable costs and values, and provide Delancey with ample opportunity to pass the cost of buildin 
+This sorry story has a clear trajectory. At the beginning, Southwark were looking at getting over £46m, if it has to build the shopping centre development's social rented units itself.  But then at every each step in the subsequent negotiations Southwark gve ground to such an extent that, in a worst case scenario, it now faces getting nothing, in cash terms.  A simple arrangement, easily understood, with a clearly defined cash payment has become  a complicated arrangement of three options, two of which are replete with arguable costs and values, and provide Delancey with ample opportunity to pass the cost of building the social rent back to Southwark. 
 
 A worst case scenario for Southwark is of course a best case scenario for Delancey - with clever work by lawyers and consultants it could be relieved of paying tens of millions in costs and given its track record (LINK ST story-Lister; last blog) and it can only b expected that this is 
 
