@@ -41,6 +41,4 @@ This sorry story has a clear trajectory. At the beginning, Southwark were lookin
 
 This worst case scenario for Southwark is of course a best case scenario for Delancey - with clever work by lawyers and consultants it could be relieved of paying tens of millions in costs and given its track record (LINK ST story-Lister; last blog) it can only be expected that this is what will happen.
 
-Even were this not to be the case, the question must be asked how has Southwark got itself into a position where this is even a possibility?  S106 contributions, such as affordable housing should come at no cost to the borough.  Southwark now looks as
-
-The best course of action for Southwark now is to insist that
+Even were this not to be the case, the question must be asked how has Southwark got itself into a position where this is even a possibility?  S106 contributions, such as affordable housing should come at no cost to the borough, but as far as the shopping centre development is concerned, Southwark now looks as if it will be digging into its own pocket.....
