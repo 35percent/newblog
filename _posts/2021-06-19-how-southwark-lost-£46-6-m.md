@@ -19,11 +19,11 @@ The planning committee approved Delancey's scheme, including this arrangement, o
 
 Come October 2016 words to this effect duly appeared in an early draft of the s106, saying that Delancey would transfer the land to the Council (or housing association) and '*..pay to the Council or Registered Provider ...the sum of **£46,636,200** (Forty six million, six hundred and thirty six thousand and two hundred pounds)'.*
 
-However, this whole clause was struck through. The s106 now has with no cash figure for the payment and Delancey are no longer paying the full construction costs.  Instead it would pay an unspecified amount, *'equal to the Social Rented Construction Costs...less the value of the Social Rented Value of the ...Units' (*ref).
+However, this whole clause was struck through, leaving the s106 without a cash figure for the payment and with Delancey are no longer paying the full construction costs.  Instead it would pay an unspecified amount, *'equal to the Social Rented Construction Costs...less the value of the Social Rented Value of the ...Units' (*ref).
 
 SCREENSHOT OF BOTH VERSIONS HERE?
 
-By December 2018, there have been further changes.  A simple arrangement, where Delancey transfers the land and makes a specified payment, has been transformed into three options.  Option 1 is that Delancey build the units itself, for Southwark or a housing association to take on, the usual course under a s106 agreement.  The other two options require Southwark to meet upfront costs themselves (recouping these from selling or letting the non residential elements parts of the building) or getting the net social rent construction payment, the amount to be agreed or *'determined by the Specialist'*. 
+Further changes to the s106 followed and by December 2018 a simple arrangement, whereby Delancey transferred the land for the social housing and makes a specified cash payment to build it, had been transformed into three options.  Option 1 is that Delancey build the units itself, for Southwark or a housing association to take on, the usual course under a s106 agreement.  The other two options require Southwark to meet upfront costs themselves (recouping these from selling or letting the non residential elements parts of the building) or getting the net social rent construction payment, the amount to be agreed or *'determined by the Specialist'*. 
 
 ### From £46.6m to £1 (one pound)
 
