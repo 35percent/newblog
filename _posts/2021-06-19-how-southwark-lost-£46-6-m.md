@@ -5,15 +5,15 @@ date: 2021-06-19T08:56:33.093Z
 ---
 ### How Southwark lost the chance of £46.6 m. on the shopping centre redevelopment
 
-Southwark Council has waived a payment of £46.6m from developer Delancey in their legal agreement for the redevelopment of the Elephant & Castle shopping centre. The payment would have been made by Delancey in the event of Southwark having to take over the construction of the 116 social rented units in the scheme, but never found its way into the final s106 agreement
+Southwark Council has waived a payment of £46.6m from developer Delancey in their legal agreement for the redevelopment of the Elephant & Castle shopping centre. The payment would have been made by Delancey in the event of Southwark having to take over the construction of the 116 social rented units in the scheme, but never found its way into the [final s106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!vE9wO3JaHe3qFSlAm%2fikmA%3d%3d!%7d%7d%7d)
 
-Delancey agreed to build the social rented homes in July 2018, after it failed to secure planning permission for the shopping centre's redevelopment at its first attempt, in January.   Delancey also agreed that if they had not started building the homes themselves within ten years, they would provide the land and the money for Southwark, or a housing association, to do so instead.
+Delancey [agreed to build](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!b5xBNaYRSleWlYx6oXVrEA%3d%3d!%7d%7d%7d) the social rented homes in June 2018, after it failed to secure planning permission for the shopping centre's redevelopment at its first attempt, in January.   Delancey also agreed that if they had not started building the homes themselves within ten years, they would provide the land and the money for Southwark, or a housing association, to do so instead.
 
-This arrangement first appeared in a note about the 'heads of terms' of the legal s106 agreement', drafted by Delancey's planning consultant DS2, in June 2018.  The note said that if Southwark took over the work, Delancey would transfer the land *'and pay to the Council or a Registered Provider....'the sum of \[£    ] for the purposes of construction and completion of the West Site Social rented Units'*, leaving the precise amount blank.
+This arrangement first appeared in a note about the 'heads of terms' of the legal s106 agreement', drafted by Delancey's planning consultant DS2, in June 2018 (LINK ADRIAN).  The note said that if Southwark took over the work, Delancey would transfer the land *'and pay to the Council or a Registered Provider....'the sum of \[£    ] for the purposes of construction and completion of the West Site Social rented Units'*, leaving the precise amount blank.
 
 ### 'Land and a sum of money'
 
-The planning committee approved Delancey's scheme, including  this arrangement, on DATE July  2018.  The report said;
+The planning committee [approved Delancey's scheme](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d), including  this arrangement, on 3 July  2018.  The report said;
 
 *'The s106 agreement would therefore stipulate that if the development  on the west site has not substantially commenced within 10 years of the east site commencing, the land and a sum of money sufficient for the construction and completion of the social rented units would be transferred to the council, to deliver the social rented units'.* (OR364).
 
