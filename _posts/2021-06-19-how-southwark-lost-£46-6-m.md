@@ -13,7 +13,7 @@ This arrangement first appeared in a note about the 'heads of terms' of the lega
 
 ### 'Land and a sum of money'
 
-The planning committee approved Delancey's scheme, including this arrangement, on DATE July  2018.  The report said;
+The planning committee approved Delancey's scheme, including  this arrangement, on DATE July  2018.  The report said;
 
 *'The s106 agreement would therefore stipulate that if the development  on the west site has not substantially commenced within 10 years of the east site commencing, the land and a sum of money sufficient for the construction and completion of the social rented units would be transferred to the council, to deliver the social rented units'.* (OR364).
 
@@ -27,17 +27,17 @@ Further changes to the s106 followed and by December 2018 a simple arrangement, 
 
 ### From £46.6m to £1 (one pound)
 
-The most alarming of the options is Option 3.  This allows Delancey to simply transfer the land with a cash payment of £1 (one pound), with nothing else to be paid.  (The logic behind this is that the value of the non-residential parts makes up for any lost payment).
+The most alarming of the options is Option 3.  This allows Delancey to simply transfer the land with a cash payment of £1 (one pound), with nothing else to be paid.  (The logic behind this is that the value of the non-residential parts makes up for any lost payment) (AJ 56)
 
-The situation becomes particularly alarming in the light of the appeal court judgement, which interpreted the phrase *the land and a sum of money sufficient for the construction* to mean not just the land in a physical sense, but also to include the value of the land.
+The situation becomes particularly alarming in the light of the appeal court judgement, which interpreted the phrase *the land and a sum of money sufficient for the construction* *and completion of the social rented units"*to mean not just the land in a physical sense, but also to include the value of the land.  The judgement says that *'it is wrong to contend that the phrase....connotes a requirement for the council to receive the whole cost of constructing the social rented units, as well as the land'.* (AJ 58)  Not to include the value of the land would be *'artificial and unjustified'* (AJ 60) and would otherwise amount to a *'windfall'* for Southwark (AJ 58).
 
-In reaching this interpretation the court was adopting the reasoning, not just of Delancey's barrister, but of Southwark's barrister, who joined his colleague representing the offshore, tax-avoiding property developer, in painting the 'sum of money', needed by a local authority to build social housing, as a 'windfall' (CHECK QUOTE) they simply were not entitled to, under the terms of s106 and according to planning regulations.
+The court therefore ruled that it would be *'sufficient',* under Option 3, for Southwark to receive just a £1, to build the social rented units, after taking account of the value of the non-residential floorspace. (AJ 59)
 
-The judgement says that 
+In reaching this startling interpretation the court was adopting the reasoning, not just of Delancey's barrister, but of Southwark's barrister, who joined his colleague representing the offshore, tax-avoiding property developer, in painting the 'sum of money', needed by a local authority to build social housing, as a 'windfall' (CHECK QUOTE) they simply were not entitled to, under the terms of s106 and according to planning regulations.
 
 ### Who will pay for the social housing?
 
-This sorry story has a clear trajectory. At the beginning, Southwark were looking at getting over £46m, if it has to build the social rented units, but at every each step in the subsequent negotiations Southwark has given ground to such an extent that, in a worst case scenario, it now faces getting nothing, in cash terms, depending on the value given to the land.
+This sorry story has a clear trajectory. At the beginning, Southwark were looking at getting over £46m, if it has to build the social rented units itself, but at every each step in the subsequent negotiations Southwark has given ground to such an extent that, in a worst case scenario, it now faces getting nothing, in cash terms, depending on the value given to the land.
 
 CITE AYLESBURY? FDS?
 
@@ -56,5 +56,7 @@ Getting long-lease hold, not freehold, although social rent appears to have been
 Best option for Southwark now is to insist on option 1; renegotiate s106; let RP take over - retain money to build 116 council homes elsewhere.
 
 Southwark could opt for net s/r costs, but this also entails establishing a land value - TRUE? OR - involves a complicated transaction of establishing costs and values, and,  given the sorry saga of the s106 negotiation, we have no confidence in Southwark's ability to exercise this option without leaving itself out of pocket.
+
+It is not beyond the realms of possibility that Delancey may end up asking Southwark for a payment, if the land value outstrips the cost of construction? 
 
 ### Southwark & Delancey v the People
