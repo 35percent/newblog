@@ -53,6 +53,6 @@ Getting long-lease hold, not freehold, although social rent appears to have been
 
 Best option for Southwark now is to insist on option 1; renegotiate s106; let RP take over - retain money to build 116 council homes elsewhere.
 
-Southwark could opt for net s/r costs, but this also entails establishing a land value - TRUE? OR - involves a complicated transaction of establishing costs and values, and we have no confidence in Southwark's ability to exercise this option without leaving itself out of pocket.
+Southwark could opt for net s/r costs, but this also entails establishing a land value - TRUE? OR - involves a complicated transaction of establishing costs and values, and,  given the sorry saga of the s106 negotiation, we have no confidence in Southwark's ability to exercise this option without leaving itself out of pocket.
 
 ### Southwark & Delancey v the People
