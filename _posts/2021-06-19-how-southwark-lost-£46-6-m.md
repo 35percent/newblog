@@ -23,7 +23,7 @@ However, this whole clause was struck through, leaving the s106 without a cash f
 
 SCREENSHOT OF BOTH VERSIONS HERE?
 
-Further changes to the s106 followed and by December 2018 a simple arrangement, whereby Delancey transferred the land for the social housing and makes a specified cash payment to build it, had been transformed into three options.  Option 1 is that Delancey build the units itself, for Southwark or a housing association to take on, the usual course under a s106 agreement.  The other two options require Southwark to meet upfront costs themselves (recouping these from selling or letting the non residential elements parts of the building) or getting the net social rent construction payment, the amount to be agreed or *'determined by the Specialist'*. 
+Further changes to the s106 followed and by December 2018 a simple arrangement, whereby Delancey transferred the land for the social housing and makes a specified cash payment to build it, had been transformed into three options.  Option 1 is that Delancey build the units itself, for Southwark or a housing association to take on, the usual course under a s106 agreement.  Options 2 and 3, require Southwark to meet upfront costs themselves (recouping these from selling or letting the non residential elements parts of the building) or getting a payment for the net social rent construction costs, the amount to be agreed or *'determined by the Specialist'*. 
 
 ### From £46.6m to £1 (one pound)
 
@@ -31,7 +31,7 @@ The most alarming of the options is Option 3.  This allows Delancey to simply tr
 
 The situation becomes particularly alarming in the light of the appeal court judgement, which interpreted the phrase *the land and a sum of money sufficient for the construction* to mean not just the land in a physical sense, but also to include the value of the land.
 
-In reaching this interpretation the court was adopting the reasoning, not just of Delancey's barrister, but of Southwark's barrister, who joined his colleague representing the offshore, tax-avoiding property developer, in painting the 'sum of money', needed by a local authority to build social housing, as a 'windfall' they simply were not entitled to, under the terms of s106 and according to planning regulations. 
+In reaching this interpretation the court was adopting the reasoning, not just of Delancey's barrister, but of Southwark's barrister, who joined his colleague representing the offshore, tax-avoiding property developer, in painting the 'sum of money', needed by a local authority to build social housing, as a 'windfall' (CHECK QUOTE) they simply were not entitled to, under the terms of s106 and according to planning regulations. 
 
 ### Who will pay for the social housing?
 
@@ -39,7 +39,7 @@ This sorry story has a clear trajectory. At the beginning, Southwark were lookin
 
 CITE AYLESBURY? FDS?
 
-A worst case scenario for Southwark is of course a best case scenario for Delancey - clever work by lawyers it could be relieved of paying tens of millions in costs and given its track record - ST story -  Lister
+A worst case scenario for Southwark is of course a best case scenario for Delancey - with clever work by lawyers it could be relieved of paying tens of millions in costs and given its track record - ST story -  Lister
 
  Worst case scenario - S get land overvalued with Delancey claiming it meets construction costs  - plus £1!  Delancey's track - record - previous blog
 
