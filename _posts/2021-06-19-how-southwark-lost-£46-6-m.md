@@ -29,34 +29,18 @@ Further changes to the s106 followed and by December 2018 a simple arrangement, 
 
 The most alarming of the options is Option 3.  This allows Delancey to simply transfer the land with a cash payment of £1 (one pound), with nothing else to be paid.  (The logic behind this is that the value of the non-residential parts makes up for any lost payment) (AJ 56)
 
-The situation becomes particularly alarming in the light of the appeal court judgement, which interpreted the phrase *the land and a sum of money sufficient for the construction* *and completion of the social rented units"*to mean not just the land in a physical sense, but also to include the value of the land.  The judgement says that *'it is wrong to contend that the phrase....connotes a requirement for the council to receive the whole cost of constructing the social rented units, as well as the land'.* (AJ 58)  Not to include the value of the land would be *'artificial and unjustified'* (AJ 60) and would otherwise amount to a *'windfall'* for Southwark (AJ 58).
+The situation becomes particularly alarming in the light of the appeal court judgement, which interpreted the phrase *the land and a sum of money sufficient for the construction* *and completion of the social rented units"*to mean not just the land in a physical sense, but also to include the value of the land.  The judgement says that *'it is wrong to contend that the phrase....connotes a requirement for the council to receive the whole cost of constructing the social rented units, as well as the land'.* (AJ 58)  Not to include the value of the land would be *'artificial and unjustified'* (AJ 60) and would otherwise amount to a *'windfall profit'* for Southwark (AJ 58).
 
 The court therefore ruled that it would be *'sufficient',* under Option 3, for Southwark to receive just a £1, to build the social rented units, after taking account of the value of the non-residential floorspace. (AJ 59)
 
-In reaching this startling interpretation the court was adopting the reasoning, not just of Delancey's barrister, but of Southwark's barrister, who joined his colleague representing the offshore, tax-avoiding property developer, in painting the 'sum of money', needed by a local authority to build social housing, as a 'windfall' (CHECK QUOTE) they simply were not entitled to, under the terms of s106 and according to planning regulations.
+In reaching this startling interpretation the court was adopting the reasoning, not just of Delancey's barrister, but of Southwark's barrister, who joined his colleague representing the offshore, tax-avoiding property developer, in painting the 'sum of money', needed by a local authority to build social housing, as a windfall (CHECK QUOTE) they simply were not entitled to, under the terms of s106 and according to planning regulations (AJ 58).
 
 ### Who will pay for the social housing?
 
-This sorry story has a clear trajectory. At the beginning, Southwark were looking at getting over £46m, if it has to build the shopping centre development's social rented units itself.  But then at every each step in the subsequent negotiations Southwark gve ground to such an extent that, in a worst case scenario, it now faces getting nothing, in cash terms.  A simple arrangement, easily understood, with a clearly defined cash payment has become  a complicated arrangement of three options, two of which are replete with arguable costs and values, and provide Delancey with ample opportunity to pass the cost of building the social rent back to Southwark. 
+This sorry story has a clear trajectory. At the beginning, Southwark were looking at getting over £46m, if it has to build the shopping centre development's social rented units itself.  But then at every each step in the subsequent negotiations Southwark gave ground to such an extent that, in a worst case scenario, it now faces getting nothing in cash terms.  A simple arrangement, easily understood, with a clearly defined payment has become  a complicated arrangement of three options, two of which are replete with arguable costs and values, and provide Delancey with ample opportunity to pass the cost of building the social rent back to Southwark. 
 
-A worst case scenario for Southwark is of course a best case scenario for Delancey - with clever work by lawyers and consultants it could be relieved of paying tens of millions in costs and given its track record (LINK ST story-Lister; last blog) and it can only b expected that this is 
+This worst case scenario for Southwark is of course a best case scenario for Delancey - with clever work by lawyers and consultants it could be relieved of paying tens of millions in costs and given its track record (LINK ST story-Lister; last blog) it can only be expected that this is what will happen.
 
+Even were this not to be the case, the question must be asked how has Southwark got itself into a position where this is even a possibility?  S106 contributions, such as affordable housing should come at no cost to the borough.  Southwark now looks as
 
-
-How has Southwark   got itself inot a position where this is even a possibility?
-
-Unfortunately Southwark has given Delancey the option to hand over construction, rather than not retain it for itself; one in a series of needless concessions made - BtR policy, viability, option to build, delay to social rented
-
-
-
-Getting long-lease hold, not freehold, although social rent appears to have been secured 'in perpetuity'.
-
-Best option for Southwark now is to insist on option 1; renegotiate s106; let RP take over - retain money to build 116 council homes elsewhere.
-
-Southwark could opt for net s/r costs, but this also entails establishing a land value - TRUE? OR - involves a complicated transaction of establishing costs and values, and,  given the sorry saga of the s106 negotiation, we have no confidence in Southwark's ability to exercise this option without leaving itself out of pocket.
-
-It is not beyond the realms of possibility that Delancey may end up asking Southwark for a payment, if the land value outstrips the cost of construction? 
-
-### Southwark & Delancey v the People
-
-CITE AYLESBURY? FDS?
+The best course of action for Southwark now is to insist that
