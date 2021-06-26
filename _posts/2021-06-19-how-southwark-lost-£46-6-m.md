@@ -37,19 +37,17 @@ In reaching this startling interpretation the court was adopting the reasoning, 
 
 ### Who will pay for the social housing?
 
-This sorry story has a clear trajectory. At the beginning, Southwark were looking at getting over £46m, if it has to build the social rented units itself, but at every each step in the subsequent negotiations Southwark has given ground to such an extent that, in a worst case scenario, it now faces getting nothing, in cash terms, depending on the value given to the land.
+This sorry story has a clear trajectory. At the beginning, Southwark were looking at getting over £46m, if it has to build the shopping centre development's social rented units itself.  But then at every each step in the subsequent negotiations Southwark gve ground to such an extent that, in a worst case scenario, it now faces getting nothing, in cash terms.  A simple arrangement, easily understood, with a clearly defined cash payment has become  a complicated arrangement of three options, two of which are replete with arguable costs and values, and provide Delancey with ample opportunity to pass the cost of buildin 
 
-CITE AYLESBURY? FDS?
+A worst case scenario for Southwark is of course a best case scenario for Delancey - with clever work by lawyers and consultants it could be relieved of paying tens of millions in costs and given its track record (LINK ST story-Lister; last blog) and it can only b expected that this is 
 
-A worst case scenario for Southwark is of course a best case scenario for Delancey - with clever work by lawyers it could be relieved of paying tens of millions in costs and given its track record - ST story -  Lister
 
- Worst case scenario - S get land overvalued with Delancey claiming it meets construction costs  - plus £1!  Delancey's track - record - previous blog
 
 How has Southwark got itself inot a position where this is even a possibility?
 
 Unfortunately Southwark has given Delancey the option to hand over construction, rather than not retain it for itself; one in a series of needless concessions made - BtR policy, viability, option to build, delay to social rented
 
-A simple arrangement, easily understood, with a clearly defined cash payment from Delancey to Southwark has been lost. Instead we have a complicated arrangement of three options, two of which are replete with arguable costs and values, and provide Delancey with ample opportunity to pass the cost of building 
+
 
 Getting long-lease hold, not freehold, although social rent appears to have been secured 'in perpetuity'.
 
@@ -60,3 +58,5 @@ Southwark could opt for net s/r costs, but this also entails establishing a land
 It is not beyond the realms of possibility that Delancey may end up asking Southwark for a payment, if the land value outstrips the cost of construction? 
 
 ### Southwark & Delancey v the People
+
+CITE AYLESBURY? FDS?
