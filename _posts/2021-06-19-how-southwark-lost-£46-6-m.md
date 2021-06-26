@@ -27,7 +27,7 @@ Further changes to the s106 followed and by December 2018 a simple arrangement, 
 
 ### From £46.6m to £1 (one pound)
 
-The most alarming of the options is Option 3.  This allows Delancey to simply transfer the land with a cash payment of £1 (one pound), with nothing else to be paid.  (The logic behind this is that the value of the non-residential parts makes up for any lost payment) ([AJ 56](https://www.bailii.org/ew/cases/EWCA/Civ/2021/827.html))
+The most concerning of the options is Option 3.  This allows Delancey to simply transfer the land with a cash payment of £1 (one pound), with nothing else to be paid.  (The logic behind this is that the value of the non-residential parts makes up for any lost payment) ([AJ 56](https://www.bailii.org/ew/cases/EWCA/Civ/2021/827.html))
 
 The situation becomes particularly alarming in the light of the appeal court judgement, which interpreted the phrase *the land and a sum of money sufficient for the construction* *and completion of the social rented units"* to mean not just the land in a physical sense, but also to include the value of the land.  The judgement says that *'it is wrong to contend that the phrase....connotes a requirement for the council to receive the whole cost of constructing the social rented units, as well as the land'.* ([AJ 58](https://www.bailii.org/ew/cases/EWCA/Civ/2021/827.html))  Not to include the value of the land would be *'artificial and unjustified'* ([AJ 60](https://www.bailii.org/ew/cases/EWCA/Civ/2021/827.html)) and would otherwise amount to a *'windfall profit'* for Southwark ([AJ 58](https://www.bailii.org/ew/cases/EWCA/Civ/2021/827.html)).
 
