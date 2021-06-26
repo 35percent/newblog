@@ -5,7 +5,7 @@ date: 2021-06-19T08:56:33.093Z
 ---
 ### How Southwark lost the chance of £46.6 m. on the shopping centre redevelopment
 
-Southwark   Council has waived a payment of £46.6m from developer Delancey in their legal agreement for the redevelopment of the Elephant & Castle shopping centre. The payment would have been made by Delancey in the event of Southwark having to take over the construction of the 116 social rented units in the scheme, but never found its way into the final s106 agreement
+Southwark Council has waived a payment of £46.6m from developer Delancey in their legal agreement for the redevelopment of the Elephant & Castle shopping centre. The payment would have been made by Delancey in the event of Southwark having to take over the construction of the 116 social rented units in the scheme, but never found its way into the final s106 agreement
 
 Delancey agreed to build the social rented homes in DATE, after it failed to secure planning permission for the shopping centre's redevelopment at its first attempt.   Delancey also agreed that if they had not started building the homes themselves within ten years, they would provide the land and the money for Southwark, or a housing association, to do so instead.
 
