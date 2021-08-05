@@ -7,15 +7,13 @@ Former Council leader Peter John has joined the [growing number](https://www.35p
 
 He was recently [appointed Chairman](https://www.terrapingroup.co.uk/ourPeople/17) of Terrapin Communications, a lobbying firm for property developers:
 
-![](/img/pjterrapin.png)
+![](https://35percent.org/img/pjterrapin.png)
 
 Terrapin is owned by former Tory politician Peter Bingle, who has a long [track record](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning) of using local government politicans to [help developers get planning consent](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning).
 
 According to [media reports](https://www.vice.com/en/article/43avj3/the-london-lobbyist-with-ties-to-billions-of-pounds-of-gentrification), one of Terrapin's main clients is developer Lendlease.
 
-![](/img/terrapinvice.png)
-
-
+![](https://35percent.org/img/terrapinvice.png)
 
 ![](https://southwarknotes.files.wordpress.com/2020/11/pj-bingle-1-2.jpg?w=768)
 
