@@ -91,13 +91,13 @@ In his ten years as Council leader Peter John oversaw [the sale of](https://www.
 
 It is unlikely that we will ever know to what extent Terrapin's lobbying on behalf of its clients has had on our Council administration's decisions during the last decade. The world of lobbying and revolving doors is opaque, but there are steps that Southwark's current administration could take to clear up its act:
 
-1. Conduct a review of the legal agreements for the major developments listed above, to ensure that the Council is getting value for money and/or adequate remuneration for its land (and exercise break clauses if it is not).
+1. Conduct a review of the legal agreements for the major joint-venture developments listed above, to ensure that the Council is getting value for money and/or adequate remuneration for its land (and exercise break clauses if it is not).
 
 2. Introduce a voluntary code of conduct for Councillors such that they agree not to work for lobbyists during or after their term in public service.
 
-3. Prevent Councillors from being wined and dined or receiving gifts by developers or their lobbyists. All meetings with developers or their representatives should be in a formal Council environment and fully minuted.
+3. Prevent Councillors from being wined and dined or receiving gifts by developers or their lobbyists - i.e. all meetings with developers or their representatives should be conducted in a formal environment and fully minuted.
 
-This will help Southwark restore some integrity and avoid headlines such as [these](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png): 
+This will help Southwark restore some integrity and avoid damaging headlines such as [these](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png): 
 
 ![](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)
    
