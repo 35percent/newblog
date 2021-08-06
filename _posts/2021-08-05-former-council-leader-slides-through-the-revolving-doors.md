@@ -5,6 +5,8 @@ date: 2021-08-05T21:33:49.351Z
 ---
 ![](/img/pjterrapin.png)
 
+![]()
+
 Former Council leader Peter John has joined the [growing number](https://www.35percent.org/revolving-doors/) of former Council bosses now working for developers.
 
 He was recently [appointed Chairman](https://www.terrapingroup.co.uk/ourPeople/17) of Terrapin Communications, a lobbying firm for property developers:
@@ -53,7 +55,7 @@ After political pressure mounte, last year Southwark Council was [forced to U-tu
 
 In 2018, Peter John signed off the sale of 15 hectares of council-owned land at Canada Water to developer British Land as well as the Seven Islands Leisure centre.
 
-![](https://35percent.org/img/canadawatersitec.png)
+![](https://crappistmartin.github.io/images/CanadaWaterSiteC.png)
 
 The deal secured just 35% affordable housing, well below the Council's 50% minimum requirement for public-owned land. 
 
@@ -61,11 +63,16 @@ It is unknown what land receipts (if any) the Council will receive in return, be
 
 ## Elephant & Castle shopping centre
 
+Whilst the Council hasn't signed a partnership agreement with shopping centre developer Delancey, it has provided CPO powers to clear the site of traders and has signed over a small parcel of council-owned land. 
+
+In 2018, Peter John took the unusual step of announcing his support for Delancey's scheme even though it didn't meet with the Council's minimum requirements for social rented housing or offer any reprovision for existing traders.
+
+![](/img/screenshot-2021-08-06-at-11-50-04-interview-cllr-peter-john-southwark-labour-leader.png)
 
 ## Council-owned buildings and land
+
 In his ten years as Council leader Peter John oversaw the sale of a significant amount of council-owned land and buildings including all three Town Halls.
 
 ![](https://www.35percent.org/img/selloff2.png)
-
 
 ## Major-schemes
