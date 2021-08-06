@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Former Council leader slides through the revolving doors "
+title: "Former Council leader slithers through revolving doors "
 date: 2021-08-05T21:33:49.351Z
 ---
 ![](/img/pjterrapin.png)
@@ -25,8 +25,30 @@ Peter John's appointment as Terrapin's new Chairman raises some serious question
 
 If Southwark had an effective, non-partisan, independent Scrutiny Committee (which it doesn't) this would be a good time to look back through the major schemes signed off by Peter John to see if he was acting in the Council's or developer's best interest at the time.
 
+Here are some of the schemes signed off by Peter John:
 
+## Heygate estate redevelopment
 
-Major-schemes
+In july 2010, just months after taking the reigns at Southwark, Peter John signed a development agreement with Lendlease for the redevelopment of the Heygate estate.
 
-ABC grilling
+![](/img/screenshot-2021-08-06-at-10-25-18-elephant-castle-regeneration-agreement-formally-signed.png)
+
+It later [emerged](https://www.35percent.org/heygate-regeneration-faq/#the-deal-with-lendlease) that the deal involved a payment to the Council of just £50m for the 25-acre site - not enough to even cover the cost incurred by the Council in emptying the estate.
+
+Of the 3,000 new homes being built by Lendlease the deal secured just 100 at social rent.
+
+See more info about the Heygate deal [here](https://www.35percent.org/heygate-profits-north-of-a-hundred-million/) and [here](https://35percent.github.io/heygate-regeneration/)
+
+## Aylesbury estate redevelopment
+
+In 2014, Peter John signed off the sale of 2,759 council homes and 60 acres of land at the Aylesbury estate to Private Registered Provider Notting Hill Genesis. The deal required Notting Hill to provide 50% 'affordable housing' but failed to secure any of the 3,500 new homes as council homes.
+
+![](/img/c8vumwwxcaeliyc.jpg)
+
+After political pressure mounte, last year Southwark Council was [forced to U-turn](https://www.35percent.org/aylesbury-estate-fds-variation/) on its agreement with Notting Hill and fork out £193m so that at least 581 new homes in phase 1 of the scheme will be council homes for tenants being 'decanted'.  
+
+## Canada Water redevelopment
+
+## Council-owned buildings and land
+
+## Major-schemes
