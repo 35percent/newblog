@@ -97,7 +97,7 @@ It is unlikely that we will ever know to what extent Terrapin's lobbying on beha
 
 3. Prevent Councillors from being wined and dined or receiving gifts by developers or their lobbyists. All meetings with developers or their representatives should be in a formal Council environment and fully minuted.
 
-This will help Southwark restore some integrity and avoid headlines such as these: 
+This will help Southwark restore some integrity and avoid headlines such as [these](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png): 
 
 ![](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)
    
