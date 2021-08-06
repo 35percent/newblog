@@ -27,7 +27,7 @@ Peter John's appointment as Terrapin's new Chairman raises some serious question
 
 If Southwark had an effective, non-partisan, independent Scrutiny Committee (which it doesn't) this would be a good time to look back through the major schemes signed off by Peter John to ensure that he was acting in the Council's rather than the developer's best interest at the time.
 
-Here are some of the schemes signed off by Peter John that may warrant further scrutiny:
+Here are some of the schemes signed off by Peter John during his 10 years as Council leader:
 
 ## Heygate estate redevelopment
 
