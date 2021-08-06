@@ -19,7 +19,7 @@ Other clients include Barratt Homes, which has a [number of major schemes in Sou
 
 Terrapin's clients also include many of the developers behind the recently-approved Old Kent Road schemes, including the [Ruby Triangle](https://www.35percent.org/ruby-triangle-goes-to-committee/), [Southernwood Retail Park](https://www.35percent.org/southernwood-retail-park/), the [Gas works site](https://avanton.co.uk/2019/12/03/avanton-acquires-gasholders-site-on-old-kent-road-for-230-million-mixed-use-regeneration-project/), the [Bermondsey Works](https://www.35percent.org/bermondsey-works/) and the Carpetright site.
 
-Peter John's relationship with Terrapin's Peter Bingle spans the full ten years of his leadership at Southwark Council. The [Register of Interests](https://moderngov.southwark.gov.uk/mgDeclarationSubmission.aspx?UID=189&HID=1954&FID=0&HPID=0) shows a number of dinners paid for by Terrapin, Bingle himself or his previous company - the [disgraced Bell Pottinger](https://www.bbc.co.uk/news/business-41245719)
+Peter John's relationship with Terrapin's Peter Bingle spans the full ten years of his leadership at Southwark. The Council's [Register of Interests](https://moderngov.southwark.gov.uk/mgDeclarationSubmission.aspx?UID=189&HID=1954&FID=0&HPID=0) shows a number of dinners paid for by Terrapin, Bingle himself or his previous company - the [disgraced Bell Pottinger](https://www.bbc.co.uk/news/business-41245719)
 
 ![](https://southwarknotes.files.wordpress.com/2020/11/pj-bingle-1-2.jpg?w=768)
 
@@ -72,6 +72,8 @@ In 2018, Peter John took the unusual step of [announcing his support](https://ww
 ![](/img/screenshot-2021-08-06-at-11-50-04-interview-cllr-peter-john-southwark-labour-leader.png)
 
 It was only after a concerted campaign and legal action that Delancey improved its offer from 33 to 116 social rented homes and agreed to provide relocation units for some of the traders.
+
+Delancey has also been involved in other schemes in the borough, including 185 Park Street (next to Tate Modern). Southwark's planning committee [granted permission](https://www.london-se1.co.uk/news/view/8388) for 169 new homes in 2015 - none of which affordable.
 
 ## Council-owned buildings and land
 
