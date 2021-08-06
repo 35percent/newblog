@@ -85,8 +85,10 @@ Our [research](https://35percent.org/major-schemes) into major developments appr
 
 ![](https://www.35percent.org/img/majschemes.png)
 
-It is unlikely that we will ever know to what extent Terrapin's lobbying on behalf of its clients has had on our Council leader's decisions during the last decade. The world of lobbying and revolving doors is opaque, but there are steps that Southwark's current leadership could take to..:
+It is unlikely that we will ever know to what extent Terrapin's lobbying on behalf of its clients has had on our Council leader's decisions during the last decade. The world of lobbying and revolving doors is opaque, but there are steps that Southwark's current administration could take to clear up its act:
 
 1. Conduct a review of the legal agreements for the major developments listed above, to ensure that the Council is getting value for money and/or adequate remuneration for its land (and exercise break clauses if it is not).
 
-2. Introduce a voluntary code of conduct for its councillors agreeing that they will not work for   
+2. Introduce a voluntary code of conduct for its councillors agreeing that they will not work for lobbyists during or for a period of 12 months of being a Councillor.   
+
+Given the [number of former and sitting Councillors](https://35percent.org/revolving-doors) on the lobbyists payroll, we won't be holding our breath.. 
