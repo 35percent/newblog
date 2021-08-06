@@ -49,6 +49,14 @@ After political pressure mounte, last year Southwark Council was [forced to U-tu
 
 ## Canada Water redevelopment
 
+In 2018, Peter John signed off the sale of 15 hectares of council-owned land at Canada Water to developer British Land as well as the Seven Islands Leisure centre.
+
+![](/img/canadawatersitec.png "Council owned land - shaded orange/green.")
+
+The deal secured just 35% affordable housing, well below the Council's 50% minimum requirement for public-owned land. 
+
+It is unknown what land receipts (if any) the Council will receive in return, because the [development agreement](https://www.southwark.gov.uk/regeneration/canada-water?chapter=6&article) with British Land has been heavily redacted.
+
 ## Council-owned buildings and land
 
 ## Major-schemes
