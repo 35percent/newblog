@@ -59,6 +59,9 @@ The deal secured just 35% affordable housing, well below the Council's 50% minim
 
 It is unknown what land receipts (if any) the Council will receive in return, because the [development agreement](https://www.southwark.gov.uk/regeneration/canada-water?chapter=6&article) with British Land has been heavily redacted.
 
+## Elephant & Castle shopping centre
+
+
 ## Council-owned buildings and land
 In his ten years as Council leader Peter John oversaw the sale of a significant amount of council-owned land and buildings including all three Town Halls.
 
