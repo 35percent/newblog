@@ -17,11 +17,13 @@ The [Public Affairs Board Register](https://register.prca.org.uk/register/previo
 
 Other clients include Barratt Homes, which has a [number of major schemes in Southwark](https://www.35percent.org/blackfriars-circus/) and several developers with schemes down the Old Kent Road.
 
-
+Peter John's relationship with Terrapin's Peter Bingle spans the full ten years of his leadership at Southwark Council. The [Register of Interests](https://moderngov.southwark.gov.uk/mgDeclarationSubmission.aspx?UID=189&HID=1954&FID=0&HPID=0) shows a number of dinners paid for by Terrapin, Bingle himself or his previous company - the [disgraced Bell Pottinger](https://www.bbc.co.uk/news/business-41245719)
 
 ![](https://southwarknotes.files.wordpress.com/2020/11/pj-bingle-1-2.jpg?w=768)
 
-Peter headed Southwark's Labour administration for 10 whole years until he stood down in September last year.
+Peter John's appointment as Terrapin's new Chairman raises some serious questions about Southwark Council's dealings with developers over the last 10 years. 
+
+If Southwark had an effective, non-partisan, independent Scrutiny Committee (which it doesn't) this would be a good time to look back through the major schemes signed off by Peter John to see if he was acting in the Council's or developer's best interest at the time.
 
 
 
