@@ -45,11 +45,11 @@ Peter John [came under fire](http://heygatewashome.org/img/SNOlympicTickets.pdf)
 
 ## Aylesbury estate redevelopment
 
-In 2014, Peter John signed off the sale of 2,759 council homes and 60 acres of land at the Aylesbury estate to Private Registered Provider Notting Hill Genesis. The deal required Notting Hill to provide 50% 'affordable housing' but failed to secure any of the 3,500 new homes as council homes.
+In 2014, Peter John signed off the sale of 2,759 council homes and 60 acres of land at the Aylesbury estate to Private Registered Provider Notting Hill Genesis. The deal required Notting Hill Genesis to provide 50% 'affordable housing' but failed to secure any of the 3,500 new homes as council homes.
 
 ![](/img/c8vumwwxcaeliyc.jpg)
 
-After political pressure mounte, last year Southwark Council was [forced to U-turn](https://www.35percent.org/aylesbury-estate-fds-variation/) on its agreement with Notting Hill and fork out £193m so that at least 581 new homes in phase 1 of the scheme will be council homes for tenants being 'decanted'.  
+After political pressure mounted, last year Southwark Council was [forced to U-turn](https://www.35percent.org/aylesbury-estate-fds-variation/) on its agreement with Notting Hill and fork out £193m so that at least 581 new homes in phase 1 of the scheme will be council homes for tenants being 'decanted'.  
 
 ## Canada Water redevelopment
 
@@ -60,6 +60,8 @@ In 2018, Peter John signed off the sale of 15 hectares of council-owned land at 
 The deal secured just 35% affordable housing, well below the Council's 50% minimum requirement for public-owned land. 
 
 It is unknown what land receipts (if any) the Council will receive in return, because the [development agreement](https://www.southwark.gov.uk/regeneration/canada-water?chapter=6&article) with British Land has been heavily redacted.
+
+![](https://www.35percent.org/img/cwdpa.png)
 
 ## Elephant & Castle shopping centre
 
@@ -76,3 +78,11 @@ It was only after a concerted campaign and legal action that Delancey improved i
 In his ten years as Council leader Peter John oversaw the sale of a significant amount of council-owned land and buildings including all three Town Halls.
 
 ![](https://www.35percent.org/img/selloff2.png)
+
+## Developers dodging Southwark's 35% policy requirement
+
+Our [research](https://35percent.org/major-schemes) into major developments approved in Southwark over the past 10 years has shown that out of a total of 11,863 new homes given planning consent, just 456 (3.8%) were social rented tenure. Had the Council stood firm and forced these schemes to comply with minimum policy requirements then 2,500 social rented homes would have been approved in total.
+
+![](https://www.35percent.org/img/majschemes.png)
+
+How much influence did 
