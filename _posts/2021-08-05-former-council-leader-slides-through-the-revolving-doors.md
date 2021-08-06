@@ -87,6 +87,6 @@ Our [research](https://35percent.org/major-schemes) into major developments appr
 
 It is unlikely that we will ever know to what extent Terrapin's lobbying on behalf of its clients has had on our Council leader's decisions during the last decade. The world of lobbying and revolving doors is opaque, but there are steps that Southwark's current leadership could take to..:
 
-1. Scrutinise the legal agreements for the major developments listed above, to ensure that the Council is getting value for money and adequate remuneration for its land.
+1. Conduct a review of the legal agreements for the major developments listed above, to ensure that the Council is getting value for money and/or adequate remuneration for its land (and exercise break clauses if it is not).
 
 2. Introduce a voluntary code of conduct for its councillors agreeing that they will not work for   
