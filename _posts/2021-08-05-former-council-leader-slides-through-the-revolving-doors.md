@@ -23,9 +23,9 @@ Peter John's relationship with Terrapin's Peter Bingle spans the full ten years 
 
 Peter John's appointment as Terrapin's new Chairman raises some serious questions about Southwark Council's dealings with developers over the last 10 years. 
 
-If Southwark had an effective, non-partisan, independent Scrutiny Committee (which it doesn't) this would be a good time to look back through the major schemes signed off by Peter John to see if he was acting in the Council's or developer's best interest at the time.
+If Southwark had an effective, non-partisan, independent Scrutiny Committee (which it doesn't) this would be a good time to look back through the major schemes signed off by Peter John to ensure that he was acting in the Council's rather than the developer's best interest at the time.
 
-Here are some of the schemes signed off by Peter John:
+Here are some of the schemes signed off by Peter John that may warrant further scrutiny:
 
 ## Heygate estate redevelopment
 
