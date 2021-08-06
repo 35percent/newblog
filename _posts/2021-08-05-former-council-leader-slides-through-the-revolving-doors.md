@@ -13,15 +13,17 @@ Terrapin is owned by former Tory politician Peter Bingle, who has a long [track 
 
 ![](/img/terrapincomp.jpg)
 
-According to [media reports](https://www.vice.com/en/article/43avj3/the-london-lobbyist-with-ties-to-billions-of-pounds-of-gentrification), one of Terrapin's main clients is developer Lendlease.
+The [Public Affairs Board Register](https://register.prca.org.uk/register/previous-registers/) shows that Elephant & Castle developer Delancey and Heygate estate developer Lendlease among Terrapin's long term clients.
 
-![](/img/terrapinvice.png)
+Other clients include Barratt Homes, which has a [number of major schemes in Southwark](https://www.35percent.org/blackfriars-circus/) and several developers with schemes down the Old Kent Road.
+
+
 
 ![](https://southwarknotes.files.wordpress.com/2020/11/pj-bingle-1-2.jpg?w=768)
 
-Peter headed Southwark's Labour administration for 10 whole years until he stood down in 2020
+Peter headed Southwark's Labour administration for 10 whole years until he stood down in September last year.
 
-If the current Southwark administration had a conscience - internal investigation into the Heygate regeneration and any other major schemes in the borough where developers were instructed by Terrapin.
+
 
 Major-schemes
 
