@@ -65,7 +65,7 @@ It is unknown what land receipts (if any) the Council will receive in return, be
 
 Whilst the Council hasn't signed a partnership agreement with shopping centre developer Delancey, it has provided CPO powers to clear the site of traders and has signed over a small parcel of council-owned land. 
 
-In 2018, Peter John took the unusual step of announcing his support for Delancey's scheme even though it didn't meet with the Council's minimum requirements for social rented housing or offer any reprovision for existing traders.
+In 2018, Peter John took the unusual step of [announcing his support](https://www.london-se1.co.uk/news/view/9599) for Delancey's scheme even though it didn't meet with the Council's minimum requirements for social rented housing or offer any reprovision for existing traders.
 
 ![](/img/screenshot-2021-08-06-at-11-50-04-interview-cllr-peter-john-southwark-labour-leader.png)
 
