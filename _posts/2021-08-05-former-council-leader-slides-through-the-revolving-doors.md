@@ -41,15 +41,15 @@ Of the 3,000 new homes being built by Lendlease the deal secured just 100 at soc
 
 See more info about the Heygate deal [here](https://www.35percent.org/heygate-profits-north-of-a-hundred-million/) and [here](https://35percent.github.io/heygate-regeneration/)
 
-Peter John [came under fire](http://heygatewashome.org/img/SNOlympicTickets.pdf) in 2012 for accepting tickets to the Olympics paid for by Lendlease [and a trip to Cannes in 2014](https://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim). 
+Peter John [came under fire](http://heygatewashome.org/img/SNOlympicTickets.pdf) in 2012 for accepting tickets to the Olympics paid for by Lendlease [and a trip to Cannes in 2013](https://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim). 
 
 ## Aylesbury estate redevelopment
 
-In 2014, Peter John signed off the sale of 2,759 council homes and 60 acres of land at the Aylesbury estate to Private Registered Provider Notting Hill Genesis. Whilst the deal required Notting Hill Genesis to provide 50% 'affordable housing' it failed to secure any of the 3,500 new homes as council homes.
+In 2014, Peter John signed off the sale of 2,759 council homes and 60 acres of land at the Aylesbury estate to Private Registered Provider Notting Hill Genesis. Whilst the deal required Notting Hill Genesis to provide 50% 'affordable housing' it failed to secure any of the 3,500 proposed new homes as council homes.
 
 ![](/img/c8vumwwxcaeliyc.jpg)
 
-After political pressure mounted, last year Southwark Council was [forced to U-turn](https://www.35percent.org/aylesbury-estate-fds-variation/) on its agreement with Notting Hill and fork out £193m so that at least 581 new homes in phase 1 of the scheme will be council homes for tenants being 'decanted'.  
+After political pressure mounted, last year Southwark Council was [forced to U-turn](https://www.35percent.org/aylesbury-estate-fds-variation/) on its agreement with Notting Hill and fork out £193m so that 581 new homes in phase 1 of the scheme will be council homes for tenants being 'decanted'.  
 
 ## Canada Water redevelopment
 
@@ -67,7 +67,7 @@ It is unknown what land receipts (if any) the Council will receive in return, be
 
 Whilst the Council hasn't signed a partnership agreement with shopping centre developer Delancey, it has provided CPO powers to clear the site of traders and has signed over a small parcel of council-owned land. 
 
-In 2018, Peter John took the unusual step of [announcing his support](https://www.london-se1.co.uk/news/view/9599) for Delancey's scheme even though it didn't meet with the Council's minimum requirements for social rented housing or offer any reprovision for existing traders.
+In 2018, Peter John took the unusual step of [announcing his support](https://www.london-se1.co.uk/news/view/9599) for [Delancey's scheme](https://www.35percent.org/shopping-centre/) even though it exceeded the Council's density requirements for the site and didn't meet with minimum requirements for social rented housing or offer any reprovision for existing traders.
 
 ![](/img/screenshot-2021-08-06-at-11-50-04-interview-cllr-peter-john-southwark-labour-leader.png)
 
@@ -75,19 +75,19 @@ It was only after a concerted campaign and legal action that Delancey improved i
 
 Delancey has also been involved in other schemes in the borough, including 185 Park Street (next to Tate Modern). Southwark's planning committee [granted permission](https://www.london-se1.co.uk/news/view/8388) for 169 new homes in 2015 - none of which affordable.
 
-## Council-owned buildings and land
+## Letting developers off the hook
+
+The Park Street scheme is no exception - our [research](https://35percent.org/major-schemes) into major developments approved in Southwark over the past 10 years has shown that out of a total of 11,863 new homes given planning consent, just 456 (3.8%) were social rented tenure. Had the Council stood firm and forced these schemes to comply with minimum policy requirements then 2,500 social rented homes would have been delivered in total.
+
+![](https://www.35percent.org/img/majschemes.png)
+
+## Fire sale of Council-owned buildings and land
 
 In his ten years as Council leader Peter John oversaw [the sale of](https://www.35percent.org/estates/firesale/) a significant amount of council-owned land and buildings including all three Town Halls.
 
 ![](https://www.35percent.org/img/selloff2.png)
 
 ![](https://www.35percent.org/img/soldland.png)
-
-## Developers dodging Southwark's 35% policy requirement
-
-Our [research](https://35percent.org/major-schemes) into major developments approved in Southwark over the past 10 years has shown that out of a total of 11,863 new homes given planning consent, just 456 (3.8%) were social rented tenure. Had the Council stood firm and forced these schemes to comply with minimum policy requirements then 2,500 social rented homes would have been delivered in total.
-
-![](https://www.35percent.org/img/majschemes.png)
 
 It is unlikely that we will ever know to what extent Terrapin's lobbying on behalf of its clients has had on our Council administration's decisions during the last decade. The world of lobbying and revolving doors is opaque, but there are steps that Southwark's current administration could take to clear up its act:
 
