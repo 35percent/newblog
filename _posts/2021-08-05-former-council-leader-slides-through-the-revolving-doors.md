@@ -9,11 +9,11 @@ Former Council leader Peter John has joined the [long list](https://www.35percen
 
 He was recently [appointed Chairman](https://www.terrapingroup.co.uk/ourPeople/17) of Terrapin Communications, a lobbying firm for property developers:
 
-Terrapin is owned by former Tory politician Peter Bingle, who has a long [track record](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning) of using local government politicans to [help developers get planning consent](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning).
+Terrapin is owned by former Tory politician Peter Bingle and has a murky [reputation](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning) of using local government politicans to [help developers get planning consent](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning).
 
 ![](/img/terrapincomp.jpg)
 
-The [Public Affairs Board Register](https://register.prca.org.uk/register/previous-registers/) shows that Elephant & Castle developer Delancey and Heygate estate developer Lendlease among Terrapin's long term clients.
+The [Public Affairs Board Register](https://register.prca.org.uk/register/previous-registers/) shows Elephant & Castle developer Delancey and Heygate estate developer Lendlease among Terrapin's long term clients.
 
 Other clients include Barratt Homes, which has a [number of major schemes in Southwark](https://www.35percent.org/blackfriars-circus/), Telford Homes, Hollybrook and Bellway Homes ([Elmington estate regeneration](https://www.35percent.org/elmington-regeneration/)), which also each have several schemes in Southwark.
 
