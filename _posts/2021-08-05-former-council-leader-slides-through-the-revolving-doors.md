@@ -39,6 +39,8 @@ Of the 3,000 new homes being built by Lendlease the deal secured just 100 at soc
 
 See more info about the Heygate deal [here](https://www.35percent.org/heygate-profits-north-of-a-hundred-million/) and [here](https://35percent.github.io/heygate-regeneration/)
 
+Peter John [came under fire](http://heygatewashome.org/img/SNOlympicTickets.pdf) in 2012 for accepting tickets to the Olympics paid for by Lendlease [and a trip to Cannes in 2014](https://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim). 
+
 ## Aylesbury estate redevelopment
 
 In 2014, Peter John signed off the sale of 2,759 council homes and 60 acres of land at the Aylesbury estate to Private Registered Provider Notting Hill Genesis. The deal required Notting Hill to provide 50% 'affordable housing' but failed to secure any of the 3,500 new homes as council homes.
@@ -58,5 +60,6 @@ The deal secured just 35% affordable housing, well below the Council's 50% minim
 It is unknown what land receipts (if any) the Council will receive in return, because the [development agreement](https://www.southwark.gov.uk/regeneration/canada-water?chapter=6&article) with British Land has been heavily redacted.
 
 ## Council-owned buildings and land
+
 
 ## Major-schemes
