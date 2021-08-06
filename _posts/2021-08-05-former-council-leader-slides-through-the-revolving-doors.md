@@ -85,4 +85,4 @@ Our [research](https://35percent.org/major-schemes) into major developments appr
 
 ![](https://www.35percent.org/img/majschemes.png)
 
-To what extent Terrapin's lobbying on behalf of its clients had on our Council leader's 
+It is unlikely that we will ever know to what extent Terrapin's lobbying on behalf of its clients has had on our Council leader's decisions during the last decade. The world of lobbying is opaque 
