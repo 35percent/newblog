@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Former Council leader slips through revolving doors "
+title: "Former Council leader glides through revolving doors "
 date: 2021-08-05T21:33:49.351Z
 ---
 ![](/img/pjterrapin.png)
