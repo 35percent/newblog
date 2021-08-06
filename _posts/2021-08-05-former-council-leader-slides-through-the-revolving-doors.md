@@ -69,10 +69,10 @@ In 2018, Peter John took the unusual step of [announcing his support](https://ww
 
 ![](/img/screenshot-2021-08-06-at-11-50-04-interview-cllr-peter-john-southwark-labour-leader.png)
 
+It was only after a concerted campaign and legal action that Delancey improved its offer from 33 to 116 social rented homes and agreed to provide relocation units for some of the traders.
+
 ## Council-owned buildings and land
 
 In his ten years as Council leader Peter John oversaw the sale of a significant amount of council-owned land and buildings including all three Town Halls.
 
 ![](https://www.35percent.org/img/selloff2.png)
-
-## Major-schemes
