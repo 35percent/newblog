@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Former Council leader slithers through revolving doors "
+title: "Former Council leader slips through revolving doors "
 date: 2021-08-05T21:33:49.351Z
 ---
 ![](/img/pjterrapin.png)
 
-![]()
-
-Former Council leader Peter John has joined the [growing number](https://www.35percent.org/revolving-doors/) of former Council bosses now working for developers.
+Former Council leader Peter John has joined the [long list](https://www.35percent.org/revolving-doors/) of former Council bosses now working for developers.
 
 He was recently [appointed Chairman](https://www.terrapingroup.co.uk/ourPeople/17) of Terrapin Communications, a lobbying firm for property developers:
 
@@ -27,7 +25,7 @@ Peter John's appointment as Terrapin's new Chairman raises some serious question
 
 If Southwark had an effective, non-partisan, independent Scrutiny Committee (which it doesn't) this would be a good time to look back through the major schemes signed off by Peter John to ensure that he was acting in the Council's rather than the developer's best interest at the time.
 
-Here are some of the schemes signed off by Peter John during his 10 years as Council leader:
+Here are some of the controversial schemes signed off by Peter John during his 10 years as Council leader:
 
 ## Heygate estate redevelopment
 
@@ -35,7 +33,7 @@ In july 2010, just months after taking the reigns at Southwark, Peter John signe
 
 ![](/img/screenshot-2021-08-06-at-10-25-18-elephant-castle-regeneration-agreement-formally-signed.png)
 
-It later [emerged](https://www.35percent.org/heygate-regeneration-faq/#the-deal-with-lendlease) that the deal involved a payment to the Council of just £50m for the 25-acre site - not enough to even cover the cost incurred by the Council in emptying the estate.
+It later [emerged](https://www.35percent.org/heygate-regeneration-faq/#the-deal-with-lendlease) that the deal involved a payment to the Council of just £50m for the 25 acre site - barely enough to cover the cost incurred by the Council in emptying the estate.
 
 Of the 3,000 new homes being built by Lendlease the deal secured just 100 at social rent.
 
@@ -45,7 +43,7 @@ Peter John [came under fire](http://heygatewashome.org/img/SNOlympicTickets.pdf)
 
 ## Aylesbury estate redevelopment
 
-In 2014, Peter John signed off the sale of 2,759 council homes and 60 acres of land at the Aylesbury estate to Private Registered Provider Notting Hill Genesis. The deal required Notting Hill Genesis to provide 50% 'affordable housing' but failed to secure any of the 3,500 new homes as council homes.
+In 2014, Peter John signed off the sale of 2,759 council homes and 60 acres of land at the Aylesbury estate to Private Registered Provider Notting Hill Genesis. Whilst the deal required Notting Hill Genesis to provide 50% 'affordable housing' it failed to secure any of the 3,500 new homes as council homes.
 
 ![](/img/c8vumwwxcaeliyc.jpg)
 
@@ -75,14 +73,16 @@ It was only after a concerted campaign and legal action that Delancey improved i
 
 ## Council-owned buildings and land
 
-In his ten years as Council leader Peter John oversaw the sale of a significant amount of council-owned land and buildings including all three Town Halls.
+In his ten years as Council leader Peter John oversaw [the sale of](https://www.35percent.org/estates/firesale/) a significant amount of council-owned land and buildings including all three Town Halls.
 
 ![](https://www.35percent.org/img/selloff2.png)
 
+![](https://www.35percent.org/img/soldland.png)
+
 ## Developers dodging Southwark's 35% policy requirement
 
-Our [research](https://35percent.org/major-schemes) into major developments approved in Southwark over the past 10 years has shown that out of a total of 11,863 new homes given planning consent, just 456 (3.8%) were social rented tenure. Had the Council stood firm and forced these schemes to comply with minimum policy requirements then 2,500 social rented homes would have been approved in total.
+Our [research](https://35percent.org/major-schemes) into major developments approved in Southwark over the past 10 years has shown that out of a total of 11,863 new homes given planning consent, just 456 (3.8%) were social rented tenure. Had the Council stood firm and forced these schemes to comply with minimum policy requirements then 2,500 social rented homes would have been delivered in total.
 
 ![](https://www.35percent.org/img/majschemes.png)
 
-How much influence did 
+To what extent Terrapin's lobbying on behalf of its clients had on our Council leader's 
