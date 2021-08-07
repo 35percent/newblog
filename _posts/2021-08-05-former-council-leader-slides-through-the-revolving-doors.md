@@ -9,13 +9,13 @@ Former Council leader Peter John has joined the [long list](https://www.35percen
 
 He was recently [appointed Chairman](https://www.terrapingroup.co.uk/ourPeople/17) of Terrapin Communications, a lobbying firm for property developers:
 
-Terrapin is owned by former Tory politician Peter Bingle and has a murky [reputation](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning) of using local government politicans to [help developers get planning consent](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning).
+Terrapin is owned by former Tory politician Peter Bingle and has a murky [reputation](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning) for using local government politicans to [help developers get planning consent](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning).
 
 ![](/img/terrapincomp.jpg)
 
 The [Public Affairs Board Register](https://register.prca.org.uk/register/previous-registers/) shows Elephant & Castle developer Delancey and Heygate estate developer Lendlease among Terrapin's long term clients.
 
-Other clients include Barratt Homes, which has a [number of major schemes in Southwark](https://www.35percent.org/blackfriars-circus/), Telford Homes, Hollybrook and Bellway Homes ([Elmington estate regeneration](https://www.35percent.org/elmington-regeneration/)), which also each have several schemes in Southwark.
+Other clients include Barratt Homes, which has a [number of major schemes in Southwark](https://www.35percent.org/blackfriars-circus/), Telford Homes, Hollybrook and Bellway Homes ([Elmington estate regeneration](https://www.35percent.org/elmington-regeneration/)), which also have numerous schemes in Southwark.
 
 Terrapin's clients also include many of the developers behind the recently-approved Old Kent Road schemes, including the [Ruby Triangle](https://www.35percent.org/ruby-triangle-goes-to-committee/), [Southernwood Retail Park](https://www.35percent.org/southernwood-retail-park/), the [Gas works site](https://avanton.co.uk/2019/12/03/avanton-acquires-gasholders-site-on-old-kent-road-for-230-million-mixed-use-regeneration-project/), the [Bermondsey Works](https://www.35percent.org/bermondsey-works/) and the Carpetright site.
 
@@ -27,7 +27,7 @@ Peter John's appointment as Terrapin's new Chairman raises some serious question
 
 If Southwark had an effective, non-partisan, independent Scrutiny Committee (which it doesn't) this would be a good time to look back through the major schemes signed off by Peter John to ensure that he was acting in the Council's rather than the developer's best interest at the time.
 
-Here are some of the controversial schemes signed off by Peter John during his 10 years as Council leader:
+Here are some of the controversial schemes signed off during his 10 years as Council leader:
 
 ## Heygate estate redevelopment
 
@@ -49,7 +49,7 @@ In 2014, Peter John signed off the sale of 2,759 council homes and 60 acres of l
 
 ![](/img/c8vumwwxcaeliyc.jpg)
 
-After political pressure mounted, last year Southwark Council was [forced to U-turn](https://www.35percent.org/aylesbury-estate-fds-variation/) on its agreement with Notting Hill and fork out £193m so that 581 new homes in phase 1 of the scheme will be council homes for tenants being 'decanted'.  
+After political pressure mounted, last year Southwark Council was [forced to U-turn](https://www.35percent.org/aylesbury-estate-fds-variation/) on its agreement with Notting Hill and fork out £193m so that 581 new homes in phase 1 of the scheme will be converted to council homes for tenants being 'decanted'.  
 
 ## Canada Water redevelopment
 
