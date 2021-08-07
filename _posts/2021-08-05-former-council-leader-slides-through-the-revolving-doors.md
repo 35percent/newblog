@@ -23,9 +23,7 @@ Peter John's relationship with Terrapin's Peter Bingle spans the full ten years 
 
 ![](https://southwarknotes.files.wordpress.com/2020/11/pj-bingle-1-2.jpg?w=768)
 
-Peter John's appointment as Terrapin's new Chairman raises some serious questions about Southwark Council's dealings with developers over the last 10 years. 
-
-If Southwark had an effective, non-partisan, independent Scrutiny Committee (which it doesn't) this would be a good time to look back through the major schemes signed off by Peter John to ensure that he was acting in the Council's rather than the developer's best interest at the time.
+Peter John's appointment as Terrapin's new Chairman raises some serious questions about Southwark Council's dealings with developers.
 
 Here are some of the controversial schemes signed off during his 10 years as Council leader:
 
@@ -101,4 +99,4 @@ This would help Southwark Council restore some integrity and avoid damaging head
 
 ![](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)
    
-Given the [number of former and sitting Councillors](https://35percent.org/revolving-doors) on lobbyists' payrolls, we won't be holding our breath.. 
+Given the [number of former and sitting Councillors](https://35percent.org/revolving-doors) on lobbyists' payrolls and the fact that Peter John has retained his seat as a ward Councillor, we won't be holding our breath.. 
