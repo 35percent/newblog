@@ -13,9 +13,9 @@ Terrapin was founded former Tory politician Peter Bingle in 2012 and has acquire
 
 ![](/img/terrapincomp.jpg)
 
-The [Public Affairs Board Register](https://register.prca.org.uk/register/previous-registers/) shows Elephant & Castle developer Delancey and Heygate estate developer Lendlease among Terrapin's long term clients.
+The [Public Affairs Board Register](https://register.prca.org.uk/register/previous-registers/) shows Elephant & Castle developer Delancey is one of Terrapin's oldest clients, having benefited from their consultancy services since 2013.  The [Elephant Park](https://www.elephantpark.co.uk/) (formerly Heygate estate) developer [Lendlease](https://www.elephantpark.co.uk/about-elephant-park/lendlease/) was also on Terrapins books for 4 years, from 2013 to 2017. 
 
-Other clients include Barratt Homes, which has a [number of major schemes in Southwark](https://www.35percent.org/blackfriars-circus/), Telford Homes, Hollybrook and Bellway Homes ([Elmington estate regeneration](https://www.35percent.org/elmington-regeneration/)), which also have numerous schemes in Southwark.
+Other Terrapin clients with schemes in Southwark include Barratt Homes (from 2013 to 2017; [Blackfriars Circus, Maple Quays, the Galleria, Redwood Park](https://www.35percent.org/blackfriars-circus/)); Telford Homes (from 2019; [Bermondsey Works](https://www.se16.com/2287-telford-homes-rotherhithe-new-road)), Hollybrook Homes Ltd (2018 - 2020; [Eagle Wharf](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=ZZZV0LKBWR146)) and Bellway Homes (from 2013; [Elmington estate regeneration](https://www.35percent.org/elmington-regeneration/), Phase 3).
 
 Terrapin's clients also include many of the developers behind the recently-approved Old Kent Road schemes, including the [Ruby Triangle](https://www.35percent.org/ruby-triangle-goes-to-committee/), [Southernwood Retail Park](https://www.35percent.org/southernwood-retail-park/), the [Gas works site](https://avanton.co.uk/2019/12/03/avanton-acquires-gasholders-site-on-old-kent-road-for-230-million-mixed-use-regeneration-project/), the [Bermondsey Works](https://www.35percent.org/bermondsey-works/) and the Carpetright site.
 
