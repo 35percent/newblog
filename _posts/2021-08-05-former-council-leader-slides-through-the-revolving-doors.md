@@ -5,7 +5,7 @@ date: 2021-08-05T21:33:49.351Z
 ---
 ![](/img/pjterrapin.png)
 
-Former Council leader Peter John has joined the [long list](https://www.35percent.org/revolving-doors/) of former Council bosses now working for developers.
+Former Council leader Peter John OBE has joined the [long list](https://www.35percent.org/revolving-doors/) of councillors and ex-council staff now working for property developers.  Cllr John was leader from 2010 to 2020, as well as being chair of London Councils from 2018 to 2020. 
 
 He was recently [appointed Chairman](https://www.terrapingroup.co.uk/ourPeople/17) of Terrapin Communications, a lobbying firm for property developers:
 
@@ -90,13 +90,11 @@ In his ten years as Council leader Peter John oversaw [the sale of](https://www.
 It is unlikely that we will ever know to what extent Terrapin's lobbying on behalf of its clients has had on our Council administration's decisions during the last decade. The world of lobbying and revolving doors is opaque, but there are three simple steps that Southwark's current administration could take to clear up its act:
 
 1. Conduct a review of the legal agreements for the major joint-venture developments listed above, to ensure that the Council is getting value for money and/or adequate remuneration for its land (and exercise break clauses if it is not).
-
 2. Introduce a voluntary code of conduct for Councillors such that they agree not to work for lobbyists during or after their term in public service.
-
 3. Prevent Councillors from being wined and dined or receiving gifts from developers or their lobbyists - i.e. all meetings with developers or their representatives should be conducted in Council offices and be fully minuted by officers.
 
 This would help Southwark Council restore some integrity and avoid damaging headlines such as [these](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png): 
 
 ![](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)
-   
-Given the [number of former and sitting Councillors](https://35percent.org/revolving-doors) on lobbyists' payrolls and the fact that Peter John has retained his seat as a ward Councillor, we won't be holding our breath.. 
+
+Given the [number of former and sitting Councillors](https://35percent.org/revolving-doors) on lobbyists' payrolls and the fact that Peter John has retained his seat as a ward Councillor, we won't be holding our breath..
