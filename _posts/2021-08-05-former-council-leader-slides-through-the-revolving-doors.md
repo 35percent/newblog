@@ -5,11 +5,11 @@ date: 2021-08-05T21:33:49.351Z
 ---
 ![](/img/pjterrapin.png)
 
-Former Council leader Peter John OBE has joined the [long list](https://www.35percent.org/revolving-doors/) of councillors and ex-council staff now working for property developers.  Cllr John was leader from 2010 to 2020, as well as being chair of London Councils from 2018 to 2020. 
+Former Council leader [Peter John OBE](https://www.southwarknews.co.uk/news/exclusive-council-leader-steps-down-after-ten-years/) has joined the [long list](https://www.35percent.org/revolving-doors/) of councillors and ex-council staff now working for property developers.  Cllr John was leader from 2010 to 2020, as well as being chair of [London Councils](https://www.londoncouncils.gov.uk/) from 2018 to 2020. 
 
-He was recently [appointed Chairman](https://www.terrapingroup.co.uk/ourPeople/17) of Terrapin Communications, a lobbying firm for property developers:
+Cllr John was recently [appointed Chairman](https://www.terrapingroup.co.uk/ourPeople/17) of the Terrapin Group, a lobbying firm whose [client list](https://www.terrapingroup.co.uk/ourClients) is dominated by property developers and investors.  Cllr John joins three other serving councillors, from different boroughs, as a Terrapin 'practioner'.
 
-Terrapin is owned by former Tory politician Peter Bingle and has a murky [reputation](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning) for using local government politicans to [help developers get planning consent](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning).
+Terrapin was founded former Tory politician Peter Bingle in 2012 and has acquired a [reputation](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning) for lobbying local government politicans to [help developers get planning consents](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning).
 
 ![](/img/terrapincomp.jpg)
 
