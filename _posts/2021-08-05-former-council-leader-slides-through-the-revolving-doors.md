@@ -29,7 +29,13 @@ The annoncement of Cllr John's appointment as Terrapin chair gives us an opportu
 
 ## Heygate estate redevelopment
 
-In july 2010, just months after taking the reigns at Southwark, Peter John [signed a development agreement](https://www.london-se1.co.uk/news/view/4712) with Lendlease for the demolition of the 1,200 homes of the Heygate estate and its replacement by a private development with only 25% affordable housing - 10% less than Southwark's policy requirement - and with a minimum of social rented housing.  In the event, Lendlease has built nearly 3,000 homes on the site, with just [100 at social rent](https://www.35percent.org/elephant-park-final-phase-affordable-housing/).
+In July 2010, just months after taking the reigns at Southwark, Peter John [signed a development agreement](https://www.london-se1.co.uk/news/view/4712) with Lendlease for the demolition of the 1,200 homes of the Heygate estate and its replacement by a private development with only 25% affordable housing - 10% less than Southwark's policy requirement - and with a minimum of social rented housing.  In the event, Lendlease has built nearly 3,000 homes on the site, with just [100 at social rent](https://www.35percent.org/elephant-park-final-phase-affordable-housing/).
+
+It [emerged](https://www.35percent.org/heygate-regeneration-faq/#the-deal-with-lendlease) that the deal involved a payment to the Council of just £50m for the 25 acre site - barely enough to cover the cost incurred by the Council in emptying the estate.
+
+Later, in 2012 and 2013 Cllr John came under fire for accepting tickets to the London Olympics, paid for by Lendlease and for making a trip to Cannes, to attend the MIPIM developer jamboree.
+
+There is more 
 
 ![](/img/screenshot-2021-08-06-at-10-25-18-elephant-castle-regeneration-agreement-formally-signed.png)
 
