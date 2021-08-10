@@ -41,7 +41,11 @@ Later, in 2012 and 2013 Cllr John [came under fire](http://heygatewashome.org/im
 
 ## Aylesbury estate redevelopment
 
-In 2014, Peter John signed off the sale of the 2,759 council homes and 60 acres of land of the Aylesbury estate to housing association Notting Hill Housing Trust. Whilst the deal required Notting Hill Genesis to provide 50% 'affordable housing' it failed to secure any of the 3,500 proposed new homes as council homes and would have entailed a [net loss of social rented housing.](https://www.35percent.org/aylesbury-estate/)
+In 2014, Peter John signed off the sale of the 2,759 council homes and 60 acres of land of the Aylesbury estate for demolition and redevelopment to housing association Notting Hill Housing Trust. Whilst the deal required Notting Hill to provide 50% 'affordable housing' it failed to secure any of the 3,500 proposed new homes as council homes and would have entailed a [net loss of social rented housing.](https://www.35percent.org/aylesbury-estate/)
+
+Delays and political pressure forced Southwark into a U-turn last year, when  it agreed to pay Notting Hill Genesis, as it now is, £193m to convert 581 new homes in phase 1 of the scheme into council homes.  Southwark has also now committed to no net loss of social rented housing.
+
+
 
 ![](/img/c8vumwwxcaeliyc.jpg)
 
