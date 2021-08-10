@@ -73,11 +73,11 @@ It was only after a [concerted local campaign](https://www.35percent.org/test-bl
 
 Southwark also boosted Delancey by [adopting Compulsory Purchase Order](https://www.35percent.org/shopping-centre-compulsory-purchase-order/) (CPO) powers to help clear the site of traders.  This little-publicised power gives local authorities a great deal of legitimate leverage in its negotiations with developers; if a site is not empty, it cannot be developed. But rather than use the power to get [a better deal for traders](https://www.35percent.org/shopping-centre-compulsory-purchase-order/), it stood behind Delancey, whose own hand was strengthened at the traders' expense.
 
-Delancey has also been involved in other schemes in the borough, including 185 Park Street (next to Tate Modern). Southwark's planning committee [granted permission](https://www.london-se1.co.uk/news/view/8388) for 169 new homes in 2015 - none of which affordable.
-
 ## Letting developers off the hook
 
-The Park Street scheme is no exception - our [research](https://35percent.org/major-schemes) into major developments approved in Southwark over the past 10 years has shown that out of a total of 11,863 new homes given planning consent, just 456 (3.8%) were social rented tenure. Had the Council stood firm and forced these schemes to comply with minimum policy requirements then 2,500 social rented homes would have been delivered in total.
+Aside from the shopping centre, Delancey has also been involved in other schemes in the borough, including Elephant Central (formerly Elephant One), with 272 student rooms and 374 private residences and [185 Park Street](https://www.london-se1.co.uk/news/view/8388) (next to Tate Modern) with 69 new homes - neither development has any social rented housing.
+
+These schemes are not exceptions.  Our [research](https://35percent.org/major-schemes) shows that only 456 new homes, out of 11,863 units in 25 major developments, approved in Southwark from 2006 to 2016  were social rented tenure - 3.8%. Had these schemes to complied with minimum policy requirements then around 2,500 social rented homes would have been delivered in total.
 
 ![](https://www.35percent.org/img/majschemes.png)
 
