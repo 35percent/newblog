@@ -9,7 +9,7 @@ Former Council leader [Peter John OBE](https://www.southwarknews.co.uk/news/excl
 
 Cllr John was recently [appointed Chairman](https://www.terrapingroup.co.uk/ourPeople/17) of the Terrapin Group, a lobbying firm whose [client list](https://www.terrapingroup.co.uk/ourClients) is dominated by property developers and investors.  Cllr John joins three other serving councillors, from different boroughs, as a Terrapin 'practioner'.
 
-Terrapin was founded former Tory politician Peter Bingle in 2012 and has acquired a [reputation](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning) for lobbying local government politicans to [help developers get planning consents](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning).
+Terrapin was founded by former Tory politician Peter Bingle in 2012 and has acquired a [reputation](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning) for lobbying local government politicans to [help developers get planning consents](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning).
 
 ![](/img/terrapincomp.jpg)
 
