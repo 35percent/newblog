@@ -33,23 +33,15 @@ In July 2010, just months after taking the reigns at Southwark, Peter John [sign
 
 It [emerged](https://www.35percent.org/heygate-regeneration-faq/#the-deal-with-lendlease) that the deal involved a payment to the Council of just £50m for the 25 acre site - barely enough to cover the cost incurred by the Council in emptying the estate.
 
-Later, in 2012 and 2013 Cllr John came under fire for accepting tickets to the London Olympics, paid for by Lendlease and for making a trip to Cannes, to attend the MIPIM developer jamboree.
+Later, in 2012 and 2013 Cllr John [came under fire](http://heygatewashome.org/img/SNOlympicTickets.pdf) for accepting tickets to the London Olympics, paid for by Lendlease and [for making a trip to Cannes](https://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim), to attend the MIPIM developer jamboree.
 
-There is more 
+
 
 ![](/img/screenshot-2021-08-06-at-10-25-18-elephant-castle-regeneration-agreement-formally-signed.png)
 
-It later [emerged](https://www.35percent.org/heygate-regeneration-faq/#the-deal-with-lendlease) that the deal involved a payment to the Council of just £50m for the 25 acre site - barely enough to cover the cost incurred by the Council in emptying the estate.
-
-Of the 3,000 new homes being built by Lendlease the deal secured just 100 at social rent.
-
-See more info about the Heygate deal [here](https://www.35percent.org/heygate-profits-north-of-a-hundred-million/) and [here](https://35percent.github.io/heygate-regeneration/)
-
-Peter John [came under fire](http://heygatewashome.org/img/SNOlympicTickets.pdf) in 2012 for accepting tickets to the Olympics paid for by Lendlease [and a trip to Cannes in 2013](https://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim). 
-
 ## Aylesbury estate redevelopment
 
-In 2014, Peter John signed off the sale of 2,759 council homes and 60 acres of land at the Aylesbury estate to Private Registered Provider Notting Hill Genesis. Whilst the deal required Notting Hill Genesis to provide 50% 'affordable housing' it failed to secure any of the 3,500 proposed new homes as council homes.
+In 2014, Peter John signed off the sale of the 2,759 council homes and 60 acres of land of the Aylesbury estate to housing association Notting Hill Housing Trust. Whilst the deal required Notting Hill Genesis to provide 50% 'affordable housing' it failed to secure any of the 3,500 proposed new homes as council homes and would have entailed a [net loss of social rented housing.](https://www.35percent.org/aylesbury-estate/)
 
 ![](/img/c8vumwwxcaeliyc.jpg)
 
