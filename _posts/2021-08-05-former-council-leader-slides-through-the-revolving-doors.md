@@ -65,13 +65,13 @@ It is unknown what land receipts (if any) the Council will receive in return, be
 
 ## Elephant & Castle shopping centre
 
-Whilst the Council hasn't signed a partnership agreement with shopping centre developer Delancey, it has provided CPO powers to clear the site of traders and has signed over a small parcel of council-owned land. 
+Also In 2018, Cllr John took the unusual step of [announcing his support](https://www.london-se1.co.uk/news/view/9599) for Delancey's [proposed redevelopment](https://www.35percent.org/shopping-centre/) of the shopping centre despite it having been [knocked-back by the planning committee](https://www.35percent.org/delancey-tries-again/) earlier in the year.  Amongst other things, the scheme, while exceeding density limits, didn't meet minimum social rented housing requirements, or offer any relocation support to existing traders.
 
-In 2018, Peter John took the unusual step of [announcing his support](https://www.london-se1.co.uk/news/view/9599) for [Delancey's scheme](https://www.35percent.org/shopping-centre/) even though it exceeded the Council's density requirements for the site and didn't meet with minimum requirements for social rented housing or offer any reprovision for existing traders.
+It was only after a [concerted local campaign](https://www.35percent.org/test-blog-post/) (leading to legal action) that Delancey improved its offer from 33 to 116 social rented homes and agreed to provide relocation units and financial support for some of the traders.
 
 ![](/img/screenshot-2021-08-06-at-11-50-04-interview-cllr-peter-john-southwark-labour-leader.png)
 
-It was only after a concerted campaign and legal action that Delancey improved its offer from 33 to 116 social rented homes and agreed to provide relocation units for some of the traders.
+Whilst the Council hasn't signed a partnership agreement with shopping centre developer Delancey, it has provided CPO powers to clear the site of traders and has signed over a small parcel of council-owned land. 
 
 Delancey has also been involved in other schemes in the borough, including 185 Park Street (next to Tate Modern). Southwark's planning committee [granted permission](https://www.london-se1.co.uk/news/view/8388) for 169 new homes in 2015 - none of which affordable.
 
