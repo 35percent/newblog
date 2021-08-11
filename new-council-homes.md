@@ -101,5 +101,5 @@ In any event, even if we count all the hostel units and purchased S106 units as 
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Southwark's 11,000 new council homes" />
-<meta name="twitter:description" content="Figures show net loss of 925 homes as sales and demolitions continue to outstrip new-builds" />
+<meta name="twitter:description" content="Figures show net loss of 846 council homes as sales and demolitions continue to outstrip new-builds" />
 <meta name="twitter:image" content="https://35percent.org/img/councilstock.png" />
