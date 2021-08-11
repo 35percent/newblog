@@ -33,7 +33,7 @@ In July 2010, just months after taking the reins at Southwark, Peter John [signe
 
 It [emerged](https://www.35percent.org/heygate-regeneration-faq/#the-deal-with-lendlease) that the deal involved a payment to the Council of just £50m for the 25 acre site - barely enough to cover the cost incurred by the Council in emptying the estate.
 
-Later, in 2012 and 2013 Cllr John [came under fire](http://heygatewashome.org/img/SNOlympicTickets.pdf) for accepting tickets to the London Olympics, paid for by Lendlease and [for making a trip to Cannes](https://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim), to attend the MIPIM developer jamboree.
+Later, in 2012 and 2014 Cllr John [came under fire](http://heygatewashome.org/img/SNOlympicTickets.pdf) for accepting tickets to the London Olympics, paid for by Lendlease and [for making a trip to Cannes](https://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim), to attend the MIPIM developer jamboree.
 
 ![](/img/screenshot-2021-08-06-at-10-25-18-elephant-castle-regeneration-agreement-formally-signed.png)
 
