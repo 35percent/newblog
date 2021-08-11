@@ -66,11 +66,11 @@ It was only after a [concerted local campaign](https://www.35percent.org/test-bl
 
 ![](/img/screenshot-2021-08-06-at-11-50-04-interview-cllr-peter-john-southwark-labour-leader.png)
 
-Southwark also boosted Delancey by [adopting Compulsory Purchase Order](https://www.35percent.org/shopping-centre-compulsory-purchase-order/) (CPO) powers to help clear the site of traders.  This little-publicised power gives local authorities a great deal of legitimate leverage in its negotiations with developers; if a site is not empty, it cannot be developed. But rather than use the power to get [a better deal for traders](https://www.35percent.org/shopping-centre-compulsory-purchase-order/), it stood behind Delancey, whose own hand was strengthened at the traders' expense.
+Southwark also boosted Delancey by [adopting Compulsory Purchase Order](https://www.35percent.org/shopping-centre-compulsory-purchase-order/) (CPO) powers to help clear the site of traders.  This little-publicised power gives local authorities a great deal of legitimate leverage in its negotiations with developers; if a site is not empty, it cannot be developed. But rather than use the power to get [a better deal for traders](https://www.35percent.org/shopping-centre-compulsory-purchase-order/), it stood behind Delancey, whose own hand was strengthened [at the traders' expense](https://www.35percent.org/shopping-centre-traders-expelled-by-regeneration/).
 
 ## Letting developers off the hook
 
-Aside from the shopping centre, Delancey has also been involved in other schemes in the borough, including Elephant Central (formerly Elephant One), with 272 student rooms and 374 private residences and [185 Park Street](https://www.london-se1.co.uk/news/view/8388) (next to Tate Modern) with 69 new homes - neither development has any social rented housing.
+Aside from the shopping centre, Delancey has also been involved in other schemes in the borough, including [Elephant Central](https://www.35percent.org/tribeca-square/) (formerly Elephant One), with 272 student rooms and 374 private residences and [185 Park Street](https://www.london-se1.co.uk/news/view/8388) (next to Tate Modern) with 69 new homes - neither development has any social rented housing.
 
 These schemes are not exceptions.  Our [research](https://35percent.org/major-schemes) shows that only 456 new homes, out of 11,863 units in 25 major developments, approved in Southwark from 2006 to 2016  were social rented tenure - 3.8%. Had these schemes to complied with minimum policy requirements then around 2,500 social rented homes would have been delivered in total.
 
@@ -90,3 +90,10 @@ We cannot know for whether any of the developments featured above are examples o
 These measures would not only help maintain the integrity of the planning system, but might also avoid [](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)[this](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png) kind of damaging headline:
 
 ![](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@35percent_EAN">
+<meta name="twitter:title" content="Former Council leader Peter John slips through revolving doors">
+<meta name="twitter:description" content="Former leader (and sitting Councillor) Peter John is now chairman of lobbyist firm Terrapin, which is paid to help developers get planning permission. ">
+<meta name="twitter:image" content="https://35percent.org/img/rdoors2.jpg">
