@@ -25,11 +25,11 @@ Peter John's relationship with Terrapin's Peter Bingle spans the full ten years 
 
 ![](https://southwarknotes.files.wordpress.com/2020/11/pj-bingle-1-2.jpg?w=768)
 
-The annoncement of Cllr John's appointment as Terrapin chair gives us an opportunity to look back at some of the controversial schemes signed off during his 10 years as Council leader.
+The announcement of Cllr John's appointment as Terrapin chair gives us an opportunity to look back at some of the controversial schemes signed off during his 10 years as Council leader.
 
 ## Heygate estate redevelopment
 
-In July 2010, just months after taking the reigns at Southwark, Peter John [signed a development agreement](https://www.london-se1.co.uk/news/view/4712) with Lendlease for the demolition of the 1,200 homes of the Heygate estate and its replacement by a private development with only 25% affordable housing - 10% less than Southwark's policy requirement - and with a minimum of social rented housing.  In the event, Lendlease has built nearly 3,000 homes on the site, with just [100 at social rent](https://www.35percent.org/elephant-park-final-phase-affordable-housing/).
+In July 2010, just months after taking the reins at Southwark, Peter John [signed a development agreement](https://www.london-se1.co.uk/news/view/4712) with Lendlease for the demolition of the 1,200 homes of the Heygate estate and its replacement by a private development with only 25% affordable housing - 10% less than Southwark's policy requirement - and with a minimum of social rented housing.  In the event, Lendlease has built nearly 3,000 homes on the site, with just [100 at social rent](https://www.35percent.org/elephant-park-final-phase-affordable-housing/).
 
 It [emerged](https://www.35percent.org/heygate-regeneration-faq/#the-deal-with-lendlease) that the deal involved a payment to the Council of just £50m for the 25 acre site - barely enough to cover the cost incurred by the Council in emptying the estate.
 
@@ -89,7 +89,7 @@ Confidence in the planning system has been badly dented by high profile schemes 
 
 We cannot know for sure whether any of the developments featured in this blogpost are examples of such successful *'assignments'.*  More recent developments, such as along the Old Kent Rd, have at least 35% affordable housing, most social rented and it looks as if the current administration is not quite cut from the same cloth as previously.  But more needs to be done; the bar has been stuck at 35% affordable housing for too long and should be raised to 50%.  To help achieve this behind-the-scenes lobbying by developers should be ended.  Southwark can take a lead on this by taking two immediate measures;
 
-1. No sitting local councillor should also work for a public affairs company, whose clients are property developers and investors.  It is is not enough that councillors do not engage in such work within their own borough, as required by the [Public Affairs Code](<https://www.prca.org.uk/sites/default/files/Public Affairs Code February 2021 23.2.2021.pdf>).  They should not be trying to persuade fellow councillors in other boroughs to approve schemes either.  Planning decisions must be seen to made solely on the merits of the application, with all discussions open to public view.
+1. No sitting local councillor should also work for a public affairs company, whose clients are property developers and investors.  It is not enough that councillors do not engage in such work within their own borough, as required by the [Public Affairs Code](<https://www.prca.org.uk/sites/default/files/Public Affairs Code February 2021 23.2.2021.pdf>).  They should not be trying to persuade fellow councillors in other boroughs to approve schemes either.  Planning decisions must be seen to made solely on the merits of the application, with all discussions open to public view.
 2. A local register of public affairs companies for the borough should be established.  Every applicant for at least major schemes should be required to list their agents, including public affairs companies.
 
 These measures would help maintain the integrity of the planning system, and might avoid [](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)[this](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png) kind of damaging headline:
