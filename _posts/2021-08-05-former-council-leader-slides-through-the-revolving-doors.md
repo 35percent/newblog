@@ -12,7 +12,7 @@ Cllr John was recently [appointed Chairman](https://www.terrapingroup.co.uk/ourP
 
 Terrapin was founded by former Tory politician Peter Bingle in 2012 and has acquired a [reputation](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning) for lobbying local government politicians to [help developers get planning consents](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning).
 
-![](/img/terrapincomp.jpg)
+![](https://35percent.org/img/terrapincomp.jpg)
 
 The [Public Affairs Board Register](https://register.prca.org.uk/register/previous-registers/) shows [Elephant & Castle](https://35percent.org/shopping-centre) developer [Delancey](https://www.35percent.org/manx-connections-the-off-shore-home-of-the-elephants-developers/) is one of Terrapin's oldest clients, having benefited from their consultancy services since 2013.  The [Elephant Park](https://www.elephantpark.co.uk/) (formerly Heygate estate) developer [Lendlease](https://www.elephantpark.co.uk/about-elephant-park/lendlease/) was also on Terrapin's books for 4 years, from 2013 to 2017. 
 
@@ -36,7 +36,7 @@ It [emerged](https://www.35percent.org/heygate-regeneration-faq/#the-deal-with-l
 
 Later, in 2012 and 2014 Cllr John [came under fire](http://heygatewashome.org/img/SNOlympicTickets.pdf) for accepting tickets to the London Olympics, paid for by Lendlease and [for making a trip to Cannes](https://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim), to attend the MIPIM developer jamboree.
 
-![](/img/screenshot-2021-08-06-at-10-25-18-elephant-castle-regeneration-agreement-formally-signed.png)
+![](https://35percent.org/img/screenshot-2021-08-06-at-10-25-18-elephant-castle-regeneration-agreement-formally-signed.png)
 
 ## Aylesbury estate redevelopment
 
@@ -44,7 +44,7 @@ In 2014, Peter John [signed-off the sale](https://www.theguardian.com/uk-news/da
 
 Delays and political pressure forced Southwark into a U-turn last year, when it agreed to pay Notting Hill £193m to convert 581 new homes in phase 1 of the scheme into council homes.  Southwark has also now committed to [no net loss of social rented housing](https://www.southwarknews.co.uk/news/aylesbury-regen-increase-in-social-rent-housing-in-phase-2-means-all-tenants-from-later-development-stages-will-have-off-plan-homes-ready-by-2028/).
 
-![](/img/c8vumwwxcaeliyc.jpg)
+![](https://35percent.org/img/c8vumwwxcaeliyc.jpg)
 
 ## Canada Water redevelopment
 
@@ -64,7 +64,7 @@ Also in 2018, Cllr John took the unusual step of [announcing his support](https:
 
 It was only after a [concerted local campaign](https://www.35percent.org/test-blog-post/) (leading to legal action) that Delancey improved its offer from 33 to 116 social rented homes and agreed to provide relocation units and financial support for some of the traders.
 
-![](/img/screenshot-2021-08-06-at-11-50-04-interview-cllr-peter-john-southwark-labour-leader.png)
+![](https://35percent.org/img/screenshot-2021-08-06-at-11-50-04-interview-cllr-peter-john-southwark-labour-leader.png)
 
 Southwark also boosted Delancey by [adopting Compulsory Purchase Order](https://www.35percent.org/shopping-centre-compulsory-purchase-order/) (CPO) powers to help clear the site of traders.  This little-publicised power gives local authorities a great deal of legitimate leverage in its negotiations with developers; if a site is not empty, it cannot be developed. But rather than use the power to get [a better deal for traders](https://www.35percent.org/shopping-centre-compulsory-purchase-order/), it stood behind Delancey, whose own hand was strengthened [at the traders' expense](https://www.35percent.org/shopping-centre-traders-expelled-by-regeneration/).
 
