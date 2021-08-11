@@ -1,18 +1,20 @@
 ---
 layout: post
 title: "Former Council leader glides through revolving doors "
-date: 2021-08-05T21:33:49.351Z
-image: img/pjterrapin.png
+date: 2021-08-11T21:33:49.351Z
+image: img/rdoors2.jpg
 ---
 Former Southwark Council leader [Peter John OBE](https://www.southwarknews.co.uk/news/exclusive-council-leader-steps-down-after-ten-years/) has joined the [long list](https://www.35percent.org/revolving-doors/) of councillors and ex-council staff now working for property developers.  Cllr John led Southwark from 2010 to 2020, and was chair of [London Councils](https://www.londoncouncils.gov.uk/) from 2018 to 2020. 
 
 Cllr John was recently [appointed Chairman](https://www.terrapingroup.co.uk/ourPeople/17) of the Terrapin Group, a lobbying firm, whose [client list](https://www.terrapingroup.co.uk/ourClients) is dominated by property developers and real-estate investors.  Cllr John joins three other serving councillors, from different boroughs, as a Terrapin *'practitioner'*, but in the more senior chairman's role.
 
+![](https://35percent.org/img/pjterrapin.png)
+
 Terrapin was founded by former Tory politician Peter Bingle in 2012 and has acquired a [reputation](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning) for lobbying local government politicians to [help developers get planning consents](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning).
 
 ![](/img/terrapincomp.jpg)
 
-The [Public Affairs Board Register](https://register.prca.org.uk/register/previous-registers/) shows Elephant & Castle developer Delancey is one of Terrapin's oldest clients, having benefited from their consultancy services since 2013.  The [Elephant Park](https://www.elephantpark.co.uk/) (formerly Heygate estate) developer [Lendlease](https://www.elephantpark.co.uk/about-elephant-park/lendlease/) was also on Terrapins books for 4 years, from 2013 to 2017. 
+The [Public Affairs Board Register](https://register.prca.org.uk/register/previous-registers/) shows [Elephant & Castle](https://35percent.org/shopping-centre) developer [Delancey](https://www.35percent.org/manx-connections-the-off-shore-home-of-the-elephants-developers/) is one of Terrapin's oldest clients, having benefited from their consultancy services since 2013.  The [Elephant Park](https://www.elephantpark.co.uk/) (formerly Heygate estate) developer [Lendlease](https://www.elephantpark.co.uk/about-elephant-park/lendlease/) was also on Terrapin's books for 4 years, from 2013 to 2017. 
 
 Other Terrapin clients with schemes in Southwark include Barratt Homes (from 2013 to 2017; [Blackfriars Circus, Maple Quays, the Galleria, Redwood Park](https://www.35percent.org/blackfriars-circus/)); Telford Homes (from 2019; [Bermondsey Works](https://www.se16.com/2287-telford-homes-rotherhithe-new-road)), Hollybrook Homes Ltd (2018 - 2020; [Eagle Wharf](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=ZZZV0LKBWR146)) and Bellway Homes (from 2013; [Elmington estate regeneration](https://www.35percent.org/elmington-regeneration/), Phase 3).
 
@@ -38,13 +40,11 @@ Later, in 2012 and 2014 Cllr John [came under fire](http://heygatewashome.org/im
 
 ## Aylesbury estate redevelopment
 
-In 2014, Peter John [signed-off the sale](https://www.theguardian.com/uk-news/davehillblog/2014/feb/02/southwark-council-aylesbury-estate-regeneration) of the 2,759 council homes and 60 acres of land of the Aylesbury estate for demolition and redevelopment to housing association Notting Hill Housing Trust. Whilst the deal required Notting Hill to provide 50% 'affordable housing' it failed to secure any of the 3,500 proposed new homes as council homes and would have entailed a [net loss of social rented housing.](https://www.35percent.org/aylesbury-estate/)
+In 2014, Peter John [signed-off the sale](https://www.theguardian.com/uk-news/davehillblog/2014/feb/02/southwark-council-aylesbury-estate-regeneration) of the 2,759 council homes and 60 acres of land of the Aylesbury estate for demolition and redevelopment to housing association Notting Hill Genesis. Whilst the deal required Notting Hill to provide 50% 'affordable housing' it failed to secure any of the 3,500 proposed new homes as council homes and would have entailed a [net loss of social rented housing.](https://www.35percent.org/aylesbury-estate/)
 
-Delays and political pressure forced Southwark into a U-turn last year, when  it agreed to pay Notting Hill Genesis, as it now is, £193m to convert 581 new homes in phase 1 of the scheme into council homes.  Southwark has also now committed to [no net loss of social rented housing](https://www.southwarknews.co.uk/news/aylesbury-regen-increase-in-social-rent-housing-in-phase-2-means-all-tenants-from-later-development-stages-will-have-off-plan-homes-ready-by-2028/).
+Delays and political pressure forced Southwark into a U-turn last year, when it agreed to pay Notting Hill £193m to convert 581 new homes in phase 1 of the scheme into council homes.  Southwark has also now committed to [no net loss of social rented housing](https://www.southwarknews.co.uk/news/aylesbury-regen-increase-in-social-rent-housing-in-phase-2-means-all-tenants-from-later-development-stages-will-have-off-plan-homes-ready-by-2028/).
 
 ![](/img/c8vumwwxcaeliyc.jpg)
-
-After political pressure mounted, last year Southwark Council was [forced to U-turn](https://www.35percent.org/aylesbury-estate-fds-variation/) on its agreement with Notting Hill and fork out £193m so that 581 new homes in phase 1 of the scheme will be converted to council homes for tenants being 'decanted'.  
 
 ## Canada Water redevelopment
 
@@ -52,9 +52,9 @@ In 2018, Peter John signed off the [sale of 15 hectares](https://www.room151.co.
 
 ![](https://crappistmartin.github.io/images/CanadaWaterSiteC.png)
 
-The deal secured 35% affordable housing, but this is below the 50% requirement for publicly-owned land, set by the Mayor in his [London Plan 2021](https://www.london.gov.uk/sites/default/files/the_london_plan_2021.pdf)(H4A), to meet the broader strategic target of 50% affordable housing in all developments. 
+The deal secured 35% affordable housing, but this is below the 50% requirement for publicly-owned land, set by the Mayor in his [London Plan 2021](https://www.london.gov.uk/sites/default/files/the_london_plan_2021.pdf) (Policy H4A).
 
-It is unknown what land receipts (if any) the Council will receive in return, because the [development agreement](https://www.southwark.gov.uk/regeneration/canada-water?chapter=6&article) with British Land has been heavily redacted.
+It is unknown what land receipts (if any) the Council will receive in return for its 15 hectares, because the [development agreement](https://www.southwark.gov.uk/regeneration/canada-water?chapter=6&article) with British Land has been heavily redacted.
 
 ![](https://www.35percent.org/img/cwdpa.png)
 
@@ -76,17 +76,13 @@ These schemes are not exceptions.  Our [research](https://35percent.org/major-sc
 
 ![](https://www.35percent.org/img/majschemes.png)
 
-![](https://www.35percent.org/img/selloff2.png)
-
-![](https://www.35percent.org/img/soldland.png)
-
 ## What we say 
 
-Confidence in the planning system has been badly dented by high profile schemes not delivering the affordable housing we need.  That confidence is not improved when the former leader of the council becomes the chair of a public affairs company whose business is *['influencing government'](<https://www.prca.org.uk/sites/default/files/Definition of Public Affairs PDF.pdf>)*, including *'public authorities'*, such as councils.
+Confidence in the planning system has been badly dented by high profile schemes not delivering the affordable housing we need.  That confidence is not improved when the former leader of the council becomes the chair of a lobbying firm whose business is *['influencing government'](<https://www.prca.org.uk/sites/default/files/Definition of Public Affairs PDF.pdf>)*, including *'public authorities'*, such as councils.
 
 [The Terrapin Group](https://www.terrapingroup.co.uk/) boasts that it is a *'market leader'* and has *['a superb track record of helping our clients achieve successful planning consents right across Greater London'](https://www.terrapingroup.co.uk/terrapinCommunications)* and invites inquiries for *'potential assignments'*.
 
-We cannot know for whether any of the developments featured in this blogpost are examples of such successful *'assignments'.*  More recent developments, such as along the Old Kent Rd, have at least 35% affordable housing, most social rented and so it looks as if the current administration is not quite cut from the same cloth as previously.  But more needs to be done; the bar has been stuck at 35% affordable housing for too long and should be raised to 50%.  To help achieve this behind-the-scenes lobbying by developers must be ended.  Southwark can take a lead on this by taking two immediate measures;
+We cannot know for whether any of the developments featured above are examples of such successful *'assignments'.*  More recent developments, such as along the Old Kent Rd, have at least 35% affordable housing, most social rented and so it looks as if the current administration may not be cut from quite the same cloth as the previous one.  But more needs to be done; the bar has been stuck at 35% affordable housing for too long and should be raised to 50%.  To help achieve this behind-the-scenes lobbying by developers must be ended.  Southwark can take a lead on this by taking two immediate measures;
 
 1. No sitting councillor should also work for a public affairs company whose clients are property developers and investors.  It is not enough that councillors do not engage in such work within their own borough, as required by the [Public Affairs Code](<https://www.prca.org.uk/sites/default/files/Public Affairs Code February 2021 23.2.2021.pdf>).  They should not be trying to persuade fellow councillors in other boroughs to approve schemes either.  Planning decisions must be seen to made solely on the merits of the application, with all discussions open to public view.
 2. A local register of public affairs companies for the borough should be established.  Every applicant for at least major schemes should be required to list their agents, including public affairs companies.
