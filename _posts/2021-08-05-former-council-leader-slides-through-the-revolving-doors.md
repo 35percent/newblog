@@ -7,7 +7,7 @@ date: 2021-08-05T21:33:49.351Z
 
 Former Southwark Council leader [Peter John OBE](https://www.southwarknews.co.uk/news/exclusive-council-leader-steps-down-after-ten-years/) has joined the [long list](https://www.35percent.org/revolving-doors/) of councillors and ex-council staff now working for property developers.  Cllr John was leader from 2010 to 2020, as well as being chair of [London Councils](https://www.londoncouncils.gov.uk/) from 2018 to 2020. 
 
-Cllr John was recently [appointed Chairman](https://www.terrapingroup.co.uk/ourPeople/17) of the Terrapin Group, a public affairs company (otherwise known as a lobbying firm), whose [client list](https://www.terrapingroup.co.uk/ourClients) is dominated by property developers and investors.  Cllr John joins three other serving councillors, from different boroughs, as a Terrapin *'practioner'*, but in the senoir chairman role.
+Cllr John was recently [appointed Chairman](https://www.terrapingroup.co.uk/ourPeople/17) of the Terrapin Group, a public affairs company (otherwise known as a lobbying firm), whose [client list](https://www.terrapingroup.co.uk/ourClients) is dominated by property developers and investors.  Cllr John joins three other serving councillors, from different boroughs, as a Terrapin *'practioner'*, but in the more senoir chairman's role.
 
 Terrapin was founded by former Tory politician Peter Bingle in 2012 and has acquired a [reputation](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning) for lobbying local government politicians to [help developers get planning consents](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning).
 
@@ -83,9 +83,9 @@ These schemes are not exceptions.  Our [research](https://35percent.org/major-sc
 
 ## What we say 
 
-Confidence in the planning system has been badly dented by high profile schemes not delivering the affordable housing we need.  That confidence is not improved when the former leader of the council becomes the chair of a public affairs company whose business is *'influencing government'*, including *'public authorities'*, such as councils.
+Confidence in the planning system has been badly dented by high profile schemes not delivering the affordable housing we need.  That confidence is not improved when the former leader of the council becomes the chair of a public affairs company whose business is *['influencing government'](<https://www.prca.org.uk/sites/default/files/Definition of Public Affairs PDF.pdf>)*, including *'public authorities'*, such as councils.
 
-The Terrapin Group boasts that it is a *'market leader'* and has *'a superb track record of helping our clients achieve successful planning consents right across Greater London'* and invites inquiries for *'potential assignments'*.
+[The Terrapin Group](https://www.terrapingroup.co.uk/) boasts that it is a *'market leader'* and has *'a superb track record of helping our clients achieve successful planning consents right across Greater London'* and invites inquiries for *'potential assignments'*.
 
 We cannot know for sure whether any of the developments featured in this blogpost are examples of such successful *'assignments'.*  More recent developments, such as along the Old Kent Rd, have at least 35% affordable housing, most social rented and it looks as if the current administration is not quite cut from the same cloth as previously.  But more needs to be done; the bar has been stuck at 35% affordable housing for too long and should be raised to 50%.  To help achieve this behind-the-scenes lobbying by developers should be ended.  Southwark can take a lead on this by taking two immediate measures;
 
