@@ -35,8 +35,6 @@ It [emerged](https://www.35percent.org/heygate-regeneration-faq/#the-deal-with-l
 
 Later, in 2012 and 2013 Cllr John [came under fire](http://heygatewashome.org/img/SNOlympicTickets.pdf) for accepting tickets to the London Olympics, paid for by Lendlease and [for making a trip to Cannes](https://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim), to attend the MIPIM developer jamboree.
 
-
-
 ![](/img/screenshot-2021-08-06-at-10-25-18-elephant-castle-regeneration-agreement-formally-signed.png)
 
 ## Aylesbury estate redevelopment
@@ -44,8 +42,6 @@ Later, in 2012 and 2013 Cllr John [came under fire](http://heygatewashome.org/im
 In 2014, Peter John signed off the sale of the 2,759 council homes and 60 acres of land of the Aylesbury estate for demolition and redevelopment to housing association Notting Hill Housing Trust. Whilst the deal required Notting Hill to provide 50% 'affordable housing' it failed to secure any of the 3,500 proposed new homes as council homes and would have entailed a [net loss of social rented housing.](https://www.35percent.org/aylesbury-estate/)
 
 Delays and political pressure forced Southwark into a U-turn last year, when  it agreed to pay Notting Hill Genesis, as it now is, £193m to convert 581 new homes in phase 1 of the scheme into council homes.  Southwark has also now committed to no net loss of social rented housing.
-
-
 
 ![](/img/c8vumwwxcaeliyc.jpg)
 
@@ -81,13 +77,15 @@ These schemes are not exceptions.  Our [research](https://35percent.org/major-sc
 
 ![](https://www.35percent.org/img/majschemes.png)
 
-## Fire sale of Council-owned buildings and land
-
-In his ten years as Council leader Peter John oversaw [the sale of](https://www.35percent.org/estates/firesale/) a significant amount of council-owned land and buildings including all three Town Halls.
-
 ![](https://www.35percent.org/img/selloff2.png)
 
 ![](https://www.35percent.org/img/soldland.png)
+
+## What we say 
+
+Confidence in the planning system has been badly dented by high profile schemes, such as the Heygate and Elephant shopping centre, not delivering the affordable housing we need.  That confidence is not improved when the former leader of the council becomes the chair of a public affairs company whose business is *'influencing government'*, including *'public authorities'*, such as councils.
+
+The Terrapin Group boasts that it is a *'market leader'* and has *'a superb track record of helping our clients achieve successful planning consents right across Greater London'* and invites inquiries for *'potential assignments'*.
 
 It is unlikely that we will ever know to what extent Terrapin's lobbying on behalf of its clients has had on our Council administration's decisions during the last decade. The world of lobbying and revolving doors is opaque, but there are three simple steps that Southwark's current administration could take to clear up its act:
 
