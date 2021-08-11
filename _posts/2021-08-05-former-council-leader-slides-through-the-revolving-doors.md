@@ -92,7 +92,7 @@ We cannot know for sure whether any of the developments featured in this blogpos
 1. No sitting local councillor should also work for a public affairs company, whose clients are property developers and investors.  It is is not enough that councillors do not engage in such work within their own borough, as required by the Public Affairs Code.  They should not be trying to persuade fellow councillors in other boroughs to approve schemes either.  Planning decisions must be seen to made solely on the merits of the application, with all discussions open to public view.
 2. A local register of public affairs companies for the borough should be established.  Every applicant for at least major schemes should be required to list their agents, including public affairs companies.
 
-This would help Southwark Council restore some integrity and avoid damaging headlines such as [these](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png): 
+These measures would help maintain the integrity of the planning system, and might avoid [](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)[this](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png) kind of damaging headline:
 
 ![](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)
 
