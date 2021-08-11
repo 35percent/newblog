@@ -83,11 +83,11 @@ These schemes are not exceptions.  Our [research](https://35percent.org/major-sc
 
 ## What we say 
 
-Confidence in the planning system has been badly dented by high profile schemes, such as the Heygate and Elephant shopping centre, not delivering the affordable housing we need.  That confidence is not improved when the former leader of the council becomes the chair of a public affairs company whose business is *'influencing government'*, including *'public authorities'*, such as councils.
+Confidence in the planning system has been badly dented by high profile schemes not delivering the affordable housing we need.  That confidence is not improved when the former leader of the council becomes the chair of a public affairs company whose business is *'influencing government'*, including *'public authorities'*, such as councils.
 
 The Terrapin Group boasts that it is a *'market leader'* and has *'a superb track record of helping our clients achieve successful planning consents right across Greater London'* and invites inquiries for *'potential assignments'*.
 
-It is unlikely that we will ever know to what extent Terrapin's lobbying on behalf of its clients has had on our Council administration's decisions during the last decade. The world of lobbying and revolving doors is opaque, but there are three simple steps that Southwark's current administration could take to clear up its act:
+We cannot know for sure whether any of the developments featured in this blogpost are examples of such successful *'assignments'.*  More recent developments, such as along the Old Kent Rd, have at least 35% affordable housing, most social rented and it looks as if the current administration is not quite cut from the same cloth as previously.  But more needs to be done; the bar has been stuck at 35% affordable housing for too long and should be raised to 50%.  To help achieve this behind the scenes lobbying by developers should be ended.  Southwark can take a lead on this by two measures;
 
 1. Conduct a review of the legal agreements for the major joint-venture developments listed above, to ensure that the Council is getting value for money and/or adequate remuneration for its land (and exercise break clauses if it is not).
 2. Introduce a voluntary code of conduct for Councillors such that they agree not to work for lobbyists during or after their term in public service.
