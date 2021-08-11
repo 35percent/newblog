@@ -95,5 +95,3 @@ We cannot know for sure whether any of the developments featured in this blogpos
 These measures would help maintain the integrity of the planning system, and might avoid [](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)[this](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png) kind of damaging headline:
 
 ![](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)
-
-Given the [number of former and sitting Councillors](https://35percent.org/revolving-doors) on lobbyists' payrolls and the fact that Peter John has retained his seat as a ward Councillor, we won't be holding our breath..
