@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Former Council leader glides through revolving doors "
-date: 2021-08-11T21:33:49.351Z
+title: "Former Council leader glides through revolving doors"
+date: 2021-08-11
 image: img/rdoors2.jpg
 ---
 Former Southwark Council leader [Peter John OBE](https://www.southwarknews.co.uk/news/exclusive-council-leader-steps-down-after-ten-years/) has joined the [long list](https://www.35percent.org/revolving-doors/) of councillors and ex-council staff now working for property developers.  Cllr John led Southwark from 2010 to 2020, and was chair of [London Councils](https://www.londoncouncils.gov.uk/) from 2018 to 2020. 
