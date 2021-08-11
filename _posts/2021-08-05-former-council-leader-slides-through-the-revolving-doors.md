@@ -5,7 +5,7 @@ date: 2021-08-05T21:33:49.351Z
 ---
 ![](/img/pjterrapin.png)
 
-Former Southwark Council leader [Peter John OBE](https://www.southwarknews.co.uk/news/exclusive-council-leader-steps-down-after-ten-years/) has joined the [long list](https://www.35percent.org/revolving-doors/) of councillors and ex-council staff now working for property developers.  Cllr John was leader from 2010 to 2020, as well as being chair of [London Councils](https://www.londoncouncils.gov.uk/) from 2018 to 2020. 
+Former Southwark Council leader [Peter John OBE](https://www.southwarknews.co.uk/news/exclusive-council-leader-steps-down-after-ten-years/) has joined the [long list](https://www.35percent.org/revolving-doors/) of councillors and ex-council staff now working for property developers.  Cllr John leader Southwark from 2010 to 2020, and was chair of [London Councils](https://www.londoncouncils.gov.uk/) from 2018 to 2020. 
 
 Cllr John was recently [appointed Chairman](https://www.terrapingroup.co.uk/ourPeople/17) of the Terrapin Group, a public affairs company (otherwise known as a lobbying firm), whose [client list](https://www.terrapingroup.co.uk/ourClients) is dominated by property developers and investors.  Cllr John joins three other serving councillors, from different boroughs, as a Terrapin *'practitioner'*, but in the more senior chairman's role.
 
@@ -39,9 +39,9 @@ Later, in 2012 and 2013 Cllr John [came under fire](http://heygatewashome.org/im
 
 ## Aylesbury estate redevelopment
 
-In 2014, Peter John signed off the sale of the 2,759 council homes and 60 acres of land of the Aylesbury estate for demolition and redevelopment to housing association Notting Hill Housing Trust. Whilst the deal required Notting Hill to provide 50% 'affordable housing' it failed to secure any of the 3,500 proposed new homes as council homes and would have entailed a [net loss of social rented housing.](https://www.35percent.org/aylesbury-estate/)
+In 2014, Peter John signed-off the sale of the 2,759 council homes and 60 acres of land of the Aylesbury estate for demolition and redevelopment to housing association Notting Hill Housing Trust. Whilst the deal required Notting Hill to provide 50% 'affordable housing' it failed to secure any of the 3,500 proposed new homes as council homes and would have entailed a [net loss of social rented housing.](https://www.35percent.org/aylesbury-estate/)
 
-Delays and political pressure forced Southwark into a U-turn last year, when  it agreed to pay Notting Hill Genesis, as it now is, £193m to convert 581 new homes in phase 1 of the scheme into council homes.  Southwark has also now committed to no net loss of social rented housing.
+Delays and political pressure forced Southwark into a U-turn last year, when  it agreed to pay Notting Hill Genesis, as it now is, £193m to convert 581 new homes in phase 1 of the scheme into council homes.  Southwark has also now committed to [no net loss of social rented housing](https://www.southwarknews.co.uk/news/aylesbury-regen-increase-in-social-rent-housing-in-phase-2-means-all-tenants-from-later-development-stages-will-have-off-plan-homes-ready-by-2028/).
 
 ![](/img/c8vumwwxcaeliyc.jpg)
 
@@ -89,7 +89,7 @@ Confidence in the planning system has been badly dented by high profile schemes 
 
 We cannot know for whether any of the developments featured in this blogpost are examples of such successful *'assignments'.*  More recent developments, such as along the Old Kent Rd, have at least 35% affordable housing, most social rented and so it looks as if the current administration is not quite cut from the same cloth as previously.  But more needs to be done; the bar has been stuck at 35% affordable housing for too long and should be raised to 50%.  To help achieve this behind-the-scenes lobbying by developers must be ended.  Southwark can take a lead on this by taking two immediate measures;
 
-1. No sitting local councillor should also work for a public affairs company, whose clients are property developers and investors.  It is not enough that councillors do not engage in such work within their own borough, as required by the [Public Affairs Code](<https://www.prca.org.uk/sites/default/files/Public Affairs Code February 2021 23.2.2021.pdf>).  They should not be trying to persuade fellow councillors in other boroughs to approve schemes either.  Planning decisions must be seen to made solely on the merits of the application, with all discussions open to public view.
+1. No sitting councillor should also work for a public affairs company whose clients are property developers and investors.  It is not enough that councillors do not engage in such work within their own borough, as required by the [Public Affairs Code](<https://www.prca.org.uk/sites/default/files/Public Affairs Code February 2021 23.2.2021.pdf>).  They should not be trying to persuade fellow councillors in other boroughs to approve schemes either.  Planning decisions must be seen to made solely on the merits of the application, with all discussions open to public view.
 2. A local register of public affairs companies for the borough should be established.  Every applicant for at least major schemes should be required to list their agents, including public affairs companies.
 
 These measures would not only help maintain the integrity of the planning system, but might also avoid [](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)[this](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png) kind of damaging headline:
