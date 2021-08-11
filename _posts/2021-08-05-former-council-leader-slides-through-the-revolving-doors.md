@@ -5,9 +5,9 @@ date: 2021-08-05T21:33:49.351Z
 ---
 ![](/img/pjterrapin.png)
 
-Former Council leader [Peter John OBE](https://www.southwarknews.co.uk/news/exclusive-council-leader-steps-down-after-ten-years/) has joined the [long list](https://www.35percent.org/revolving-doors/) of councillors and ex-council staff now working for property developers.  Cllr John was leader from 2010 to 2020, as well as being chair of [London Councils](https://www.londoncouncils.gov.uk/) from 2018 to 2020. 
+Former Southwark Council leader [Peter John OBE](https://www.southwarknews.co.uk/news/exclusive-council-leader-steps-down-after-ten-years/) has joined the [long list](https://www.35percent.org/revolving-doors/) of councillors and ex-council staff now working for property developers.  Cllr John was leader from 2010 to 2020, as well as being chair of [London Councils](https://www.londoncouncils.gov.uk/) from 2018 to 2020. 
 
-Cllr John was recently [appointed Chairman](https://www.terrapingroup.co.uk/ourPeople/17) of the Terrapin Group, a lobbying firm whose [client list](https://www.terrapingroup.co.uk/ourClients) is dominated by property developers and investors.  Cllr John joins three other serving councillors, from different boroughs, as a Terrapin 'practioner'.
+Cllr John was recently [appointed Chairman](https://www.terrapingroup.co.uk/ourPeople/17) of the Terrapin Group, a public affairs company (otherwise known as a lobbying firm), whose [client list](https://www.terrapingroup.co.uk/ourClients) is dominated by property developers and investors.  Cllr John joins three other serving councillors, from different boroughs, as a Terrapin *'practioner'*, but in the senoir chairman role.
 
 Terrapin was founded by former Tory politician Peter Bingle in 2012 and has acquired a [reputation](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning) for lobbying local government politicians to [help developers get planning consents](https://www.theguardian.com/uk-news/2018/sep/13/home-builders-lobbyist-pushed-council-leader-to-sort-and-speed-planning).
 
@@ -87,11 +87,10 @@ Confidence in the planning system has been badly dented by high profile schemes 
 
 The Terrapin Group boasts that it is a *'market leader'* and has *'a superb track record of helping our clients achieve successful planning consents right across Greater London'* and invites inquiries for *'potential assignments'*.
 
-We cannot know for sure whether any of the developments featured in this blogpost are examples of such successful *'assignments'.*  More recent developments, such as along the Old Kent Rd, have at least 35% affordable housing, most social rented and it looks as if the current administration is not quite cut from the same cloth as previously.  But more needs to be done; the bar has been stuck at 35% affordable housing for too long and should be raised to 50%.  To help achieve this behind the scenes lobbying by developers should be ended.  Southwark can take a lead on this by two measures;
+We cannot know for sure whether any of the developments featured in this blogpost are examples of such successful *'assignments'.*  More recent developments, such as along the Old Kent Rd, have at least 35% affordable housing, most social rented and it looks as if the current administration is not quite cut from the same cloth as previously.  But more needs to be done; the bar has been stuck at 35% affordable housing for too long and should be raised to 50%.  To help achieve this behind-the-scenes lobbying by developers should be ended.  Southwark can take a lead on this by taking two immediate measures;
 
-1. Conduct a review of the legal agreements for the major joint-venture developments listed above, to ensure that the Council is getting value for money and/or adequate remuneration for its land (and exercise break clauses if it is not).
-2. Introduce a voluntary code of conduct for Councillors such that they agree not to work for lobbyists during or after their term in public service.
-3. Prevent Councillors from being wined and dined or receiving gifts from developers or their lobbyists - i.e. all meetings with developers or their representatives should be conducted in Council offices and be fully minuted by officers.
+1. No sitting local councillor should also work for a public affairs company, whose clients are property developers and investors.  It is is not enough that councillors do not engage in such work within their own borough, as required by the Public Affairs Code.  They should not be trying to persuade fellow councillors in other boroughs to approve schemes either.  Planning decisions must be seen to made solely on the merits of the application, with all discussions open to public view.
+2. A local register of public affairs companies for the borough should be established.  Every applicant for at least major schemes should be required to list their agents, including public affairs companies.
 
 This would help Southwark Council restore some integrity and avoid damaging headlines such as [these](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png): 
 
