@@ -40,3 +40,21 @@ Retrospective consent was granted by delegated officer decision.
 In 2016, plot 6 - the entirely private block, was sold as a partially completed schemes (with s106 breaches acknowledged):
 
 https://www.thelandsite.co.uk/files/properties/29b248f2f41811e992280afeec538f48/680-5df90632081a2666385234.pdf
+
+In November 2020, we approached the then Cabinet member Cllr Johnson Situ asking what was going on with the scheme, which had clearly stalled.
+
+![](/img/screenshot-2021-08-14-at-18-54-16-35-campaign-on-twitter.png)
+
+He replied saying that he would look into it and get back to us:
+
+![](/img/screenshot-2021-08-14-at-18-55-48-35-campaign-on-twitter.png)
+
+Despite several chase up tweets and Direct Messages, Cllr Situ never got back to us.
+
+![](/img/screenshot-2021-08-14-at-18-57-48-johnson-situ-on-twitter.png)
+
+Apathy or Incompetence?
+
+Is it that they don't care about having signed over public land in return for some affordable housing which is sitting vacant? or is it that they don't actually know. 
+Maybe the original development agreement got lost in their archives?
+Maybe they don't keep track of all the development agreements they have signed because they have full trust in developers to deliver what they promised?..
