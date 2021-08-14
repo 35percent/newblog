@@ -41,7 +41,7 @@ In 2016, plot 6 - the entirely private block, was sold as a partially completed 
 
 https://www.thelandsite.co.uk/files/properties/29b248f2f41811e992280afeec538f48/680-5df90632081a2666385234.pdf
 
-In November 2020, we approached the then Cabinet member Cllr Johnson Situ asking what was going on with the scheme, which had clearly stalled.
+In November 2020, we [approached](https://mobile.twitter.com/JohnsonSitu/status/1323641097009143808) the then Cabinet member Cllr Johnson Situ asking what was going on with the scheme, which had clearly stalled.
 
 ![](/img/screenshot-2021-08-14-at-18-54-16-35-campaign-on-twitter.png)
 
