@@ -82,15 +82,17 @@ Confidence in the planning system has been badly dented by high profile schemes 
 
 [The Terrapin Group](https://www.terrapingroup.co.uk/) boasts that it is a *'market leader'* and has *['a superb track record of helping our clients achieve successful planning consents right across Greater London'](https://www.terrapingroup.co.uk/terrapinCommunications)* and invites inquiries for *'potential assignments'*.
 
-We cannot know for whether any of the developments featured above are examples of such successful *'assignments'.*  More recent developments, such as along the Old Kent Rd, have at least 35% affordable housing, most social rented and so it looks as if the current administration may not be cut from quite the same cloth as the previous one.  But more needs to be done; the bar has been stuck at 35% affordable housing for too long and should be raised to 50%.  To help achieve this behind-the-scenes lobbying by developers must be ended.  Southwark can take a lead on this by taking two immediate measures;
+We cannot know for whether any of the developments featured above are examples of such successful *'assignments'.*  More recent developments, such as along the Old Kent Rd, have at least 35% affordable housing, most social rented and so it looks as if the current administration may not be cut from quite the same cloth as the previous one. Notwistanding this, it remains a fact that [five](https://35percent.org/revolving-doors) sitting Labour councillors (including Cllr John) currently also sit on the payroll of property lobbyists.
 
-1. No sitting councillor should also work for a public affairs company whose clients are property developers and investors.  It is not enough that councillors do not engage in such work within their own borough, as required by the [Public Affairs Code](<https://www.prca.org.uk/sites/default/files/Public Affairs Code February 2021 23.2.2021.pdf>).  They should not be trying to persuade fellow councillors in other boroughs to approve schemes either.  Planning decisions must be seen to made solely on the merits of the application, with all discussions open to public view.
-2. A local register of public affairs companies for the borough should be established.  Every applicant for at least major schemes should be required to list their agents, including public affairs companies.
+If Southwark's new administration wants to clean up its act it could start by taking two simple and immediate measures;
 
-These measures would not only help maintain the integrity of the planning system, but might also avoid [](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)[this](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png) kind of damaging headline:
+1. No sitting councillor should also work for a public affairs company whose clients are property developers and investors.  It is not enough that councillors do not engage in such work within their own borough, as required by the [Public Affairs Code](<https://www.prca.org.uk/sites/default/files/Public Affairs Code February 2021 23.2.2021.pdf>). They should not be trying to persuade fellow councillors in other boroughs to approve schemes either. Planning decisions must be seen to made solely on the merits of the application, with all discussions open to public view.
+
+2. A local register of public affairs companies for the borough should be established. Every applicant for at least major schemes should be required to list their agents, including public affairs companies.
+
+These measures would not only help maintain the integrity of the planning system, but might also avoid damaging headlines like [this](https://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim) one, [this](http://heygatewashome.org/img/SNOlympicTickets.pdf) one, or [this](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png) one:
 
 ![](https://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)
-
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@35percent_EAN">
