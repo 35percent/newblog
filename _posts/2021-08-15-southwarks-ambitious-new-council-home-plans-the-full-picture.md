@@ -23,14 +23,25 @@ Last year 450 council homes were earmarked for demolition on the Tustin estate.
 
 It's a bit rich to start building council homes on green space because you've got nowhere else to build them when you are simultaneously knocking down thousands of structurally sound council homes on nearby estates.
 
-## 2. Land and street property sell offs
+## 2. Council-owned land and property sell offs
 For the past ten years, Southwark has had a ['void disposal policy'](https://www.35percent.org/estates/void-disposals/) which triggers the sale of any Council home that becomes void and is valued at over £400k.
 
 ![](https://35percent.org/img/samplecouncilhomessold.png)
 
 The theory goes that the Council can use the proceeds of the sales to build new council homes, but it fails to take into account the shortage of land upon which to build.
 
-3. empty sites
+At the same time the Council has been [selling off council-owned buildings and council owned land](https://www.35percent.org/estates/firesale/) to developers for redevelopment as housing:
+
+![](https://35percent.org/img/selloff2.png)
+
+Most of the above sites are now redeveloped as mainly private housing - there's not one council home on any of these sites.
+
+![](https://35percent.org/img/soldland.png)
+
+## 3. Major schemes
+
+
+## 4. empty sites
 ![](/img/stalledschemes2.jpg)
 
 Sta
