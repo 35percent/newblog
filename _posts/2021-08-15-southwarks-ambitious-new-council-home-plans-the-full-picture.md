@@ -34,7 +34,9 @@ At the same time the Council has been [selling off council-owned buildings and c
 
 ![](https://35percent.org/img/selloff2.png)
 
-Most of the above sites are now redeveloped as mainly private housing - there's not one council home on any of these sites.
+Most of the above sites have either been converted or are being redeveloped as (mainly private) housing. Their sale has not resulted in a single council or social rent home.
+
+The land sales are a similar story..
 
 ![](https://35percent.org/img/soldland.png)
 
