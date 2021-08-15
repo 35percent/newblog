@@ -9,7 +9,7 @@ The Council says that it needs to build new council homes (including shared owne
 
 ![](/img/peckhamgreen.png)
 
-We're not against building new council homes, but for three reasons we do think it's a bit off to go building on the small amount of remaing precious green space the borough has.
+We're not against building new council homes, but for five reasons, we do think it's a bit off to go building on the small amount of remaing precious green space the borough has.
 
 ## 1. Estate demolitions
 
@@ -47,7 +47,16 @@ Our [research](https://35percent.org/major-schemes) shows that only 456 new home
 
 It's a bit rich to claim that green spaces have to be given over to new council homes when you've forgone 2,500 social rented homes by letting developers off the hook.
 
-## 4. empty sites
+## 4. Lost section 106 housing
+Even in the schemes which have provided social rented housing as part of the 35% affordable housing requirement, the council is entirely unconcerned as to whether the social rented housing is provided.
+
+![](https://35percent.org/img/rsr.png)
+
+Grange Road scheme units appearing on homesearch and;
+
+11 Pioneer Building units standing empty.
+
+## 5. empty sites
 
 ![](/img/stalledschemes2.jpg)
 
