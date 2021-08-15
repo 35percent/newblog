@@ -41,9 +41,14 @@ The land sales are a similar story..
 ![](https://35percent.org/img/soldland.png)
 
 ## 3. Major schemes
+Our [research](https://35percent.org/major-schemes) shows that only 456 new homes, out of 11,863 units in 25 major developments, approved in Southwark from 2006 to 2016 were social rented tenure - 3.8%. Had these schemes to complied with minimum policy requirements then around 2,500 social rented homes would have provided for families on Southwark's housing waiting list.
 
+![](https://35percent.org/img/majschemes.png)
+
+It's a bit rich to claim that green spaces have to be given over to new council homes when you've forgone 2,500 social rented homes by letting developers off the hook.
 
 ## 4. empty sites
+
 ![](/img/stalledschemes2.jpg)
 
-Sta
+Old Kent road site - massing study 400? homes alone.
