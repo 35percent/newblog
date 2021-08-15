@@ -11,7 +11,7 @@ The Council says that it needs to build new council homes (including shared owne
 
 We're not against building new council homes, but for three reasons we do think it's a bit off to go building on the small amount of remaing precious green space the borough has.
 
-1. Estate demolitions
+## 1. Estate demolitions
 
 Southwark has lost around 7,000 council homes to its extensive and ongoing estate redevelopment programme.
 
@@ -23,10 +23,14 @@ Last year 450 council homes were earmarked for demolition on the Tustin estate.
 
 It's a bit rich to start building council homes on green space because you've got nowhere else to build them when you are simultaneously knocking down thousands of structurally sound council homes on nearby estates.
 
-2. Land and street property sell offs
+## 2. Land and street property sell offs
+For the past ten years, Southwark has had a ['void disposal policy'](https://www.35percent.org/estates/void-disposals/) which triggers the sale of any Council home that becomes void and is valued at over £400k.
 
+![](https://35percent.org/img/samplecouncilhomessold.png)
 
+The theory goes that the Council can use the proceeds of the sales to build new council homes, but it fails to take into account the shortage of land upon which to build.
 
+3. empty sites
 ![](/img/stalledschemes2.jpg)
 
 Sta
