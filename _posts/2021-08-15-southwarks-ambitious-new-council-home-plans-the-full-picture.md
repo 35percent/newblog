@@ -73,4 +73,6 @@ Critics at the time said that it was an empty pledge which served only to mask t
 
 Seven years on and the \[figures show a net loss of 925 council homes since 2014](https://35percent.org/new-council-homes).
 
+It has built just 355 council homes in 7 years, nothing like enough to outstrip the ongoing losses through estate demolitions and right to buy.
+
 ![](/img/screenshot-2021-08-15-at-21-39-00-southwark’s-11000-new-council-homes.png)
