@@ -8,7 +8,66 @@ Since 1999, the borough has lost more than 13,000 council homes (see graph below
 
 The 11 estates shown represent a total of 8,453 council homes and leasehold properties lost. Southwark does now have an council house building programme, it is [still knocking down and selling off council homes faster than it is building them](https://35percent.org/new-council-homes).
 
-![](https://35percent.org/img/clearanceschart.png)
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
+</script>
+<script src="https://code.highcharts.com/highcharts.js">
+</script>
+<script src="https://code.highcharts.com/modules/exporting.js">
+</script>
+
+<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto">
+</div>
+
+<script type="text/javascript">
+
+        $('#container').highcharts({
+            title: {
+                text: "Southwark's Council Homes",
+                x: -20 //center
+            },
+            subtitle: {
+                 text: 'Source: <a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx">https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx</a>',
+		x: -20
+            },
+            xAxis: {
+                categories: ['1994', '1995', '1996', '1997', '1998', '1999',
+                    '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']
+            },
+            yAxis: {
+                title: {
+                    text: 'Council-owned stock'
+                },
+                plotLines: [{
+                    value: 0,
+                    width: 1,
+                    color: '#808080'
+                }]
+            },
+            tooltip: {
+                valueSuffix: ' Council homes'
+            },
+            legend: {
+                layout: 'vertical',
+                align: 'right',
+                verticalAlign: 'middle',
+                borderWidth: 0
+            },
+            series: [{
+                name: 'Southwark',
+                data: [55803, 55162, 54439, 53363, 52448, 51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553, 38489, 38104, 38183]
+            },
+	{
+                name: 'Camden',
+                data: [29520,29249,28969,28976,28212,27678,27083,26797,26007,25690,25492,23921,23997,23517,23707,23860,23665,23596,23630,23508,23508,23256,23197,23075,23173,23446,23226]
+            },
+	{
+                name: 'Islington',
+                data: [36902,37489,37404,37010,36582,35853,33020,31827,31012,30439,29415,28015,27448,27046,26485,26372,26340,26328,26256,26235,26264,26053,25847,25290,25009,25336,25303]
+            }
+	]
+        });
+
+</script>
 
 [Source: https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx)
 
