@@ -55,9 +55,21 @@ The 11 estates shown represent a total of 8,453 council homes and leasehold prop
             series: [{
                 name: 'Southwark',
                 data: [55803, 55162, 54439, 53363, 52448, 51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553, 38489, 38104, 38183]
+            },
+	{
+                name: 'Camden',
+                data: [29520,29249,28969,28976,28212,27678,27083,26797,26007,25690,25492,23921,23997,23517,23707,23860,23665,23596,23630,23508,23508,23256,23197,23075,23173,23446,23226]
+            },
+	{
+                name: 'Islington',
+                data: [36902,37489,37404,37010,36582,35853,33020,31827,31012,30439,29415,28015,27448,27046,26485,26372,26340,26328,26256,26235,26264,26053,25847,25290,25009,25336,25303]
             }
 	]
         });
 
 </script>
+
+While Southwark still remains the London borough with the highest number of council homes, it has one of the highest populations of all boroughs. Taken as a percentage of the total number of homes in each borough, Southwark has lost more council housing over the past 20 years than both Islington and Camden.
+
+![](https://35percent.org/img/boroughstock.png)
 
