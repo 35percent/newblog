@@ -18,16 +18,13 @@ Councillor John went one step further to pledge that the first 1500 net addition
 ![](https://35percent.org/img/1500councilhomes.png)
 *Extract from [2014 Cabinet report](https://moderngov.southwark.gov.uk/documents/s47488/Report%20Long%20term%20plans%20for%20the%20delivery%20of%20new%20council%20homes.pdf)*
 
-Six years on and we have taken a look at whether Councillor John has delivered on his manifesto pledge.
+Seven years on and we have taken a look at whether Southwark Council has delivered on its manifesto pledge.
 
-This [Sep 2019 Cabinet report](https://moderngov.southwark.gov.uk/documents/s84622/Report%20New%20Council%20Homes%20Rooftop%20Development%20Principles.pdf) confirms that the council has built just 328 council homes over 5 years (para 16).  
+This [July 2021 committee report](https://moderngov.southwark.gov.uk/documents/s84622/Report%20New%20Council%20Homes%20Rooftop%20Development%20Principles.pdf) confirms that the council has built just 355 council homes since the programme was announced 7 years ago (para 28).  
 
-[Official statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) from the government's [live tables](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) on local authority dwelling stock show that since the manifesto pledge in 2014 there has been a net reduction in Southwark's council housing stock of 925 council homes.
+[Official statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) from the government's [live tables](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) on local authority dwelling stock show that since the manifesto pledge in 2014 there has been a net reduction in Southwark's council housing stock of 846 council homes.
 
-![](https://35percent.org/img/netlosstable116.jpg)
-*Extract from the government's [Live Table 116](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx)*
-
-The rate at which the council is building new homes is clearly not keeping up with the rate at which it is knocking them down and selling them off. The Council has or will demolish [over 7,500 council homes](https://35percent.org/the-southwark-clearances/) as part of regeneration schemes, including  1,200 council homes in the [Heygate estate regeneration](https://35percent.org/heygate-regeneration-faq/) and circa 2,400 in the [Aylesbury estate regeneration](https://35percent.org/aylesbury-estate/).
+The rate at which the council is building new homes is clearly not keeping up with the rate at which it is knocking them down and selling them off. The Council has or will demolish [over 7,500 council homes](https://35percent.org/estates/) as part of regeneration schemes, including  1,200 council homes in the [Heygate estate regeneration](https://35percent.org/heygate-regeneration-faq/) and circa 2,400 in the [Aylesbury estate regeneration](https://35percent.org/aylesbury-estate/).
 
 In addition, it has [sold 1,300 council homes under the Right to Buy since 2012](https://www.insidehousing.co.uk/comment/comment/how-we-will-attempt-to-restrict-high-rents-on-right-to-buy-re-lets-58865) and has an [ongoing policy](https://35percent.org/the-southwark-clearances/#void-disposal-policy) of selling every council home that becomes vacant which is valued at £300k or more.
 
@@ -45,7 +42,7 @@ For example, 54 of the new 'council homes' are temporary accommodation units in 
 
 ![](https://35percent.org/img/lharates.png)
 
-In any event, even if we count all the hostel units and purchased S106 units as council homes at council rents, the [overall figures](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) still show a net loss of 925 council homes since 2014 and an ongoing decline in dwelling stock:
+In any event, even if we count all the hostel units and purchased S106 units as council homes at council rents, the [overall figures](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) still show a net loss of 846 council homes since 2014, mirroring an ongoing decline in dwelling stock:
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
@@ -114,5 +111,5 @@ While Southwark still remains the London borough with the highest number of coun
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Southwark's 11,000 new council homes" />
-<meta name="twitter:description" content="Figures show net loss of 925 council homes as sales and demolitions continue to outstrip new-builds" />
+<meta name="twitter:description" content="Figures show net loss of 846 council homes as sales and demolitions continue to outstrip new-builds" />
 <meta name="twitter:image" content="https://35percent.org/img/councilstock.png" />
