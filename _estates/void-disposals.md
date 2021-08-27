@@ -12,6 +12,10 @@ The Council argues that the capital receipts from the sale of these council home
 
 [This compilation](https://35percent.org/img/sold_by_southwark.pdf) taken from auction websites shows a sample of council homes sold through its void disposals policy.
 
+There are no figures publicly available showing exactly how many council homes have been sold under this policy, but general figures for overall stock show that Southwark Council has lost 1,662 council homes in the past ten years. 
+
+![](https://35percent.org/img/councilstock.png)
+
 In the same vein, Southwark has been [selling off council-owned land and buildings](https://www.35percent.org/estates/firesale/), the capital receipts from which it says are being used to build new council homes.
 
 ![](https://www.35percent.org/img/soldland.png)
