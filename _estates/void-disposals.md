@@ -12,10 +12,10 @@ The Council argues that the capital receipts from the sale of these council home
 
 [This compilation](https://35percent.org/img/sold_by_southwark.pdf) taken from auction websites shows a sample of council homes sold through this policy.
 
-In the same vein, Southwark has been selling off vast areas of council-owned land and buildings, the capital receipts from which it says are being used to build new council homes.
+In the same vein, Southwark has been [selling off council-owned land and buildings](https://www.35percent.org/estates/firesale/), the capital receipts from which it says are being used to build new council homes.
 
 ![](https://www.35percent.org/img/soldland.png)
 
-![](https://www.35percent.org/img/selloff2.png)
+<img src="https://www.35percent.org/img/selloff2.png" width="50%">
 
 The logic fails not just on the same point that there is a chronic shortage of land in the borough, but also that by selling existing land and and buildings off to developers for private development, it is further increasing land and property prices thereby exacerbating the problem.
