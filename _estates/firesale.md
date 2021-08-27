@@ -1,6 +1,6 @@
 ---
 title: Municipal buildings
-date: 2019-11-15 00:00:00 -0700
+date: 2021-08-11 00:00:00 -0700
 image: img/selloff2.png
 layout: page
 ---

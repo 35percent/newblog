@@ -1,6 +1,6 @@
 ---
 title: Selling off council homes
-date: 2019-10-15 00:00:00 -0700
+date: 2021-08-12 00:00:00 -0700
 image: img/samplecouncilhomessold.png
 layout: page
 redirect_from: /the-southwark-clearances
