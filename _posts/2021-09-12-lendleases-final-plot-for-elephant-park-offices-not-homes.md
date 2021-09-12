@@ -22,3 +22,9 @@ A good part of Plot H1 sits on land that was covenanted for use as open space, i
 In 2019 Lendlease took advantage of a poorly drafted s106 legal agreement with Southwark to increase the maximum number of homes allowed on Elephant Park by 220 units, to 2,689 (LINK).  Lendlease is using ten plots of land for these homes, instead of the eleven available, leaving itself a spare plot.  This is the justification for the new planning application.  Lendlease claims that they have fulfilled their housing obligations under the current planning consent, so Plot H1 can be used for an office development, which would create jobs.
 
 Lendlease does not say in their new planning application how many homes could be built on Plot H1, if it were used as for housing as originally intended, but by making a rough comparison with neighbouring plot H7, a capacity for about 340 homes can be calculated.
+
+### Lendlease on manoeuvres
+
+Lendlease's Plot H1 planning application is the latest of a succession of self-advantageous manoeuvres.  As well as increasing the number of homes on the estate and squeezing them into fewer plots, Lendlease has also announced that over 900 of the free-market homes would no longer be for sale, but kept under their ownership, and let to private renters, not sold (LINK).  Before this, they marketed and sold substantial numbers of homes overseas (LINK).  This all followed the notorious 2010 Heygate regeneration agreement, which reduced the affordable housing to 25%, from 35%, with a meagre 79 social rented units (later inching up to 100 units). (LINK)
+
+Southwark Council is now poised to give up a prime housing site (in the middle of an opportunity area, on former council estate land) at Lendlease's behest.  Southwark is doing this while embroiled in controversies across the borough about infill development on council estate sites, none of which are anywhere near the size of the plot it is about ti give up.
