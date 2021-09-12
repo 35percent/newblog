@@ -31,13 +31,13 @@ Southwark Council is now poised to give up a prime housing site (in the middle o
 
 ### Object!
 
-Lendlease's argument that offices will good for employment is entirely self-serving.  They did not make this proposal for Plot H1 in 2012, when applying for their first planning permission.  Instead they have tricked their way into a position where they have built more homes than originally consented, on a smaller space, and now want to add an office block for good measure.
+Lendlease's argument that offices will good for employment is entirely self-serving.  They did not make this proposal for Plot H1 in 2012, when applying for their first planning permission.  Instead, they have tricked their way into a position where they have built more homes than originally consented, on a smaller space, and now want to add an office block for good measure.
 
 The idea of building an office block where there was once a council estate has never appeared in any of the numerous planning policy documents Southwark has produced over the last twenty years - until now, that is, when a sneaky late change to the New Southwark Plan has been designed to boost the chances of Lendlease's application being approved.
 
 Southwark's planning committee must stop this cynical attempt to manipulate planning policy to Lendlease's advantage and reject this planning application.
 
-Once this is done, Southwark should start a sensible discussion on what is to be done with this prime site, with the focus on the local communities real needs, including affordable housing, with all the amenities and open surroundings needed to make life liveable in London.
+Once this is done, Southwark should start a sensible discussion on what is to be done with this prime site, with the focus on the local community's real needs, including affordable housing, with all the amenities and open surroundings needed to make life liveable in London.
 
 Over 450 objections have been made to this application including one from the 35% Campaign (LINK).
 
