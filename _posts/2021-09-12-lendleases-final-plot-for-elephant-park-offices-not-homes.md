@@ -27,4 +27,14 @@ Lendlease does not say in their new planning application how many homes could be
 
 Lendlease's Plot H1 planning application is the latest of a succession of self-advantageous manoeuvres.  As well as increasing the number of homes on the estate and squeezing them into fewer plots, Lendlease has also announced that over 900 of the free-market homes would no longer be for sale, but kept under their ownership, and let to private renters, not sold (LINK).  Before this, they marketed and sold substantial numbers of homes overseas (LINK).  This all followed the notorious 2010 Heygate regeneration agreement, which reduced the affordable housing to 25%, from 35%, with a meagre 79 social rented units (later inching up to 100 units). (LINK)
 
-Southwark Council is now poised to give up a prime housing site (in the middle of an opportunity area, on former council estate land) at Lendlease's behest.  Southwark is doing this while embroiled in controversies across the borough about infill development on council estate sites, none of which are anywhere near the size of the plot it is about ti give up.
+Southwark Council is now poised to give up a prime housing site (in the middle of an opportunity area, on former council estate land) at Lendlease's behest.  Southwark is doing this while embroiled in controversies across the borough about infill development on council estate sites, none of which are anywhere near the size of the plot it is about to give up.
+
+### Object!
+
+Lendlease's argument that offices will good for employment is entirely self-serving.  They did not make this proposal for Plot H1 in 2012, when applying for their first planning permission.  Instead they have tricked their way into a position where they have built more homes than originally consented, on a smaller space, and now want to add an office block for good measure.
+
+The idea of building an office block where there was once a council estate has never appeared in any of the numerous planning policy documents Southwark has produced over the last twenty years - until now, that is, when a sneaky late change to the New Southwark Plan has been designed to boost the chances of Lendlease's application being approved.
+
+Southwark's planning committee must stop this cynical attempt to manipulate planning policy to Lendlease's advantage and reject this planning application.
+
+Once this is done, Southwark should start a sensible discussion on what is to be done with this prime site, with the focus on the local communities real needs, including affordable housing, with all the amenities and open surroundings needed to make life liveable in London.
