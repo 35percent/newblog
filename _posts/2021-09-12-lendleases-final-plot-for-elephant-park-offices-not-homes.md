@@ -38,3 +38,7 @@ The idea of building an office block where there was once a council estate has n
 Southwark's planning committee must stop this cynical attempt to manipulate planning policy to Lendlease's advantage and reject this planning application.
 
 Once this is done, Southwark should start a sensible discussion on what is to be done with this prime site, with the focus on the local communities real needs, including affordable housing, with all the amenities and open surroundings needed to make life liveable in London.
+
+Over 450 objections have been made to this application including one from the 35% Campaign (LINK).
+
+If you would like to add your objection, you can do so here....
