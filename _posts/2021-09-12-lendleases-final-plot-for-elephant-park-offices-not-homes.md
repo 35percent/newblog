@@ -39,6 +39,6 @@ Southwark's planning committee must stop this cynical attempt to manipulate plan
 
 Once this is done, Southwark should start a sensible discussion on what is to be done with this prime site, with the focus on the local community's real needs, including affordable housing, with all the amenities and open surroundings needed to make life liveable in London.
 
-[450 comments and objections](https://www.southwarknews.co.uk/news/the-great-infilling-debate-in-southwark-every-estate-where-new-developments-are-proposed-or-already-underway/) have been made to this application including [one from the 35% Campaign](https://docdro.id/e5dkioz).
+[470 comments and objections](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=QTPPZDKB03Q00) have been made to this application including [one from the 35% Campaign](https://docdro.id/e5dkioz).
 
 If you would like to add your objection, you can do so here....
