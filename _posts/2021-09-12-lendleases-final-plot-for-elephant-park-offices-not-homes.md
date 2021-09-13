@@ -27,7 +27,7 @@ Lendlease does not say in their new planning application how many homes could be
 
 Lendlease's Plot H1 planning application is the latest of a succession of self-advantageous manoeuvres.  As well as increasing the number of homes on the estate and squeezing them into fewer plots, Lendlease has also announced that over [900 of the free-market homes](https://www.lendlease.com/uk/media-centre/media-releases/debut-build-to-rent-homes-from-lendlease-near-completion/) would no longer be for sale, but kept under their ownership, and let to private renters, not sold.  Before this, they marketed and sold substantial numbers of [homes overseas](https://www.35percent.org/elephant-park-a-populist-narrative/) .  This all followed the notorious 2010 [Heygate regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf), which reduced the affordable housing to 25%, from 35%, with a meagre 79 social rented units (later inching up to 100 units). (LINK)
 
-Southwark Council is now poised to give up a prime housing site (in the middle of an opportunity area, on former council estate land) at Lendlease's behest.  Southwark is doing this while embroiled in controversies across the borough about infill development on council estate sites, none of which are anywhere near the size of the plot it is about to give up.
+Southwark Council is now poised to give up a prime housing site (in the middle of an opportunity area, on former council estate land) at Lendlease's behest.  Southwark is doing this while [embroiled in controversies](https://www.southwarknews.co.uk/news/the-great-infilling-debate-in-southwark-every-estate-where-new-developments-are-proposed-or-already-underway/) across the borough about infill development on council estate sites, none of which are anywhere near the size of the plot it is about to give up.
 
 ### Object!
 
@@ -39,6 +39,6 @@ Southwark's planning committee must stop this cynical attempt to manipulate plan
 
 Once this is done, Southwark should start a sensible discussion on what is to be done with this prime site, with the focus on the local community's real needs, including affordable housing, with all the amenities and open surroundings needed to make life liveable in London.
 
-Over 450 objections have been made to this application including one from the 35% Campaign (LINK).
+[450 comments and objections](https://www.southwarknews.co.uk/news/the-great-infilling-debate-in-southwark-every-estate-where-new-developments-are-proposed-or-already-underway/) have been made to this application including [one from the 35% Campaign](https://docdro.id/e5dkioz).
 
 If you would like to add your objection, you can do so here....
