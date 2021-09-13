@@ -33,7 +33,7 @@ Southwark Council is now poised to give up a prime housing site (in the middle o
 
 Lendlease's argument that offices will good for employment is entirely self-serving.  They did not make this proposal for Plot H1 in 2012, when applying for their first planning permission.  Instead, they have tricked their way into a position where they have built more homes than originally consented, on a smaller space, and now want to add an office block for good measure.
 
-The idea of building an office block where there was once a council estate has never appeared in any of the numerous planning policy documents Southwark has produced over the last twenty years - until now, that is, when a sneaky late change to the New Southwark Plan has been designed to boost the chances of Lendlease's application being approved.
+Southwark Council have aided Lendlease's ambition, by proposing of a ten-fold increase in *'employment space'* on Elephant Park in the New Southwark Plan - a huge uplift, introduced to boost the chances of Lendlease's office block application  being approved.
 
 Southwark's planning committee must stop this cynical attempt to manipulate planning policy to Lendlease's advantage and reject this planning application.
 
