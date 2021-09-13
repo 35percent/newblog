@@ -11,7 +11,7 @@ Southwark is also ready to change the [New Southwark Plan](https://www.southwark
 
 ### Late changes to the New Southwark Plan
 
-The change to the NSP, which governs all development throughout the borough, is being made as a ['main modification'](https://www.southwark.gov.uk/assets/attach/52312/EIP219-Main-Modifications-to-the-NSP.pdf) to the Plan.  The modification MM7 would allow 60,000 sqm of *'employment floorspace'* to be built specifically on Elephant Park; at the moment the local plan envisages a [maximum of 30,000 sqm](https://www.southwark.gov.uk/assets/attach/1817/1.0.5-Elephant-Castle-SPD-OAPF.pdf) of *'business floorspace'* for the whole Elephant and Castle Opportunity Area.
+The change to the NSP, which governs all development throughout the borough, is part of a ['main modification'](https://www.southwark.gov.uk/assets/attach/52312/EIP219-Main-Modifications-to-the-NSP.pdf) to the Plan.  The modification MM7 would allow 60,000 sqm of *'employment floorspace'* to be built specifically on Elephant Park; at the moment the local plan envisages a [maximum of 30,000 sqm](https://www.southwark.gov.uk/assets/attach/1817/1.0.5-Elephant-Castle-SPD-OAPF.pdf) of *'business floorspace'* for the whole Elephant and Castle Opportunity Area.
 
 The NSP, including the main modifications, is in the final stages of approval by government inspectors.  Comments on all proposed modifications can be made up to a deadline of September 24 (LINK). 35% Campaign's draft comment can be found here (LINK).
 
