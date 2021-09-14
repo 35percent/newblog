@@ -40,7 +40,9 @@ authors:
 
 collections:
     estates:
-     output: true        
+     output: true
+  disposals:
+     output: true
 
 # Social
 social:
