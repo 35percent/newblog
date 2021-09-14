@@ -39,10 +39,10 @@ authors:
     description: "This is the author box. Write a short description of the author here."
 
 collections:
-    estates:
-     output: true
+  estates:
+    output: true
   disposals:
-     output: true
+    output: true
 
 # Social
 social:
