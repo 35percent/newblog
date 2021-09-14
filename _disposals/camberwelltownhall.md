@@ -3,11 +3,9 @@ title: Camberwell Town Hall
 layout: page
 date: '2014-12-27'
 published: true
-image: https://crappistmartin.github.io/images/PeckhamTownHall.jpg
+image: img/PeckhamTownHall.jpg
 ---
 Camberwell Town Hall served as Southwark's civic centre for all its meetings and core administrative functions for nearly half a century. In December 2014, Southwark's Labour administration [sold it](https://www.southwarknews.co.uk/news/town-halls-residence-students-move-former-southwark-town-hall-peckham/) [to a Jersey-based developer (Alumno Developments)](https://crappistmartin.github.io/images/LR_PeckhamTownHall.pdf). 
-
-![](https://crappistmartin.github.io/images/PeckhamTownHall.jpg)
 
 A week after the sale Southwark [granted planning permission](https://moderngov.southwark.gov.uk/documents/s42948/Item%201%20and%202%20report.pdf) for the building's conversion into private flats to be used as student accommodation. The affordable housing quota was waived on the basis of a viability assessment submitted by the developer.  
 
