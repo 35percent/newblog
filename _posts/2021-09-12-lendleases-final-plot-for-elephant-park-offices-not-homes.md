@@ -3,7 +3,7 @@ layout: post
 title: Lendlease's final plot for Elephant Park - offices, not homes
 date: 2021-09-12T12:13:09.843Z
 ---
-### Southwark  to change rules to allow office block on former Heygate estate.
+### Southwark to change rules to allow office block on former Heygate estate.
 
 Southwark Council is set to change its planning rules to enable developer Lendlease to build an office block on the site of the former Heygate estate.  The block would be on the final development plot of Elephant Park, Plot H1, which is earmarked for housing under Lendlease's [current planning consent](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!ucZFhScQGKP6RXG9kTjlDw%3d%3d!%7d%7d%7d).  Lendlease has [now applied](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QTPPZDKB03Q00) to replace this consent with an entirely new one, to build an office block, not housing.
 
@@ -21,7 +21,7 @@ A good part of Plot H1 sits on land that was covenanted for use as open space, i
 
 In 2019 Lendlease took advantage of a [poorly drafted s106](https://www.35percent.org/elephant-park-final-phase-affordable-housing/) legal agreement with Southwark to increase the maximum number of homes allowed on Elephant Park by 220 units, to 2,689.  Lendlease is using ten plots of land for these homes, instead of the eleven available, leaving itself a spare plot.  This is the justification for the new planning application - Lendlease claims that they have [fulfilled their housing obligations](https://planning.southwark.gov.uk/online-applications/files/3087518D1F1E382D8EC9CBF0F7834E63/pdf/21_AP_1819-PLANNING_STATEMENT-1145922.pdf) under the current planning consent, so Plot H1 can be used for an office development, which would create jobs.
 
-Lendlease does not say in their new planning application how many homes could be built on Plot H1, if it were used as for housing as originally intended, but by making a rough comparison with [neighbouring plot H7](https://planning.southwark.gov.uk/online-applications-old/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742), a capacity for about 340 homes can be calculated.
+Lendlease does not say in their new planning application how many homes could be built on Plot H1, if it were used for housing as originally intended, but by making a rough comparison with [neighbouring plot H7](https://planning.southwark.gov.uk/online-applications-old/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742), a capacity for about 340 homes can be calculated.
 
 ### Lendlease on manoeuvres
 
@@ -31,7 +31,7 @@ Southwark Council is now poised to give up a prime housing site (in the middle o
 
 ### Object!
 
-Lendlease's argument that offices will good for employment is entirely self-serving.  They did not make this proposal for Plot H1 in 2012, when applying for their first planning permission.  Instead, they have tricked their way into a position where they have built more homes than originally consented, on a smaller space, and now want to add an office block for good measure.
+Lendlease's argument that offices will good for employment is entirely self-serving.  They did not make this proposal for Plot H1 in 2012, when applying for their first planning permission.  Instead, they have tricked their way into a position where they have built more homes than originally consented, on a smaller space, and now want to squeeze in an extra office block for good measure.
 
 Southwark Council have aided Lendlease's application by proposing of a ten-fold increase in *'employment space'* on Elephant Park, in the New Southwark Plan - a huge uplift, introduced to boost the chances of the application being approved.
 
