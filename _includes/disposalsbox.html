@@ -1,0 +1,16 @@
+<!-- begin post -->
+<div class="card">
+    <a href="{{ disposal.url | absolute_url }}">
+        {% if disposal.image %} <img class="rounded mb-4" src="{{ site.baseurl }}/{{ disposal.image }}" alt="{{ disposal.title }}"> {% endif %}
+    </a>
+    <div class="card-block">
+        <h2 class="card-title h4 serif-font"><a href="{{ disposal.url | absolute_url }}">{{ disposal.title }}</a></h2>
+        <p class="card-text text-muted">{{ disposal.excerpt | strip_html | truncatewords:15 }}</p>
+        <div class="metafooter">
+            <div class="wrapfooter small d-flex align-items-center">
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
