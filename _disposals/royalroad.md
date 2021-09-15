@@ -1,6 +1,6 @@
 ---
 title: Royal Road Nursing Home 
-date: '2011'
+date: '2011-01-23'
 image: img/royalroad.png
 layout: page
 ---
