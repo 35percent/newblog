@@ -7,6 +7,8 @@ date: 2021-09-12T12:13:09.843Z
 
 Southwark Council is set to change its planning rules to enable developer Lendlease to build an office block on the site of the former Heygate estate.  The block would be on the final development plot of Elephant Park, Plot H1, which is earmarked for housing under Lendlease's [current planning consent](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!ucZFhScQGKP6RXG9kTjlDw%3d%3d!%7d%7d%7d).  Lendlease has [now applied](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QTPPZDKB03Q00) to replace this consent with an entirely new one, to build an office block, not housing.
 
+![](https://35percent.org/img/lloffice.jpg)
+
 Southwark is also ready to change the [New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/new-southwark-plan) (NSP) to pave Lendlease's way to a successful approval of the application.  The change will allow an increase in the office floorspace on Elephant Park, from the maximum of 5,000 sqm that Lendlease is presently allowed, to the 49,565 sqm it is proposing in its [new planning application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QTPPZDKB03Q00).  Southwark has said *'an office development on this plot is broadly supported'* in the 'Conclusion' of [pre-application discussions](https://planning.southwark.gov.uk/online-applications/files/EF1756B5230AF961CE8859EC9F9423D5/pdf/21_AP_1819-COUNCIL_S_PRE-APPLICATION_RESPONSE-1150308.pdf) with Lendlease.
 
 ### Late changes to the New Southwark Plan
@@ -18,6 +20,8 @@ The NSP, including the main modifications, is in the final stages of approval by
 ### From open space to office space
 
 A good part of Plot H1 sits on land that was covenanted for use as open space, in perpetuity, when ownership was devolved to Southwark in 1985, on the abolition of the Greater London Council (GLC).  In 2014 Southwark [transferred ownership of the Heygate land](https://moderngov.southwark.gov.uk/documents/s47529/Report%20Elephant%20and%20Castle.pdf), including Plot H1, to Lendlease, removing the covenant in the process.
+
+![](https://www.35percent.org/img/oldelephantpark.jpg)
 
 In 2019 Lendlease took advantage of a [poorly drafted s106](https://www.35percent.org/elephant-park-final-phase-affordable-housing/) legal agreement with Southwark to increase the maximum number of homes allowed on Elephant Park by 220 units, to 2,689.  Lendlease is using ten plots of land for these homes, instead of the eleven available, leaving itself a spare plot.  This is the justification for the new planning application - Lendlease claims that they have [fulfilled their housing obligations](https://planning.southwark.gov.uk/online-applications/files/3087518D1F1E382D8EC9CBF0F7834E63/pdf/21_AP_1819-PLANNING_STATEMENT-1145922.pdf) under the current planning consent, so Plot H1 can be used for an office development, which would create jobs.
 
@@ -35,7 +39,9 @@ Lendlease's argument that offices will good for employment is entirely self-serv
 
 Southwark Council have aided Lendlease's application by proposing of a ten-fold increase in *'employment space'* on Elephant Park, in the New Southwark Plan - a huge uplift, introduced to boost the chances of the application being approved.
 
-Southwark's planning committee must stop this cynical attempt to manipulate planning policy to Lendlease's advantage, by rejecting this planning application.
+There has been much speculation about whether Southwark's recent change of leadership has resulted in a change of direction for the Council. 
+
+This is the planning committee's chance to prove that the Council won't roll over to Lendlease indefinitely and must stop this cynical attempt to manipulate planning policy to Lendlease's advantage, by rejecting this planning application.
 
 Once this is done, Southwark should start a sensible discussion on what is to be done with this prime site, with the focus on the local community's real needs, including affordable housing, with all the amenities and open surroundings needed to make life liveable in London.
 
