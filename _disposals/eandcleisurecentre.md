@@ -1,10 +1,12 @@
 ---
 title: Elephant & Castle Leisure Centre
 date: 2013-08-11
-image: img/leisurecentreaerial.jpg
+image: img/elephantswimmingpool.jpg
 layout: page
 ---
 [__One the Elephant__](https://www.onetheelephant.com/) is a 37 storey, 284 unit residential tower with zero affordable housing, being built as a joint venture between the council and its regeneration partner __Lend Lease__ on the site of the former E&C leisure centre.
+
+![](https://35percent.org/img/leisurecentreaerial.jpg)
 
 [Land Registry documents](https://35percent.org/img/LRegisterOneTheElephant.pdf) reveal that Southwark Council [sold](https://moderngov.southwark.gov.uk/documents/s20069/Report%20-%20Improved%20terms%20for%20the%20sale%20of%20sites%20A%20and%20B%20at%20Canada%20Water.pdf) 
 1.4 acres of the old leisure centre site to developer _Lend Lease_ for the bargain price of £6.6m. The Council claimed that it will receive a share of the 'overage' profits from Lendlease when the development is completed but this [amounted to just £12m](https://www.whatdotheyknow.com/request/profit_overage_payment_received). 
