@@ -41,7 +41,7 @@ Lendlease's argument that offices will good for employment is entirely self-serv
 
 Southwark Council have aided Lendlease's application by proposing a ten-fold increase in *'employment space'* on Elephant Park, in the New Southwark Plan - a huge uplift, introduced to boost the chances of an office-space application being approved.
 
-There has been much speculation about whether Southwark's recent change of leadership has resulted in a change of direction for the Council. 
+There has been much speculation about whether Southwark's [recent change of leadership](https://www.southwark.gov.uk/council-and-democracy/councillors-and-mps/leader-of-the-council-and-cabinet-members) has resulted in a change of direction for the Council. 
 
 This is the planning committee's chance to prove that the Council won't roll over to Lendlease indefinitely.  The committee must stop this cynical attempt to manipulate planning policy to Lendlease's advantage and reject this planning application.
 
