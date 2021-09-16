@@ -41,7 +41,7 @@ Southwark Council have aided Lendlease's application by proposing a ten-fold inc
 
 There has been much speculation about whether Southwark's recent change of leadership has resulted in a change of direction for the Council. 
 
-This is the planning committee's chance to prove that the Council won't roll over to Lendlease indefinitely and must stop this cynical attempt to manipulate planning policy to Lendlease's advantage, by rejecting this planning application.
+This is the planning committee's chance to prove that the Council won't roll over to Lendlease indefinitely.  The committee must stop this cynical attempt to manipulate planning policy to Lendlease's advantage and reject this planning application.
 
 Once this is done, Southwark should start a sensible discussion on what is to be done with this prime site, with the focus on the local community's real needs, including affordable housing, with all the amenities and open surroundings needed to make life liveable in London.
 
