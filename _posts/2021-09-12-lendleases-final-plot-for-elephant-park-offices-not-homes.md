@@ -47,4 +47,4 @@ Once this is done, Southwark should start a sensible discussion on what is to be
 
 [470 comments and objections](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=QTPPZDKB03Q00) have been made to this application including [one from the 35% Campaign](https://docdro.id/e5dkioz).
 
-If you would like to add your objection, you can do so [here](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=QTPPZDKB03Q00).  This is our [model objection](https://docdro.id/XdmKfCe), which you can use or adapt as you like.
+If you would like to add your objection, you can do so [here](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=QTPPZDKB03Q00).  This is our [model objection](https://docdro.id/TxmCcbM), which you can use or adapt as you like.
