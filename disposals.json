@@ -1,0 +1,12 @@
+---
+---
+[	{% for disposal in site.disposals %}
+      {
+        "title": "{{ disposal.title }}",
+        "date": "{{ disposal.date }}",
+	"description": "{{ estate.content | strip_html | truncatewords: 15 }}",
+	"image": "{{ disposal.image }}",
+        "url": "{{estate.url}}"
+      }{% if forloop.rindex > 1 %},{% endif %}{% endfor %}
+]
+
