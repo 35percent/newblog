@@ -2,7 +2,7 @@
 layout: page
 title: Elephant & Castle shopping centre
 excerpt: '979 new homes, not enough social rented. Little room for current shopkeepers'
-image: /img/delanceyaerial.png
+image: img/delanceyaerial.png
 featured: true
 ---
 
