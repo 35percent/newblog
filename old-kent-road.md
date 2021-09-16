@@ -14,18 +14,7 @@ The first stage towards knocking down the Heygate estate was to call the Elephan
 ![](https://35percent.org/img/soldwithplanning.jpg)
 
 
-This is a map of all of those Council estates that fall within the Opportunity Area and proposed Area Action Plan boundary.
-<center>
-<iframe src="https://35percent.org/map.html" width="800" height="600"></iframe>
-<font size="2">Click <a href="https://35percent.org/map.html">here</a> to view our interactive map in a separate browser window</font>
-</center>
-
-Southwark's ambition is to build at least 20,000 new homes within the Opportunity Area and while it says it's going to focus on industrial and retail land, it does not rule out building on existing housing land. 
-
-![](https://35percent.org/img/20000homes.png)
-*Extract from draft OKR Area Action Plan*
-
-The Council's [Cabinet report](https://moderngov.southwark.gov.uk/documents/s62019/Report%20Old%20Kent%20Road%20AAP.pdf) accompanying the draft Area Action Plan says that in order to find space for the 20,000 new homes it _"would not preclude development"_ on existing housing estates, but that consultation on such proposals would be _"carried out in accordance with the principles set out in the July 2015 Cabinet report."_
+Southwark's ambition is to build at least 20,000 new homes within the Opportunity Area. The Council's [Cabinet report](https://moderngov.southwark.gov.uk/documents/s62019/Report%20Old%20Kent%20Road%20AAP.pdf) accompanying the draft Area Action Plan says that in order to find space for the 20,000 new homes it _"would not preclude development"_ on existing housing estates, but that consultation on such proposals would be _"carried out in accordance with the principles set out in the July 2015 Cabinet report."_
 
 ![](https://35percent.org/img/okrreport.png)
 *Extract from Cabinet report accompanying draft Area Action Plan*
