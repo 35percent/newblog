@@ -37,7 +37,7 @@ Southwark Council is now poised to give up a prime housing site (in the middle o
 
 Lendlease's argument that offices will good for employment is entirely self-serving.  They did not make this proposal for Plot H1 in 2012, when applying for their first planning permission.  Instead, they have tricked their way into a position where they have built more homes than originally consented, on a smaller space, and now want to squeeze in an extra office block for good measure.
 
-Southwark Council have aided Lendlease's application by proposing of a ten-fold increase in *'employment space'* on Elephant Park, in the New Southwark Plan - a huge uplift, introduced to boost the chances of the application being approved.
+Southwark Council have aided Lendlease's application by proposing a ten-fold increase in *'employment space'* on Elephant Park, in the New Southwark Plan - a huge uplift, introduced to boost the chances of the application being approved.
 
 There has been much speculation about whether Southwark's recent change of leadership has resulted in a change of direction for the Council. 
 
@@ -47,4 +47,4 @@ Once this is done, Southwark should start a sensible discussion on what is to be
 
 [470 comments and objections](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=QTPPZDKB03Q00) have been made to this application including [one from the 35% Campaign](https://docdro.id/e5dkioz).
 
-If you would like to add your objection, you can do so [here](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=QTPPZDKB03Q00).  This is our model objection, which you can use or adapt as you like.
+If you would like to add your objection, you can do so [here](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=QTPPZDKB03Q00).  This is our [model objection](https://docdro.id/XdmKfCe), which you can use or adapt as you like.
