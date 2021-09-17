@@ -34,7 +34,7 @@ Lendlease's Plot H1 planning application is the latest of a succession of self-a
 
 Southwark Council is now poised to give up a prime housing site (in the middle of an opportunity area, on former council estate land) at Lendlease's behest.  Southwark is doing this while [embroiled in controversies](https://www.southwarknews.co.uk/news/the-great-infilling-debate-in-southwark-every-estate-where-new-developments-are-proposed-or-already-underway/) across the borough about infill development on council estate sites, none of which are anywhere near the size of the plot it is about to give up.
 
-![](/img/ytfd_infill_demo_070921-3-.jpg)
+![](https://35percent.org/img/ytfd_infill_demo_070921-3-.jpg)
 
 ### Object!
 
