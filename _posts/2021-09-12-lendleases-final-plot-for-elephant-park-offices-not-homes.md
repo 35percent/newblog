@@ -50,3 +50,5 @@ Once this is done, Southwark should start a sensible discussion on what is to be
 [470 comments and objections](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=QTPPZDKB03Q00) have been made to this application.
 
 If you would like to add your objection, you can do so [here](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=QTPPZDKB03Q00).
+
+You can use [this model objection text](https://35percent.org/img/Objection_model_TWO.pdf) or view our full letter of objection [here](https://35percent.org/img/Objection_FINAL.pdf).
