@@ -1,7 +1,7 @@
 ---
 title: Crown Street Depot 
 date: '2012-10-27'
-image: img/screenshot-6-.png
+image: img/crownstreetdepot.png
 layout: page
 ---
 The old Crown Street Depot was a council-owned storage depot located on the Bethwin estate between the Bethwin adventure playground and the railway arches.
