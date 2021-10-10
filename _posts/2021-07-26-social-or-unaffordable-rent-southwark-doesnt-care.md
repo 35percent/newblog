@@ -22,3 +22,5 @@ The [planning statement](http://planbuild.southwark.gov.uk/documents/?GetDocumen
 The Mayor's AHP funding spreadsheet (also attached) shows that Paragon (previously called Leicester housing association) was granted GLA funding for 9 AFFORDABLE RENT units and 4 shared ownership. Note that the prospective rents listed were up to 52% market rent for a 1-bed at £154 per week.
 
 So five years on from our original Ombudsman complaint, one of the schemes we complained about is continuing to rent out homes that were approved as social rent for twice as much as they should be charging under the planning consent!
+
+Address data is alraedy in the public domain - see Land Registry and our FOI and also valuation schedules as part of bond issues by the large housing associations.
