@@ -27,7 +27,7 @@ Diana says *'La Bodequita is more than a restaurant.  It is part of the Elephant
 
 ### 'No more Elephant as we knew it'
 
-The traders deputation will also include [Mathew Onuba, of the Look@Me stall](https://latinelephant.org/displaced-traders-with-no-relocation/#Onubas). from the shopping centre's old market.  About a dozen displaced market traders have been in discussions with Southwark Council about setting up a [small number of new pitches](https://www.35percent.org/shopping-centre-traders-propose-new-stalls-for-the-elephant/) at the Elephant.
+The traders' deputation will also include [Mathew Onuba, of the Look@Me stall](https://latinelephant.org/displaced-traders-with-no-relocation/#Onubas). from the shopping centre's old market.  About a dozen displaced market traders have been in discussions with Southwark Council about setting up a [small number of new pitches](https://www.35percent.org/shopping-centre-traders-propose-new-stalls-for-the-elephant/) at the Elephant.
 
 Mathew says *'We have had intentions of opening up a business, but it's been a struggle.  There is no more Elephant and Castle as we knew it, there are no units, there is still no market, even after trying to make plans with the Council.  Leaving a previous business and going to a new location is a hard process - it involves careful attention, publicity to attract new customers.  None of this has been provided.  We kept our goods with the promise that we would receive anew place but it never came.  I've been paying for storage up until now, with the believe and hope I could continue my business....but I would like the support from the council to continue.'*
 
