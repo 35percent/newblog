@@ -39,8 +39,10 @@ Yousaf Dar, of Dar Bags, says *'We were working at the shopping centre, my dad a
 
 ### Southwark must do more
 
-The traders are being supported by Latin Elephant, which advocates on behalf of all traders, and the Southwark Law Centre.
+The traders are being supported by Latin Elephant, which advocates on behalf of all traders, the Southwark Law Centre and the Up the Elephant campaign, which fought against the demolition of the shopping centre.
 
 Natalia Perez of Latin Elephant said *'A year on since the closure and demolition of the shopping centre in Elephant and Castle, Latin Elephant reiterates the demands for a proper scrutiny of the s106 legal agreements signed by developers, so that every trader that has been displaced is relocated; that the necessary funds are released by developers to cover moving and fit-out costs and not passed on as a burden to independent traders and that the much needed investment in the relocation sites are out in place for the benefit of the traders, as well as the local community'.*
 
 Harpreet Aujla of Southwark Law Centre said *'Southwark Council have a big part to play in resolving the problems traders face moving from their old premises.  They have legal agreements with both Delancey and Lendlease to make sure that the traders get the money that they need to relocate.  So far, though, Southwark has just been happy to go along with whatever Delancey and Lendlease have offered.  This is not good enough.  Southwark must make that clear to Delancey and Lendlease, other these businesses will be lost to the Elephant'.*
+
+Jerry Flynn, of the Up the Elephant said *'Traders are not looking for hand-outs or charity.  They are looking for Southwark and the big developers to fufill the promises that were made before the shopping centre was demolished.  Southwark Council said that no-one would be left behind in the Elephant's regeneration - now is the time to  prove it'.*
