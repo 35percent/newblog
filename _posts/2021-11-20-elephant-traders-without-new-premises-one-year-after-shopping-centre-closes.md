@@ -7,7 +7,7 @@ date: 2021-11-20T10:21:50.726Z
 
 Independent traders displaced by the [closure of the Elephant and Castle shopping centre](https://www.london-se1.co.uk/news/view/10407) are to send a deputation to the [Southwark Council Assembly on 24 Nov 2021](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=132&MId=7043&Ver=4). The deputation will be urging the Council to do more to help them secure new premises, after being left homeless by the shopping centre closure.
 
-Many of the Elephant's former traders have shops and cafes in Castle Square, in Elephant Rd, and in the Elephant Arcade, after a three year campaign to secure new premises, but many others are still without trading spaces, including two of the Elephant and Castle's longest standing businesses, Pricebusters DIY and La Bodequita restaurant.
+Many of the Elephant's former traders have shops and cafes in [Castle Square](https://www.castlesquarelondon.com/), in Elephant Rd, and in the [Elephant Arcade](https://www.elephantarcade.com/), after a three year campaign to secure new premises, but many others are still without trading spaces, including two of the Elephant and Castle's longest standing businesses, Pricebusters DIY and La Bodequita restaurant.
 
 Both Pricebusters and La Bodequita have been offered new premises on Elephant Park, but have been unable to reach agreement with developers Delancey and Lendlease about who will meet the relocation costs.  Southwark Council has legal agreements with both developers covering traders' relocation requirements and the deputation will be asking Southwark to enforce these agreements.
 
@@ -27,7 +27,7 @@ Diana says *'La Bodequita is more than a restaurant.  It is part of the Elephant
 
 ### 'No more Elephant as we knew it'
 
-The traders deputation will also include Mathew Onuba, of the Look@Me stall. from the shopping centre's old market.  About a dozen displaced market traders have been in discussions with Southwark Council about setting up a small number of new pitches at teh Elephant.
+The traders deputation will also include Mathew Onuba, of the Look@Me stall. from the shopping centre's old market.  About a dozen displaced market traders have been in discussions with Southwark Council about setting up a [small number of new pitches](https://www.35percent.org/shopping-centre-traders-propose-new-stalls-for-the-elephant/) at the Elephant.
 
 Mathew says *'We have had intentions of opening up a business, but it's been a struggle.  There is no more Elephant and Castle as we knew it, there are no units, there is still no market even after trying to make plans with the Council.  Leaving a previous business and going to a new location is a hard process - it involves careful attention, publicity to attract new customers.  None of this has been provided.  We kept our goods with the promise that we would receive anew place but it never came.  I've been paying for storage up until now, with the believe and hope I could continue my business....but I would like the support from the council to continue.'*
 
