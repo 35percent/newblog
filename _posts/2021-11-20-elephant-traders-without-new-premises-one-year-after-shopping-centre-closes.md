@@ -7,7 +7,7 @@ date: 2021-11-20T10:21:50.726Z
 
 Independent traders displaced by the [closure of the Elephant and Castle shopping centre](https://www.london-se1.co.uk/news/view/10407) are to send a deputation to [Southwark Council's Cabinet meeting   on Tues 7 December 2021](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=7017&Ver=4). The deputation will be urging the Council to do more to help them secure new premises, after being left homeless by the shopping centre closure.
 
-This will be the traders second attempt to get a hearing from the Council.  
+This will be the traders second attempt to get a hearing from the Council, after its recent Assembly meeting [refused to receive the deputation](https://www.southwarknews.co.uk/news/its-ironic-southwark-group-representing-tens-of-thousands-of-people-denied-chance-to-tell-councillors-about-residents-concerns-about-infill-consultation/).
 
 Many of the Elephant's former traders have shops and cafes in [Castle Square](https://www.castlesquarelondon.com/), in Elephant Rd, and in the [Elephant Arcade](https://www.elephantarcade.com/), after a three year campaign to secure new premises, but many others are[ still without trading spaces](https://www.35percent.org/elephant-traders-still-homeless/), including two of the Elephant and Castle's longest standing businesses, [Pricebusters DIY](https://www.southwarknews.co.uk/news/popular-diy-shop-elephant-castle-shopping-centre-gets-lease-extended-3-months/) and [La Bodequita](https://www.elephantandcastle.org.uk/about-elephant-and-castle/la-bodeguita/) restaurant.
 
