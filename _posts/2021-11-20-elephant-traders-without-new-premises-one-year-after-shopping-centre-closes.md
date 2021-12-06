@@ -3,6 +3,7 @@ layout: post
 title: Elephant traders without new premises one year after shopping centre closes
 date: 2021-12-06
 published: true
+image: img/b.png
 ---
 ### Traders' deputation seeks fair treatment from developers; urges Southwark Council to act
 
@@ -12,7 +13,7 @@ This will be the traders second attempt to get a hearing from the Council, after
 
 Many of the Elephant's former traders have shops and cafes in [Castle Square](https://www.castlesquarelondon.com/), in Elephant Rd and in the [Elephant Arcade](https://www.elephantarcade.com/), after a three year campaign to secure new premises, but many others are[ still without trading spaces](https://www.35percent.org/elephant-traders-still-homeless/), including two of the Elephant and Castle's longest standing businesses, [Pricebusters DIY](https://www.southwarknews.co.uk/news/popular-diy-shop-elephant-castle-shopping-centre-gets-lease-extended-3-months/) and [La Bodequita](https://www.elephantandcastle.org.uk/about-elephant-and-castle/la-bodeguita/) restaurant.
 
-![](https://35percent.org/img/bodeguita.jpg)
+![](https://35percent.org/img/bodeguitap.jpg)
 
 Both Pricebusters and La Bodequita have been offered new premises on Elephant Park, but have been unable to reach agreement with developers [Delancey](https://www.delancey.com/elephant-and-castle-redevelopment.html) and [Lendlease](https://www.elephantpark.co.uk/about-elephant-park/lendlease/) about who will meet the relocation costs.  Southwark Council has legal agreements with both developers covering traders' relocation requirements and the deputation will be asking Southwark to enforce these agreements.
 
