@@ -7,7 +7,9 @@ image: img/b.png
 ---
 ### Traders' deputation seeks fair treatment from developers; urges Southwark Council to act
 
-Independent traders displaced by the [closure of the Elephant and Castle shopping centre](https://www.london-se1.co.uk/news/view/10407) are to send a deputation to [Southwark Council's Cabinet meeting on Tues 7 December 2021](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=7017&Ver=4). The deputation will be urging the Council to do more to help them secure new premises, after being left homeless by the shopping centre closure.
+Independent traders displaced by the [closure of the Elephant and Castle shopping centre](https://www.london-se1.co.uk/news/view/10407) are to send a deputation to [Southwark Council's Cabinet meeting tomorrow](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=7017&Ver=4). The deputation will be urging the Council to do more to help them secure new premises, after being left homeless by the shopping centre closure.
+
+![](https://35percent.org/img/scdemo.jpg)
 
 This will be the traders second attempt to get a hearing from the Council, after its recent Assembly meeting [refused to receive the deputation](https://www.southwarknews.co.uk/news/its-ironic-southwark-group-representing-tens-of-thousands-of-people-denied-chance-to-tell-councillors-about-residents-concerns-about-infill-consultation/).
 
