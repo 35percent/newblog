@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Elephant traders without new premises one year after shopping centre closes
-date: 2021-12-06T21:21:19.356Z
+date: 2021-12-06
+published: true
 ---
 ### Traders' deputation seeks fair treatment from developers; urges Southwark Council to act
 
@@ -9,7 +10,9 @@ Independent traders displaced by the [closure of the Elephant and Castle shoppin
 
 This will be the traders second attempt to get a hearing from the Council, after its recent Assembly meeting [refused to receive the deputation](https://www.southwarknews.co.uk/news/its-ironic-southwark-group-representing-tens-of-thousands-of-people-denied-chance-to-tell-councillors-about-residents-concerns-about-infill-consultation/).
 
-Many of the Elephant's former traders have shops and cafes in [Castle Square](https://www.castlesquarelondon.com/), in Elephant Rd, and in the [Elephant Arcade](https://www.elephantarcade.com/), after a three year campaign to secure new premises, but many others are[ still without trading spaces](https://www.35percent.org/elephant-traders-still-homeless/), including two of the Elephant and Castle's longest standing businesses, [Pricebusters DIY](https://www.southwarknews.co.uk/news/popular-diy-shop-elephant-castle-shopping-centre-gets-lease-extended-3-months/) and [La Bodequita](https://www.elephantandcastle.org.uk/about-elephant-and-castle/la-bodeguita/) restaurant.
+Many of the Elephant's former traders have shops and cafes in [Castle Square](https://www.castlesquarelondon.com/), in Elephant Rd and in the [Elephant Arcade](https://www.elephantarcade.com/), after a three year campaign to secure new premises, but many others are[ still without trading spaces](https://www.35percent.org/elephant-traders-still-homeless/), including two of the Elephant and Castle's longest standing businesses, [Pricebusters DIY](https://www.southwarknews.co.uk/news/popular-diy-shop-elephant-castle-shopping-centre-gets-lease-extended-3-months/) and [La Bodequita](https://www.elephantandcastle.org.uk/about-elephant-and-castle/la-bodeguita/) restaurant.
+
+![](https://35percent.org/img/bodeguita.jpg)
 
 Both Pricebusters and La Bodequita have been offered new premises on Elephant Park, but have been unable to reach agreement with developers [Delancey](https://www.delancey.com/elephant-and-castle-redevelopment.html) and [Lendlease](https://www.elephantpark.co.uk/about-elephant-park/lendlease/) about who will meet the relocation costs.  Southwark Council has legal agreements with both developers covering traders' relocation requirements and the deputation will be asking Southwark to enforce these agreements.
 
@@ -38,6 +41,8 @@ Mathew says *'We have had intentions of opening up a business, but it's been a s
 A representative from the [Elephant Arcade](https://www.elephantandcastle.org.uk/wp-content/uploads/2020/10/ElephantArcadeC.pdf) will also be on the deputation.  They will be telling the Council of the difficulties of trading from their new premises, at the bottom of Perronet House, just opposite the Bakerloo line tube entrance.
 
 Yousaf Dar, of [Dar Bags](https://www.elephantandcastle.org.uk/wp-content/uploads/2020/10/ElephantArcadeC.pdf), says *'We were working at the shopping centre, my dad almost 15 years, me the last 10 years.  Business was good.  When the shopping centre closed, we asked them not to put us in Elephant Arcade, and still they placed us in there.  They told us we would be opposite a Western Union, but when we arrived we were opposite another shop that was the same business as our own.  After the pandemic, there were no customers, no business.  We were struggling too much, we couldn't even afford to pay rent, that's why we decided to leave. Now we have been left at the side of the road, so we are not in a position to start another business, and have no access to relocation support.  I don't want to go on Universal Credit, I want to work at my business, but I may have to.'*
+
+![](https://35percent.org/img/dar.png)
 
 ### Southwark must do more
 
