@@ -1,6 +1,6 @@
 ---
 title: Mandela Way depot 
-date: 2018-12-06
+date: '2018-12-06'
 image: img/mandelaway.jpg
 published: true
 ---
