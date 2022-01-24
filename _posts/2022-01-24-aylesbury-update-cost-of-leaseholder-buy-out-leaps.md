@@ -14,3 +14,5 @@ Discretionary disturbance payments totalling £165,000 to council tenants over 5
 ### A new deal with Notting Hill Genesis
 
 The same Cabinet meeting also agreed to make changes to the Development Partnership Agreement (DPA), the agreement made by Southwark with Notting Hill Genesis (NHG) for the estate's regeneration.  This deal was first struck in 2014; [major changes were made in 2019](https://www.35percent.org/aylesbury-estate-fds-variation/) for the Aylesbury's First Development Site (FDS).  The FDS variations saw Southwark pay NHG a gross £210.8m for 581 council homes, while leaving revenue generating free-market housing with NHG.
+
+No details
