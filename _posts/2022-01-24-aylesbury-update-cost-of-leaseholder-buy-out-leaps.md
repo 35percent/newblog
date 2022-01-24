@@ -23,7 +23,7 @@ In another significant event the [Aylesbury Area Action Plan (AAP)](https://www.
 
 ### Social rent - no loss, but no gain
 
-The social rent commitment is an important and welcome improvement on what would have been delivered under the outline planning permission held by NHG,  which allowed for a loss of between [778 and 1,166 social rented units](https://www.35percent.org/aylesbury-estate-fds-variation/).  But it will still mean that when the redevelopment is completed in 2036, we will have no more social rented housing on the estate, after 40 years, than we had in 1998, when the Aylesbury regeneration began.
+The social rent commitment is an important and welcome improvement on what would have been delivered under the outline planning permission held by NHG,  which allowed for a loss of between [778 and 1,166 social rented units](https://www.35percent.org/aylesbury-estate-fds-variation/).  But it will still mean that when the redevelopment is completed in 2036, we will have no more social rented housing on the estate, after 40 years, than [we had in 1998](https://www.theguardian.com/society/2016/jul/13/aylesbury-estate-south-london-social-housing), when the Aylesbury regeneration began.
 
 It also raises the question of how the deal between Southwark and NHG, sealed by the DPA and a legal s106 agreement, will be changed and how much it will cost Southwark to do this.  As we pointed out when Southwark took over the FDS the price is likely to be high and any money spent on the Aylesbury is money that is not available for building council housing elsewhere in the borough.
 
