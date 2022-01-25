@@ -16,3 +16,5 @@ CSH energy efficiency ratings
 
 Permission granted 24 March 2009:
 https://moderngov.southwark.gov.uk/CeListDocuments.aspx?CommitteeId=119&MeetingId=363&DF=24%2f03%2f2009&Ver=2
+
+Cabinet member and Chief whip Cllr Garfield purchased a flat in March 2013 for £235k. He bought a 60% share. Just over a year later in November 2014 he bought out the remaining 40% share.
