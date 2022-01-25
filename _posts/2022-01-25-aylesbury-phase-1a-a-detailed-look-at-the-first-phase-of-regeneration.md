@@ -14,4 +14,5 @@ Cladding
 
 CSH energy efficiency ratings
 
-Permission granted 24 March 2009
+Permission granted 24 March 2009:
+https://moderngov.southwark.gov.uk/CeListDocuments.aspx?CommitteeId=119&MeetingId=363&DF=24%2f03%2f2009&Ver=2
