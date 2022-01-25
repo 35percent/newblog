@@ -13,3 +13,5 @@ biomass
 Cladding
 
 CSH energy efficiency ratings
+
+Permission granted 24 March 2009
