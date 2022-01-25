@@ -7,6 +7,8 @@ date: 2022-01-24T10:13:43.780Z
 
 Southwark Council's Cabinet [agreed last week](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=7019&Ver=4) to increase the budget for its Aylesbury estate redevelopment costs by nearly £30m.  The money will be used to buy-out leaseholders, to allow for the estate's continued demolition and redevelopment.
 
+![](/img/screenshot-2022-01-25-at-13-29-33-southwarkcouncil.png)
+
 The Cabinet also approved a [further £13.32m](<https://moderngov.southwark.gov.uk/documents/s104415/Report Future of Aylesbury Estate.pdf>) to cover an overspend on an original budget of £75m for estate redevelopment.  £6.34m of the overspend is also for leaseholder buy-outs, with £6.97m for unspecified *'contract variations'*.
 
 Discretionary disturbance payments totalling £165,000 to council tenants over 55 were also agreed. The extra money brings Southwark's reported total budget for estate redevelopment costs up to £118.29m, to come from the council's Housing Investment Programme.
@@ -20,6 +22,8 @@ No details were given in the public [report to the Cabinet](https://moderngov.so
 ### The end of the Aylesbury Area Action Plan
 
 In another significant event the [Aylesbury Area Action Plan (AAP)](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) is a step closer to being discarded.  Despite [protests from housing campaigners and residents](https://www.35percent.org/southwark-rips-up-aylesbury-objectives/) the a much slimmed-down AAP has [been  incorporated](https://www.southwark.gov.uk/assets/attach/73562/Main-Modifications-Appendix-7-Annex-5-AAP-policies-and-sites-replaced-by-NSP.pdf) into the [New Southwark Plan](https://www.southwark.gov.uk/assets/attach/75943/Southwark-Plan-2022-for-adoption-.pdf), along with the Canada Water and Peckham & Nunhead AAPs, after [approval by government inspectors](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/new-southwark-plan?chapter=10).  The AAP's generous [affordable housing space standards](https://www.southwark.gov.uk/assets/attach/73557/MAIN-51X.PDF) have been retained and there is now a new policy commitment, to *'reprovide 2,249 social rented homes'.*
+
+![](https://www.35percent.org/img/screenshot_2021-04-14-aylesbury-area-action-plan-january-2010-aylesbury-aap-2010-pdf.png)
 
 ### Social rent - no loss, but no gain
 
