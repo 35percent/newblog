@@ -39,4 +39,4 @@ We're glad to see that the fake bricks that were missing from the façade of one
 
 But it looks as if Southwark's explanation, that 'random' gaps had been [left by design](https://mobile.twitter.com/lb_southwark/status/1483060481854263296), to be filled by children's decorated bricks was equally fake.  All the replacement bricks look just like the rest.
 
-Nonetheless, if we see any more bits drop off we will be sure to let Southwark know.
+Nonetheless, if we see any more bits drop off, we will be sure to let Southwark know.
