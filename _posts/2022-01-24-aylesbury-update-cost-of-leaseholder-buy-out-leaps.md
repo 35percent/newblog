@@ -37,6 +37,6 @@ The Cabinet has promised a further report on the new deal with NHG.  This must g
 
 We're glad to see that the fake bricks that were missing from the façade of one of the blocks on the First Development site have been replaced.
 
-But it looks as if Southwark's explanation, that 'random' gaps had been [left by design](https://mobile.twitter.com/lb_southwark/status/1483060481854263296), to be filled by [children's decorated bricks](http://aylesburynow.london/news/posts/young-people-create-brick-designs-for-new-homes), was equally fake.  All the replacement bricks look just like the rest [and nothing like as lovely](http://aylesburynow.london/news/posts/young-people-create-brick-designs-for-new-homes).
+But it looks as if Southwark's explanation, that 'random' gaps had been [left by design](https://mobile.twitter.com/lb_southwark/status/1483060481854263296), to be filled by children's decorated bricks, was equally fake.  All the replacement bricks look just like the rest [and nothing like as lovely](http://aylesburynow.london/news/posts/young-people-create-brick-designs-for-new-homes).
 
 Nonetheless, if we see any more bits drop off, we will be sure to let Southwark know.
