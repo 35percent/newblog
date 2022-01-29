@@ -11,7 +11,7 @@ Southwark Council's Cabinet [](https://moderngov.southwark.gov.uk/ieListDocument
 
 The Cabinet also approved a [further £13.32m](<https://moderngov.southwark.gov.uk/documents/s104415/Report Future of Aylesbury Estate.pdf>) to cover an overspend on an original budget of £75m for estate redevelopment.  £6.35m of this further expenditure is also for leaseholder buy-outs, with £6.97m for unspecified *'contract variations'*.
 
-Discretionary disturbance payments totalling £165,000 to council tenants over 55 were also agreed. The extra money brings Southwark's reported total budget for estate redevelopment costs up to £118.29m, to come from the council's Housing Investment Programme.
+Discretionary home loss and disturbance payments totalling £165,000 for Plot 18 council tenants over 55 were also agreed. The extra money brings Southwark's reported total budget for estate redevelopment costs up to £118.29m, to come from the council's Housing Investment Programme.
 
 ### A new deal with Notting Hill Genesis
 
