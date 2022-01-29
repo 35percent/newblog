@@ -17,7 +17,7 @@ Discretionary home loss and disturbance payments totalling £165,000 for Plot 18
 
 The same Cabinet meeting also agreed to make changes to the Development Partnership Agreement (DPA), the agreement made by Southwark with Notting Hill Genesis (NHG) for the estate's regeneration.  This deal was first struck in 2014; [](https://www.35percent.org/aylesbury-estate-fds-variation/) [major changes were approved in 2020](https://www.35percent.org/aylesbury-estate-fds-variation/) for the Aylesbury's First Development Site (FDS).  The FDS variations saw Southwark pay NHG a gross £210.8m for 581 council homes, while leaving revenue generating free-market housing with NHG.
 
-No details were given in the public [report to the Cabinet](https://moderngov.southwark.gov.uk/documents/s104415/Report%20Future%20of%20Aylesbury%20Estate.pdf) about any of the proposed changes, or *'variations'*, or whether any money will be paid to NHG.  A [closed report](https://moderngov.southwark.gov.uk/mgReasonsRestricted.aspx?ID=104420&OID=62848&OT=A&RPID=3453695&BM=AI62848) including financial details is unavailable to the public.
+No details were given in the public [report to the Cabinet](https://moderngov.southwark.gov.uk/documents/s104415/Report%20Future%20of%20Aylesbury%20Estate.pdf) about any of the proposed changes, or *'variations'*, or whether any money will be paid to NHG.  A [closed report](https://moderngov.southwark.gov.uk/mgReasonsRestricted.aspx?ID=104420&OID=62848&OT=A&RPID=3453695&BM=AI62848) including financial details and the impact on the Housing Investment Programme is unavailable to the public.
 
 ### The end of the Aylesbury Area Action Plan
 
@@ -37,6 +37,6 @@ The Cabinet has promised a further report on the new deal with NHG.  This must g
 
 We're glad to see that the fake bricks that were missing from the façade of one of the blocks on the First Development site have been replaced.
 
-But it looks as if Southwark's explanation, that 'random' gaps had been [left by design](https://mobile.twitter.com/lb_southwark/status/1483060481854263296), to be filled by children's decorated bricks was equally fake.  All the replacement bricks look just like the rest.
+But it looks as if Southwark's explanation, that 'random' gaps had been [left by design](https://mobile.twitter.com/lb_southwark/status/1483060481854263296), to be filled by [children's decorated bricks](http://aylesburynow.london/news/posts/young-people-create-brick-designs-for-new-homes), as lovely as they are, was equally fake.  All the replacement bricks look just like the rest.
 
 Nonetheless, if we see any more bits drop off, we will be sure to let Southwark know.
