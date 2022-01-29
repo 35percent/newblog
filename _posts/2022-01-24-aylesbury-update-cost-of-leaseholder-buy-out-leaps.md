@@ -32,3 +32,11 @@ The social rent commitment is an important and welcome improvement on what would
 It also raises the question of how the deal between Southwark and NHG, sealed by the DPA and a legal s106 agreement, will be changed and how much it will cost Southwark to do this.  As we pointed out [when Southwark took over the FDS](https://www.35percent.org/aylesbury-estate-fds-variation/#fn:1) the price is likely to be high and any money spent on the Aylesbury is money that is not available for building council housing elsewhere in the borough.
 
 The Cabinet has promised a further report on the new deal with NHG.  This must give full details its financial and other terms.  Under the original outline planning agreement NHG had to provide all the affordable housing, including the social rented housing, at its own cost.  Southwark must not simply take this over and pay NHG's tab.  NHG should pay for all the affordable and social rented housing that it agreed to; Southwark should only pay for anything above this, to ensure that the Aylesbury regeneration delivers the homes that Southwark needs, not just cash to NHG.
+
+### **PS - Fakery by design**
+
+We're glad to see that the fake bricks that were missing from the façade of one of the blocks on the First Development site have been replaced.
+
+But it looks as if Southwark's explanation, that 'random' gaps had been left by by design, to be filled by children's decorated bricks was equally fake.  All the replacement bricks look just like the rest.
+
+Nonetheless, if we see any more bits drop off we will be sure to let Southwark know.
