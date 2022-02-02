@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Aylesbury Update: cost of leaseholder buy-outs leaps"
-date: 2022-02-02T10:33:17.870Z
+date: 2022-02-02
+image: img/screenshot-2022-01-25-at-13-29-33-southwarkcouncil.png
 ---
 ### Southwark to 'update' development contract with Notting Hill Genesis
 
 Southwark Council's Cabinet [](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=7019&Ver=4)[has agreed](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=7019&Ver=4) to increase the budget for its Aylesbury estate redevelopment costs by nearly £30m.  The money will be used to buy-out leaseholders, to allow for the estate's continued demolition and redevelopment.
-
-![](/img/screenshot-2022-01-25-at-13-29-33-southwarkcouncil.png)
 
 The Cabinet also approved a [further £13.32m](<https://moderngov.southwark.gov.uk/documents/s104415/Report Future of Aylesbury Estate.pdf>) to cover an overspend on an original budget of £75m for estate redevelopment.  £6.35m of this further expenditure is also for leaseholder buy-outs, with £6.97m for unspecified *'contract variations'*.
 
@@ -34,8 +33,9 @@ It also raises the question of how the deal between Southwark and NHG, sealed by
 The Cabinet has promised a further report on the new deal with NHG.  This must give the full details of its financial and other terms.  Under the original outline planning agreement NHG had to provide all the affordable housing, including the social rented housing, at its own cost.  Southwark must not simply take this over and pay NHG's tab.  NHG should pay for all the affordable and social rented housing that it agreed to; Southwark should only pay for anything above this, to ensure that the Aylesbury regeneration delivers the homes that Southwark needs, not just cash to NHG.
 
 ### **PS - Fakery by design**
+We're glad to see that the fake bricks that were missing from the façade of one of the blocks on the First Development site have [been replaced](https://twitter.com/35percent_EAN/status/1486718449468395526).
 
-We're glad to see that the fake bricks that were missing from the façade of one of the blocks on the First Development site have been replaced.
+![](https://35percent.org/img/fakebricks.png)
 
 But it looks as if Southwark's explanation, that 'random' gaps had been [left by design](https://mobile.twitter.com/lb_southwark/status/1483060481854263296), to be filled by children's decorated bricks, was equally fake.  All the replacement bricks look just like the rest [and nothing like as lovely](http://aylesburynow.london/news/posts/young-people-create-brick-designs-for-new-homes) as the children's.
 
