@@ -42,7 +42,9 @@ For example, 54 of the new 'council homes' are temporary accommodation units in 
 
 ![](https://35percent.org/img/lharates.png)
 
-In any event, even if we count all the hostel units and purchased S106 units as council homes at council rents, the [overall figures](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) still show a net loss of 846 council homes since 2014, mirroring an ongoing decline in dwelling stock:
+There are also the council homes at Elephant & Castle being let to households on Southwark's new [intermediate housing list](https://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=7323) which it [lets at 50% of market rent](https://moderngov.southwark.gov.uk/documents/s88184/Report%20Letting%20Churchyard%20Row.pdf). 
+
+In any event, even if we count these and all the hostel units and purchased S106 units as council homes at council rents, the [overall figures](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) still show a net loss of 846 council homes since 2014, mirroring an ongoing decline in dwelling stock:
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
