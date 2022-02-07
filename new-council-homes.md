@@ -67,7 +67,7 @@ In any event, even if we count all the hostel units and purchased S106 units as 
             },
             xAxis: {
                 categories: ['1994', '1995', '1996', '1997', '1998', '1999',
-                    '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']
+                    '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021']
             },
             yAxis: {
                 title: {
@@ -90,24 +90,16 @@ In any event, even if we count all the hostel units and purchased S106 units as 
             },
             series: [{
                 name: 'Southwark',
-                data: [55803, 55162, 54439, 53363, 52448, 51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553, 38489, 38104, 38183]
-            },
-	{
-                name: 'Camden',
-                data: [29520,29249,28969,28976,28212,27678,27083,26797,26007,25690,25492,23921,23997,23517,23707,23860,23665,23596,23630,23508,23508,23256,23197,23075,23173,23446,23226]
-            },
-	{
-                name: 'Islington',
-                data: [36902,37489,37404,37010,36582,35853,33020,31827,31012,30439,29415,28015,27448,27046,26485,26372,26340,26328,26256,26235,26264,26053,25847,25290,25009,25336,25303]
+                data: [55803, 55162, 54439, 53363, 52448, 51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553, 38489, 38104, 38183, 37962]
             }
 	]
         });
 
 </script>
 
-While Southwark still remains the London borough with the highest number of council homes, it has one of the highest populations of all boroughs. Taken as a percentage of the total number of homes in each borough, Southwark has lost more council housing over the past 20 years than both Islington and Camden.
+For those wondering whether the current administration is genuinely committed to council housing Maydew House provides a salutory lesson. This 26-storey block was 'decanted' of its tenants and leaseholders [using compulsory purchase powers](https://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=25530) in 2012 and has now stood empty for over a decade.
 
-![](https://35percent.org/img/boroughstock.png)
+![](https://35percent.org/img/maydewmd.jpg)
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Southwark's 11,000 new council homes" />
