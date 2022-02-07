@@ -99,11 +99,15 @@ In any event, even if we count these and all the hostel units and purchased S106
 
 </script>
 
-The figures show that Southwark has lost over 18 thousand council homes, descending from 55 thousand council homes in 1994 to 37 thousand in 2021. Just how many of the these are down to [estate demolitions](https://35percent.org/estates/) and [sell offs](https://35percent.org/the-southwark-clearances/#void-disposal-policy) versus Right to Buy sales is difficult to say precisely.
+The figures show that Southwark has lost over 18k council homes, descending from 55k council homes in 1994 to 37k in 2021. Just how many of the these are down to [estate demolitions](https://35percent.org/estates/) and [sell offs](https://35percent.org/the-southwark-clearances/#void-disposal-policy) versus Right to Buy sales is difficult to say precisely.
 
-The best estimate comes from the Council's [2020 Key Housing Stats report](https://moderngov.southwark.gov.uk/documents/s92383/Appendix%20D%20Southwark%20Key%20Housing%20Stats%202020.pdf) which puts the total number of Right to Buy leaseholders at 13,777. From this we can deduce that around 5 thousand council homes have been lost through demolitions and sell offs.
+The best estimate comes from the Council's [2020 Key Housing Stats report](https://moderngov.southwark.gov.uk/documents/s92383/Appendix%20D%20Southwark%20Key%20Housing%20Stats%202020.pdf) which puts the total number of Right to Buy leaseholders at 13,777. From this we can deduce that around 5 thousand council homes have been lost through demolitions and sell offs. Note that around 2,000 council homes on the Aylesbury estate and 500 homes on the Tustin estate remain earmarked for demoltion.
 
 ![](https://35percent.org/img/keystats.png)
+
+Southwark's 2012 Housing commission report provides a sense check on this figure, confirming that between 1998 and 2010 the Council lost 12,228 homes, of which 8,173 through Right to Buy - the remaining 4,055 through sell offs and estate demolitions: 
+
+![](https://35percent.org/img/lubaextract.png)
 
 For those wondering whether the current administration is genuinely committed to council housing Maydew House provides a salutory lesson. This 26-storey block was 'decanted' of its tenants and leaseholders [using compulsory purchase powers](https://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=25530) in 2012 and has now stood empty for over a decade.
 
