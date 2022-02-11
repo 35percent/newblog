@@ -78,5 +78,5 @@ Southwark Council is now under new leadership - solving this issue head-on, inst
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@35percent_EAN">
 <meta name="twitter:title" content="Social Rent or Affordable Rent?">
-<meta name="twitter:description" content="5 years after damning Ombudsman report and Southwark still doesn't know (or care) which tenure is delivered.">
+<meta name="twitter:description" content="Six years after damning Ombudsman report and Southwark still doesn't know (or care) which tenure is delivered.">
 <meta name="twitter:image" content="https://35percent.org/img/arexampless.png">
