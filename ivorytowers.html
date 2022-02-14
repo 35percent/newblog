@@ -11,108 +11,21 @@ The original [2002 Masterplan](https://35percent.org/img/slrplans.pdf) pledged t
 
 This hasn't happened, mainly because Southwark Council has [rolled over](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) to developers along the way. Now of the 5,387 new homes being built at the Elephant a grand total of 216 will be social rent and a question mark hangs over whether half of these will be built by the developer's or the council's cost.
 
+| Scheme |      Social Rented homes      |  Total Homes |
+|----------|:-------------:|------:|
+| Strata Tower |  0 | 408 |
+| Eileen House |  0 |   335 |
+| One the Elephant | 0 | 284 |
+| Uncle (360 Tower) |  0 |   457 |
+| Shopping Centre/UAL | 116 |   983 |
+| Elephant Park (Heygate) | 100 | 2924 |
+
+
 The Council's planning policy for the Elephant and Castle requires a minimum of 17.5% of new homes to be social rent. Had it stuck by its planning policy then these schemes would have provided 943 much-needed new social rented homes at no cost to the Council. The Council's failure at Elephant and Castle mirrors its <a href="/major-schemes">ongoing failure</a> to secure affordable housing from developers in major schemes across the borough.
 
 The Council claims that it is delivering new 'council homes' in the area like <a href="https://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/">these ones at Blackfriars Road</a>, but it continues to <a href="/the-southwark-clearances">sell off and knock down</a> existing council homes <a href="https://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/">faster</a> than it is building new ones.
 
-<!DOCTYPE html>
-<html lang="en">
 
-  <head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-
-  <title>Elephant & Castle Regeneration</title>
-  <subtitle>Tenure mix breakdown</subtitle>
-
-  <meta name="author" content="Elephant Amenity Network" />
-
-  <link rel="alternate" type="application/rss+xml" title="35% Campaign - Campaigning for regeneration that benefits local people" href="/feed.xml" />
- <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
-
-    
-      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
-
-   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" />
-	
-	<script>
-			CM_ATTR = 'Map data &copy; <a href="https://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-					'<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-					'Imagery © <a href="https://cloudmade.com">CloudMade</a>';
-
-			CM_URL = 'https://{s}.tiles.mapbox.com/v3/santinska.l7np8p7j/{z}/{x}/{y}.png';
-
-			OSM_URL = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
-			OSM_ATTRIB = '&copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> contributors';
-		</script> 
-      <link rel="stylesheet" href="/css/bootstrap.min.css" />
-    
-      <link rel="stylesheet" href="/css/main.css" />
-    
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
-    
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
-</head>
-
-
-  <body>
-
-
-<div class="container" role="main">
-
-<div id="map" style="width: 100%; height: 600px"></div>
-
-	<script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"></script>
-	<script>
-		var map = L.map('map').setView([51.494476, -0.099849], 16);
-
-                L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
-		maxZoom: 18,
-		id: 'mapbox/light-v9',
-		tileSize: 512,
-		zoomOffset: -1
-	}).addTo(map);
-
-		var LeafIcon = L.Icon.extend({
-			options: {
-				
-				
-				
-				iconAnchor:   [22, 94],
-			
-				popupAnchor:  [-3, -76]
-			}
-		});
-
-		var greenIcon = new LeafIcon({iconUrl: 'https://crappistmartin.github.io/images/tribeca.png'}),
-			redIcon = new LeafIcon({iconUrl: 'https://crappistmartin.github.io/images/heygate.png'}),
-			strataIcon = new LeafIcon({iconUrl: 'https://crappistmartin.github.io/images/strata.png'}),
-			towerIcon = new LeafIcon({iconUrl: 'https://crappistmartin.github.io/images/360tower.png'}),
-			delanceyIcon = new LeafIcon({iconUrl: 'https://35percent.org/img/ElephantandCastleTownCentre.png'}),
-			eileenIcon = new LeafIcon({iconUrl: 'https://crappistmartin.github.io/images/eileen.png'}),
-			orangeIcon = new LeafIcon({iconUrl: 'https://crappistmartin.github.io/images/onetheelephant.png'});
-       
-	    L.marker([51.492069, -0.100023], {icon: strataIcon}).bindPopup('<strong><i>Strata Tower</strong></i></br>Private__________310</br>Intermediate______98</br>Social rented______0</br><a href="https://35percent.org/strata-tower">More info..</a>').addTo(map);
-
-		L.marker([51.497199, -0.100002], {icon: eileenIcon}).bindPopup('<strong><i>Eileen House</strong></i></br>Private________270</br>Intermediate____65</br>Social rented____0</br><a href="https://35percent.org/eileen-house">More info..</a>').addTo(map);
-		
-		L.marker([51.492724, -0.103564], {icon: towerIcon}).bindPopup('<strong><i>360 Tower</strong></i></br>Private_________462</br>Intermediate____188</br>Social rented_____0</br><a href="https://www.35percent.org/london-360-tower">More info..</a>').addTo(map);  
-		  
-		L.marker([51.494260, -0.097148], {icon: greenIcon}).bindPopup('<strong><i>Elephant One</strong></i></br>Private_________534</br>Intermediate_____0</br>Social rented____0</br><a href="https://www.35percent.org/tribeca-square">More info..</a>').addTo(map);
-		
-		L.marker([51.493479, -0.098264], {icon: redIcon}).bindPopup('<strong><i>Heygate Development</strong></i></br>Private___________2689</br>Intermediate_______508</br>Social rented_______92</br><a href="https://35percent.org/heygate-regeneration-faq">More info..</a>').addTo(map);
-		
-		L.marker([51.493579, -0.101321], {icon: orangeIcon}).bindPopup('<strong><i>One the Elephant</strong></i></br>Private________487</br>Intermediate_____0</br>Social rented____0</br><a href="https://www.35percent.org/one-the-elephant">More info..</a>').addTo(map);
-		
-                L.marker([51.494816, -0.102682], {icon: delanceyIcon}).bindPopup('<strong><i>Shopping Centre/UAL Campus</strong></i></br>Private________649</br>Intermediate_____214</br>Social rented____116</br><a href="https://www.35percent.org/shopping-centre">More info..</a>').addTo(map);
-
-	</script>
-</div>
-</div>
-
-
-</body>
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@35percent_EAN">
