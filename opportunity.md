@@ -22,9 +22,11 @@ This hasn't happened, mainly because Southwark Council has [rolled over](https:/
 | [Elephant One (Tribeca)](https://www.35percent.org/tribeca-square/) | 0 | 546 |
 
 
-The Council's planning policy for the Elephant and Castle requires a minimum of 17.5% of new homes to be social rent. Had it stuck by its planning policy then these schemes would have provided over a thousand much-needed new social rented homes at no cost to the Council. The Council's failure at Elephant and Castle mirrors its <a href="/major-schemes">ongoing failure</a> to secure affordable housing from developers in major schemes across the borough.
+The Council's planning policy for the Elephant and Castle requires a minimum of 17.5% of new homes to be social rent. Had it stuck by its planning policy then these schemes would have provided over a thousand much-needed new social rented homes at no cost to the Council.
 
-The Council claims that it is delivering new 'council homes' in the area like <a href="https://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/">these ones at Blackfriars Road</a>, but it continues to <a href="/the-southwark-clearances">sell off and knock down</a> existing council homes <a href="https://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/">faster</a> than it is building new ones.
+Instead, over a thousand council homes elsewhere in the borough have been taken up by former Heygate tenants who were originally promised they would get new homes at the Elephant.
+
+![](https://35percent.org/img/DisplacedTenants.png)
 
 
 
