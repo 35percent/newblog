@@ -17,10 +17,10 @@ This hasn't happened, mainly because Southwark Council has [rolled over](https:/
 | [Strata Tower](https://35percent.org/strata-tower) |  0 | 408 |
 | [Eileen House](https://35percent.org/eileen-house) |  0 |   335 |
 | [One the Elephant](https://35percent.org/one-the-elephant) | 0 | 284 |
-| [Uncle (360 Tower)](https://www.35percent.org/london-360-tower/) |  0 |   457 |
+| [Uncle (360 Tower)](https://www.35percent.org/london-360-tower/) |  43[^1] |   457 |
 | [Shopping Centre/UAL](https://35percent.org/shopping-centre) | 116 |   983 |
 | [Elephant Park (Heygate)](https://35percent.github.io/heygate-regeneration/) | 100 | 2924 |
-| [Elephant One (Tribeca)](https://www.35percent.org/tribeca-square/) | 0 | 546 |
+| [Elephant One (Tribeca)](https://www.35percent.org/tribeca-square/) | 0 | 546[^2] |
 | | __Total:__ | __5,937__ |
 
 
@@ -30,10 +30,14 @@ Instead, over a thousand council homes elsewhere in the borough have been taken 
 
 ![](https://35percent.org/img/DisplacedTenants.png)
 
-The original plans for the Elephant and Castle opportunity area envisaged 4,200 new homes including over 1,000 replacement council homes. In the event the number of homes has already been exceed by nearly a third and not one replacement council home has been built in the opportunity area. This begs the question of whose opportunity this been?
+The original plans for the Elephant and Castle opportunity area envisaged 4,200 new homes including over 1,000 replacement council homes. In the event the number of homes has already been exceed by nearly a third and not one replacement council home has been built in the opportunity area.
+
+[^1]: 79 homes were approved as affordable rent (up to 80% market) in an annexed building at the base of the tower, Southwark Council then purchased these from the developer. In 2020 it was [decided](https://moderngov.southwark.gov.uk/documents/s88184/Report%20Letting%20Churchyard%20Row.pdf) that 36 of these should be let at intermediate rents to households on the Council's new [intermediate housing waiting list](https://consultations.southwark.gov.uk/housing-community-services-department-community-engagement-team/intermediate-housing-list/)
+
+[^2]: Includes 173 ensuite student units
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@35percent_EAN">
 <meta name="twitter:title" content="Elephant and Castle - Whose regeneration?">
-<meta name="twitter:description" content="5,937 new homes but only 216 social rent">
+<meta name="twitter:description" content="5,937 new homes but only 259 social rent">
 <meta name="twitter:image" content="https://35percent.org/img/eandcmap.png">
