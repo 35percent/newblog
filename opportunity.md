@@ -32,7 +32,13 @@ Instead, over a thousand council homes elsewhere in the borough have been taken 
 
 The original plans for the Elephant and Castle opportunity area envisaged 4,200 new homes including over 1,000 replacement council homes. In the event the number of homes has already been exceed by nearly a third and not one replacement council home has been built in the opportunity area.
 
-Some people are asking whether Southwark's former council leader and his [relationship with developers at the Elephant](https://www.35percent.org/former-council-leader-slides-through-the-revolving-doors/) have played a role in its failure to secure a better outcome.
+Some people are asking whether the revolving doors](https://35percent.org/revolving-doors) between Southwark's elected representatives and property developers at the Elephant may have played a role in Southwark's failure to secure a more equitable outcome for the regeneration.
+
+For example, Council leader Peter John led Southwark from 2010 to 2020 and was the one who signed the [questionable](https://www.35percent.org/no-profit-share-the-true-value-of-the-heygate-regeneration/) development partnership agreement with Lendlease:
+
+![](https://35percent.org/img/pjdl.jpg)
+
+Immediately after stepping down he was [appointed Chairman](https://www.35percent.org/former-council-leader-slides-through-the-revolving-doors/) of the [Terrapin Group](https://www.terrapingroup.co.uk/ourPeople/17), a lobbying firm, whose client list is dominated by property developers including the Council's development partner for the Heygate estate (Lendlease) and the E&C shopping centre (Delancey).
 
 [^1]: Southwark gave planning consent to this scheme (as many others) allowing it to forgo the requirement to provide social rented housing. This scheme was however required to provide 115 intermediate affordable homes. These were then [purchased](https://moderngov.southwark.gov.uk/documents/s71644/Report%20Acquisition%20of%20Affordable%20Housing%20at%20Longville%20Road%20SE11.pdf) by Southwark Council from the developer for an undisclosed sum in 2018. 79 homes are now let by the Council as council homes, the remaining 36 are being [let](https://moderngov.southwark.gov.uk/documents/s88184/Report%20Letting%20Churchyard%20Row.pdf) at intermediate rents to households on the Council's new [intermediate housing waiting list](https://consultations.southwark.gov.uk/housing-community-services-department-community-engagement-team/intermediate-housing-list/).
 
