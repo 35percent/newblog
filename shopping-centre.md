@@ -10,6 +10,7 @@ The shopping centre has always stood at the heart of the redevelopment plans, bu
 <summary>[Read More..]</summary>
 
 <details>
+
 Despite attracting over [a thousand formal objections](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=_STHWR_DCAPR_9569810) and after [failing to get approval](https://www.bbc.co.uk/news/uk-england-london-42719607) from Southwark's planning committee on 16 Jan 2018, developer Delancey's [application](https://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC){:target="_blank"} for the redevelopment of the [Elephant & Castle shopping centre](https://35percent.org/shopping-centre/){:target="_blank"}, was [narrowly approved](https://35percent.org/2018-07-09-delancey/) on 3 July 2018, after a total of three deferments.
 
 </details>
