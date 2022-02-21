@@ -17,16 +17,7 @@ var container = root.container.children.push(am5.Container.new(root, {
   layout: root.verticalLayout
 }));
 
-// Add chart title
-var title = chart.titles.create();
-title.text = "Killing the Elephant";
-title.fontSize = 25;
-title.marginBottom = 30;
 
-// Add bottom label
-var label = chart.chartContainer.createChild(am4core.Label);
-label.text = "How a working-class community removed";
-label.align = "center";
 
 var root = am5.Root.new("chartdiv");
 
