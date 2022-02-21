@@ -28,62 +28,99 @@ var label = chart.chartContainer.createChild(am4core.Label);
 label.text = "How a working-class community removed";
 label.align = "center";
 
-// Create series
-// https://www.amcharts.com/docs/v5/charts/hierarchy/#Adding
-var series = container.children.push(am5hierarchy.ForceDirected.new(root, {
-  singleBranchOnly: false,
-  downDepth: 1,
-  initialDepth: 2,
-  valueField: "value",
-  categoryField: "name",
-  childDataField: "children"
-}));
+var root = am5.Root.new("chartdiv");
 
+root.setThemes([
+  am5themes_Animated.new(root)
+]);
 
-// Generate and set data
-// https://www.amcharts.com/docs/v5/charts/hierarchy/#Setting_data
-var maxLevels = 2;
-var maxNodes = 3;
-var maxValue = 100;
+var container = root.container.children.push(
+  am5.Container.new(root, {
+    width: am5.percent(100),
+    height: am5.percent(100),
+    layout: root.verticalLayout
+  })
+);
 
-var data = {
-  name: "Root",
-  children: []
+var series = container.children.push(
+  am5hierarchy.ForceDirected.new(root, {
+    downDepth: 1,
+    initialDepth: 1,
+    topDepth: 0,
+    valueField: "value",
+    categoryField: "name",
+    childDataField: "children",
+    xField: "x",
+    yField: "y",
+    minRadius: 30,
+    manyBodyStrength: -40
+  })
+);
+
+// Disable circles
+series.circles.template.set("forceHidden", true);
+series.outerCircles.template.set("forceHidden", true);
+
+// ... except for central node
+series.circles.template.adapters.add("forceHidden", function(forceHidden, target) {
+  return target.dataItem.get("depth") == 0 ? false : forceHidden;
+});
+
+// Set up labels
+series.labels.template.setAll({
+  fill: am5.color(0x000000),
+  y: 45,
+  //y: am5.percent(10),
+  oversizedBehavior: "none"
+});
+
+// Use adapter to leave central node label centered
+series.labels.template.adapters.add("y", function(y, target) {
+  return target.dataItem.get("depth") == 0 ? 0 : y;
+});
+
+// Use template.setup function to prep up node with an image
+series.nodes.template.setup = function(target) {
+  target.events.on("dataitemchanged", function(ev) {
+    var icon = target.children.push(am5.Picture.new(root, {
+      width: 70,
+      height: 70,
+      centerX: am5.percent(50),
+      centerY: am5.percent(50),
+      src: ev.target.dataItem.dataContext.image
+    }));
+  });
 }
-generateLevel(data, "", 0);
 
-series.data.setAll([data]);
+series.data.setAll([{
+  name: "Browsers",
+  x: am5.percent(50),
+  y: am5.percent(50),
+  children: [{
+    name: "Chrome",
+    value: 1,
+    image: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-160/icon_chrome.svg"
+  }, {
+    name: "Firefox",
+    value: 1,
+    image: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-160/icon_firefox.svg"
+  }, {
+    name: "IE",
+    value: 1,
+    image: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-160/icon_ie.svg"
+  }, {
+    name: "Safari",
+    value: 1,
+    image: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-160/icon_safari.svg"
+  }, {
+    name: "Opera",
+    value: 1,
+    image: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-160/icon_opera.svg"
+  }]
+}]);
+
 series.set("selectedDataItem", series.dataItems[0]);
 
-function generateLevel(data, name, level) {
-  for (var i = 0; i < Math.ceil(maxNodes * Math.random()) + 1; i++) {
-    var nodeName = name + "ABCDEFGHIJKLMNOPQRSTUVWXYZ"[i];
-    var child;
-    if (level < maxLevels) {
-      child = {
-        name: nodeName + level
-      }
-
-      if (level > 0 && Math.random() < 0.5) {
-        child.value = Math.round(Math.random() * maxValue);
-      }
-      else {
-        child.children = [];
-        generateLevel(child, nodeName + i, level + 1)
-      }
-    }
-    else {
-      child = {
-        name: name + i,
-        value: Math.round(Math.random() * maxValue)
-      }
-    }
-    data.children.push(child);
-  }
-
-  level++;
-  return data;
-}
 
 
 // Make stuff animate on load
