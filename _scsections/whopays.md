@@ -1,5 +1,5 @@
 ---
-title: Who will pay for the 116 social housing units?
+title: "Who will pay for the 116 social housing units?"
 layout: pagewithsidebar
 image: img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg
 ---

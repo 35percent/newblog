@@ -1,10 +1,10 @@
 <div class="sidebar sticky-top">        
     <div class="sidebar-section">
-        <h5><span>Newsletter</span></h5>
-        {% include newsletter.html %}
+        {% for scsection in site.scsections %}
+        <div class="col-md-4 mb-5">
+        {% include scsectionsbox.html %}
+        </div>
+{% endfor %}
     </div>
-    <div class="sidebar-section">
-        <h5><span>COMING SOON</span></h5>
-        <img src="{{site.baseurl}}/img/strataportrait.jpg">
-    </div>
+    
 </div>

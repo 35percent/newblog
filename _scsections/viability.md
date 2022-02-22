@@ -1,5 +1,5 @@
 ---
-title: cooking the books
+title: Delancey cooks the books
 layout: pagewithsidebar
 image: img/delanceyfvaprofit.png 
 ---

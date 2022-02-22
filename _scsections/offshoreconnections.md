@@ -1,5 +1,5 @@
 ---
-title: Delancey and its offshore connections
+title: "Delancey's offshore connections"
 layout: pagewithsidebar
 image: img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg
 ---

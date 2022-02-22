@@ -1,5 +1,5 @@
 ---
-title: displaced traders
+title: Displaced Traders
 layout: pagewithsidebar
 image: img/traderscomp.jpeg
 ---
