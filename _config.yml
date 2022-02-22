@@ -45,7 +45,7 @@ collections:
     output: true
   scsections:
     output: true
-  heygatesections:
+  heygatepages:
     output: true
 
 # Social
