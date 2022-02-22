@@ -43,6 +43,10 @@ collections:
     output: true
   disposals:
     output: true
+  scsections:
+    output: true
+  heygatesections:
+    output: true
 
 # Social
 social:
