@@ -1,8 +1,10 @@
 ---
-title: transport interchange
+title: Transport Interchange
 layout: pagewithsidebar
 image: img/shoppingcentreaccess.png
 ---
+The initial plans proposed a brand new transport interchange connecting the train station directly with the tube. Like most of the other public benefits of the scheme these plans have now been shelved.
+
 Transport for London's [initial response to the scheme](https://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!eFbtnvDjhOiqL4IpxHg%2f%2fw%3d%3d!%7d%7d%7d){:target="_blank"} outlined a number of significant transport issues that needed to be resolved. One of these was the access route for service vehicles to the new shopping centre, which was originally going to be provided by an underground tunnel from Delancey's neighbouring [Elephant One](/tribeca-square) (formerly Tribeca Square) development. Indeed, Delancey's [viability assessment](https://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf) for Elephant One argued that the ramp for the underground tunnel would cost £12.5m and the development could therefore not viably provide ANY affordable housing. The council accepted the argument and even [signed over land](https://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) to Delancey's shell company (Eadon Ltd), in order to build the underground access tunnel. However, Delancey's planning application now says that it wants to use a different, direct access route off New Kent Road instead. TFL says that this will cause congestion for buses and affect safe passage across the new pedestrian routes.
 
 TFL also raised the issue of the mainline train station. This sits at the centre of the redevelopment and will have to cope with a huge capacity increase, but will have no improvements made to it whatsoever. Another major question surrounds the proposed Bakerloo line extension, announced after the Delancey's development plans were drawn up, and how this will impact on the Elephant's transport links.  The [original masterplan](https://www.scribd.com/doc/198503633/EandC-RegenMk1SLRplans){:target="_blank"} envisaged an 'integrated transport interchange' linking the mainline train station with the Northern and Bakerloo lines, and which was central to the entire masterplan.

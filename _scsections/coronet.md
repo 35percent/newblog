@@ -1,5 +1,5 @@
 ---
-title: the coronet
+title: The Coronet
 layout: pagewithsidebar
 image: img/coronet.jpg
 ---

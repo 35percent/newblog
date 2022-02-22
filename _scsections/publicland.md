@@ -1,5 +1,5 @@
 ---
-title: public land
+title: Public Land
 layout: pagewithsidebar
 image: img/scpublicrealm.jpg
 ---
