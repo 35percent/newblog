@@ -21,4 +21,6 @@ In 2005, Southwark was [slated by Lord Ouseley after an independent review](http
 
 ![](https://www.social-life.co/media/cache/7c/d8/7cd88351c83035bea1af1a55ffe6d81a.jpg)
 
-Delancey's application is just another step down the gentrification road. The shopkeepers and small traders, many from ethnic minority backgrounds, who have worked hard to become an integral part of the community, are deemed to be _'not financially viable ...to survive'_. Southwark Council and the Mayor should be telling Delancey how unacceptable this application is. They should be promoting London's diverse economy - not letting developers like Delancey kill it. 
+In September 2020 the shopping centre closed its doors for the last time. [Research] by Latin Elephant showed that around 40 traders had been left without any relocation space. Read more about the traders [here](https://www.35percent.org/shopping-centre-traders-expelled-by-regeneration/) and [here](https://www.35percent.org/the-elephant-traders-who-face-the-end-without-new-homes/).
+
+![](https://www.35percent.org/img/lescreenshot.png)
