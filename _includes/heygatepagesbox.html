@@ -4,7 +4,7 @@
         {% if heygatepage.image %} <img class="rounded mb-4" src="{{ site.baseurl }}/{{ heygatepage.image }}" alt="{{ heygatepage.title }}"> {% endif %}
     </a>
     <div class="card-block">
-        <h2 class="card-title h4 serif-font"><a href="{{ scsection.url | absolute_url }}">{{ heygatepage.title }}</a></h2>
+        <h2 class="card-title h4 serif-font"><a href="{{ heygatepage.url | absolute_url }}">{{ heygatepage.title }}</a></h2>
         <p class="card-text text-muted">{{ heygatepage.excerpt | strip_html | truncatewords:15 }}</p>
         <div class="metafooter">
             <div class="wrapfooter small d-flex align-items-center">
