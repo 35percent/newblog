@@ -1,6 +1,7 @@
 ---
-title: "First masterplan unveiled"
-date: 2000-07-02 00:00:00 -0700
+title: "The original plans (and promises)"
+image: img/slrplans.jpg
+layout: heygatepages
 ---
 
 ![](http://heygatewashome.org/img/EandCMk1Regen_SLRPlans.jpg)

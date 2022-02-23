@@ -61,3 +61,14 @@ Its [August 2016 financial report](https://35percent.org/img/LLfinancialreport_a
 
 The report also shows that Lendlease had presold 69% of its apartments in phase 3 (West Grove) off plan, netting it $435m (£260m) before construction had barely started.
 
+The question of the Council's deal with Lendlease has been taken up on a BBC Politics show by local activist Peter Tatchell:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Emvo16iBxFE" frameborder="0" allowfullscreen></iframe>
+
+Council leader Peter John has also been grilled by Australian national broadcaster ABC, in an interview about the Heygate redevelopment. The following interview was part of the following [report by ABC](https://www.abc.net.au/news/2016-11-11/homes-for-profit-not-people./8019560), which was broadcast on australian television:
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/3ZrDvxOAV5A" align="center" frameborder="0"
+allowfullscreen></iframe>
+
+Peter John has since stood down as council leader and been [appointed Chairman](https://www.35percent.org/former-council-leader-slides-through-the-revolving-doors/) of the [Terrapin Group](https://www.terrapingroup.co.uk/ourPeople/17), a lobbying firm, whose client list is dominated by property developers including the Council's development partner for the Heygate estate (Lendlease) and shopping centre (Delancey).
