@@ -7,8 +7,7 @@ Despite a policy requirement of 35%, the [Regeneration Agreement](https://southw
 
 However, when the planning application was submitted in Jan 2013, it propsed 25% affordable housing but Lendlease had substituted most of the social rent component for [affordable rent](https://www.theguardian.com/housing-network/2014/feb/03/affordable-housing-meaning-rent-social-housing) of up to 80% market on the grounds of financial viability.
 
-<img src="https://crappistmartin.github.io/images/guardianviabilityassessment.png" align="left" width="300" style="margin:10px">In 2015, after a three year Tribunal battle by Lendlease and Southwark to prevent its disclosure, the 35% campaign [succeeded](https://www.35percent.org/heygate-viability-assessment-finally-revealed/) in obtaining a [copy](/collated-viability-assessments) of the viability assessment submitted by Lendlease to justify the reductions in its affordable 
-housing offer.  
+<img src="https://crappistmartin.github.io/images/guardianviabilityassessment.png" align="left" width="300" style="margin:10px">In 2015, after a [three year Tribunal battle](https://www.southwarknews.co.uk/news/my-conscience-is-clear-council-leader-peter-john-comes-out-fighting-as-heygate-deal-scrutinised/) by Lendlease and Southwark to prevent its disclosure, the 35% campaign [succeeded](https://www.35percent.org/heygate-viability-assessment-finally-revealed/) in obtaining a [copy](Link: [(unredacted) Viability Assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf)) of the viability assessment submitted by Lendlease to justify the reductions in its affordable housing offer.  
 
 The figures [showed](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) how Lendlease had cooked the books to make the development look unviable and thereby negotiate down its affordable housing obligations. 
 
