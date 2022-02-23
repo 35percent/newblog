@@ -1,19 +1,17 @@
 ---
-layout: page
-title: "Elephant Park Greenwash"
-image: img/heygategardens.jpg
+layout: heygatepages
+title: "Lendlease Greenwash"
+image: img/elephantpark_marketing.jpg
 ---
-![](https://crappistmartin.github.io/images/elephantpark_marketing.jpg)
-
 Developer Lendlease has rebranded its 25 acre Heygate redevelopment [_'Elephant Park'_](https://elephantpark.co.uk) and made much of the new 'public' park it will be building. But many still remember that the site used to be home to a sizeable public park called Elephant Park, which enjoyed public open space designation in the council's planning policy[^3] and Metropolitan Open Space protection by form of covenant. 
 
-![](../img/oldelephantpark.jpg)
+![](https://35percent.org/img/oldelephantpark.jpg)
 
 In 2006 the council removed this open space designation on the basis that _"The space principally addresses the needs of Heygate residents and following the demolition of the estate there will no longer be a need for this type of estate-based facility"_[^4]. The park was eventually closed in 2011 amidst [fierce opposition](https://elephantamenity.wordpress.com/2011/02/28/no-more-football-on-the-elephant-park/) from residents. It was subsequently divided in two, with one half leased to the neighbouring [Delancey 'Tribeca Square' development](https://crappistmartin.github.io/tribeca-square) to be used as a compound and the other half to Lendlease for use as a [box park & sales showroom](https://www.standard.co.uk/news/london/popup-shopping-mall-to-make-elephant-and-castle-the-new-shoreditch-9022978.html).  
 
 According to a [2002 audit by planning consultant Michael Parkes,](https://crappistmartin.github.io/images/HeygateCommunityAssetAudit.pdf) the Heygate estate comprised a total 24,195 square metres of public amenity open space:
 
-![](../img/heygateamenity.jpg)
+![](https://35percent.org/img/heygateamenity.jpg)
 
 ## London's largest new 'public' park in 70 Years?
 Lendlease & Southwark claim that the new park will be [central London's largest park in more than 70 years'](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=6). However, according to the detail in Lendlease's [plans](https://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeResultDetail&TheSystemkey=9544643), the new park will not be designated open space and will be just 8,220 square metres in size - representing a net loss of more than two thirds of the Heygate's former open space.
@@ -71,7 +69,7 @@ The original regeneration plans proposed a [Multi-Utility Services Co.](https://
 
 The MUSCo was also [going to supply](https://moderngov.southwark.gov.uk/mgConvert2PDF.aspx?ID=16241) the new Aylesbury estate development and the existing Salisbury and Newington housing estates, making it the [largest biomass-fuelled district heating network](/images/muscoarea.png) in London. The plans were so cutting edge that they were [lauded](https://news.bbc.co.uk/1/hi/england/london/8056859.stm) by Bill Clinton and [hailed](https://www.london-se1.co.uk/news/view/6032) as an example of _'climate positive development'._ However, the plans were eventually dropped by development partner Lendlease because the estimated costs were too high. The scheme had become a _'fairy tale fantasy'_ [according](https://www.london-se1.co.uk/news/view/5052) to the Council's own cabinet member for regeneration.   
 
-![](../img/energy_envrnmtl-services_lge.gif)
+![](https://35percent.org/img/energy_envrnmtl-services_lge.gif)
 *The MUSCo biomass energy network plans*
 
 __The 'Boiler House' Solution__  
